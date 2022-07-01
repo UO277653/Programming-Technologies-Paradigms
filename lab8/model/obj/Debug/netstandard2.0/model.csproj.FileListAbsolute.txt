@@ -1,0 +1,7 @@
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 8\lab8\model\bin\Debug\netstandard2.0\model.deps.json
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 8\lab8\model\bin\Debug\netstandard2.0\model.dll
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 8\lab8\model\bin\Debug\netstandard2.0\model.pdb
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 8\lab8\model\obj\Debug\netstandard2.0\model.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 8\lab8\model\obj\Debug\netstandard2.0\model.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 8\lab8\model\obj\Debug\netstandard2.0\model.dll
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 8\lab8\model\obj\Debug\netstandard2.0\model.pdb

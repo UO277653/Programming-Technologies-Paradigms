@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eeMACJ9X9mszjHohv9FPlnx3d66rWMtkguzU/L8qLK99GSPFAWeV2Ac0NzNrz+lQnq5Kj40XqNsdyIDC5SxXLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\OneDrive\\Escritorio\\UNIVERSIDAD\\AÑO 2\\SEMESTRE 2\\TPP\\Lab\\Session 2\\lab2\\extension.methods\\extension.methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

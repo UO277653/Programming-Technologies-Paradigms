@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "wordCount": {
+      "commandName": "Project",
+      "commandLineArgs": "The"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yUryvfFJR9qnyMjqNPe2fvmeyV6bTB+cMRoigqaQW0pmRlbT2HJBIhbCXeAKT6uHZTxoSqh1MBslzzIFkG+y+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\OneDrive\\Escritorio\\UNIVERSIDAD\\AÑO 2\\SEMESTRE 2\\TPP\\Lab\\Session 8\\lab8\\model\\model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

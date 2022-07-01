@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEWdaZqr0WM6d4FVJYrITIquYC5p4lWyai5ZhvjEUd+8TIMMGiDg/ELiFWt/Y4/4JDW970nSpk/YymypccvRHg==",
+  "success": true,
+  "projectFilePath": "E:\\Exam2_Material\\lab10StelianAdrianStanci\\lab10\\ConcurrentQueue\\ConcurrentQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

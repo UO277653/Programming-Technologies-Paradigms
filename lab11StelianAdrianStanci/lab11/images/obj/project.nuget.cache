@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqCk2zXWhnsjZlYxalUrxoiR9HUvx/VGoAiNDznj1BtctDA0Ib3EC8k48Tz+NAJTPYK5g8bW5w8qeijHnJqQcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\OneDrive\\Escritorio\\UNIVERSIDAD\\AÑO 2\\SEMESTRE 2\\TPP\\Lab\\Session 11\\lab11\\images\\images.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

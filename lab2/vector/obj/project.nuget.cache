@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0CIIUtI/y4QxDbnt+/G8JlqvKgtT+Y/rIxUxY5N0AREj4bip7Gnyt0UNUNm2jsPbryOoi4FXLSg4sIdlcAMHSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\OneDrive\\Escritorio\\UNIVERSIDAD\\AÑO 2\\SEMESTRE 2\\TPP\\Lab\\Session 2\\lab2\\vector\\vector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

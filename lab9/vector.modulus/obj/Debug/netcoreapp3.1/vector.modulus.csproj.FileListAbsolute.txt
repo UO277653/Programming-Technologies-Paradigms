@@ -1,0 +1,22 @@
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 9\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.exe
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 9\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.deps.json
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 9\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.runtimeconfig.json
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 9\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.runtimeconfig.dev.json
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 9\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.dll
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 9\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.pdb
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 9\lab9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 9\lab9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 9\lab9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.dll
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 9\lab9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.pdb
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 9\lab9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.genruntimeconfig.cache
+E:\Exam2_Material\lab9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.csprojAssemblyReference.cache
+E:\Exam2_Material\lab9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.csproj.CoreCompileInputs.cache
+E:\Exam2_Material\lab9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.dll
+E:\Exam2_Material\lab9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.pdb
+E:\Exam2_Material\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.exe
+E:\Exam2_Material\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.deps.json
+E:\Exam2_Material\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.runtimeconfig.json
+E:\Exam2_Material\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.runtimeconfig.dev.json
+E:\Exam2_Material\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.dll
+E:\Exam2_Material\lab9\vector.modulus\bin\Debug\netcoreapp3.1\vector.modulus.pdb
+E:\Exam2_Material\lab9\vector.modulus\obj\Debug\netcoreapp3.1\vector.modulus.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w2PGFxUbeTcyMhlfI9o/xZ1ChEkTVm0BoFWXJkh6r9poS7Ou+HhN1HazyPbOUrOYZyRhrLzO76XueHXwhDyZJg==",
+  "success": true,
+  "projectFilePath": "E:\\Exam1_Material\\lab7\\linkedlist.generic\\linkedlist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\examen6\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\examen6\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

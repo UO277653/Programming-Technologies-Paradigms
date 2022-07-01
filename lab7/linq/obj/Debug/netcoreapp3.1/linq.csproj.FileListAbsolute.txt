@@ -1,0 +1,22 @@
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 7\lab7\linq\bin\Debug\netcoreapp3.1\linq.exe
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 7\lab7\linq\bin\Debug\netcoreapp3.1\linq.deps.json
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 7\lab7\linq\bin\Debug\netcoreapp3.1\linq.runtimeconfig.json
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 7\lab7\linq\bin\Debug\netcoreapp3.1\linq.runtimeconfig.dev.json
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 7\lab7\linq\bin\Debug\netcoreapp3.1\linq.dll
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 7\lab7\linq\bin\Debug\netcoreapp3.1\linq.pdb
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 7\lab7\linq\obj\Debug\netcoreapp3.1\linq.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 7\lab7\linq\obj\Debug\netcoreapp3.1\linq.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 7\lab7\linq\obj\Debug\netcoreapp3.1\linq.dll
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 7\lab7\linq\obj\Debug\netcoreapp3.1\linq.pdb
+C:\Users\adria\OneDrive\Escritorio\UNIVERSIDAD\AÑO 2\SEMESTRE 2\TPP\Lab\Session 7\lab7\linq\obj\Debug\netcoreapp3.1\linq.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Escritorio\lab7\linq\bin\Debug\netcoreapp3.1\linq.exe
+C:\Users\adria\OneDrive\Escritorio\lab7\linq\bin\Debug\netcoreapp3.1\linq.deps.json
+C:\Users\adria\OneDrive\Escritorio\lab7\linq\bin\Debug\netcoreapp3.1\linq.runtimeconfig.json
+C:\Users\adria\OneDrive\Escritorio\lab7\linq\bin\Debug\netcoreapp3.1\linq.runtimeconfig.dev.json
+C:\Users\adria\OneDrive\Escritorio\lab7\linq\bin\Debug\netcoreapp3.1\linq.dll
+C:\Users\adria\OneDrive\Escritorio\lab7\linq\bin\Debug\netcoreapp3.1\linq.pdb
+C:\Users\adria\OneDrive\Escritorio\lab7\linq\obj\Debug\netcoreapp3.1\linq.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Escritorio\lab7\linq\obj\Debug\netcoreapp3.1\linq.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Escritorio\lab7\linq\obj\Debug\netcoreapp3.1\linq.dll
+C:\Users\adria\OneDrive\Escritorio\lab7\linq\obj\Debug\netcoreapp3.1\linq.pdb
+C:\Users\adria\OneDrive\Escritorio\lab7\linq\obj\Debug\netcoreapp3.1\linq.genruntimeconfig.cache

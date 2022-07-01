@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VS9XkR3aokLPxwGXg7U9R1oeqTdFNMtkbXTgYr87d+k1CxGKg3ArL/6anpdoIaWpiM4dPvMCwAaG4J4POIZ98g==",
+  "success": true,
+  "projectFilePath": "E:\\Exam2_Material\\lab9\\context.switching\\context.switching.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

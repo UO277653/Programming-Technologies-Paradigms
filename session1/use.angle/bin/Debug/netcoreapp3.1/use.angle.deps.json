@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "use.angle/1.0.0": {
+        "dependencies": {
+          "angle": "1.0.0"
+        },
+        "runtime": {
+          "use.angle.dll": {}
+        }
+      },
+      "angle/1.0.0": {
+        "runtime": {
+          "angle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "use.angle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "angle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

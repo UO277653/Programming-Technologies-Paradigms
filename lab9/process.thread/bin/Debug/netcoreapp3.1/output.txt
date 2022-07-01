@@ -1,0 +1,3567 @@
+- PID: 0	Name: Idle	Virtual memory: 0,01 MB
+- PID: 4	Name: System	Virtual memory: 19,30 MB
+- PID: 88	Name: Secure System	Virtual memory: 2,15 MB
+- PID: 156	Name: Registry	Virtual memory: 152,42 MB
+- PID: 556	Name: smss	Virtual memory: 2.101.287,64 MB
+- PID: 888	Name: csrss	Virtual memory: 2.101.341,70 MB
+- PID: 988	Name: wininit	Virtual memory: 2.101.315,22 MB
+- PID: 596	Name: services	Virtual memory: 2.101.313,73 MB
+- PID: 912	Name: LsaIso	Virtual memory: 2.101.296,79 MB
+- PID: 644	Name: lsass	Virtual memory: 2.101.374,55 MB
+- PID: 1212	Name: svchost	Virtual memory: 2.101.418,14 MB
+- PID: 1240	Name: WUDFHost	Virtual memory: 2.101.341,11 MB
+- PID: 1268	Name: fontdrvhost	Virtual memory: 2.101.315,42 MB
+- PID: 1376	Name: WUDFHost	Virtual memory: 2.101.365,36 MB
+- PID: 1416	Name: svchost	Virtual memory: 2.101.361,68 MB
+- PID: 1468	Name: svchost	Virtual memory: 2.101.325,09 MB
+- PID: 1716	Name: svchost	Virtual memory: 2.101.310,91 MB
+- PID: 1744	Name: svchost	Virtual memory: 2.101.327,27 MB
+- PID: 1792	Name: svchost	Virtual memory: 2.101.320,00 MB
+- PID: 1852	Name: svchost	Virtual memory: 2.101.746,91 MB
+- PID: 1868	Name: svchost	Virtual memory: 2.101.327,88 MB
+- PID: 1876	Name: IntelCpHDCPSvc	Virtual memory: 2.101.322,29 MB
+- PID: 1896	Name: svchost	Virtual memory: 2.101.351,52 MB
+- PID: 2024	Name: svchost	Virtual memory: 2.101.355,37 MB
+- PID: 628	Name: svchost	Virtual memory: 2.101.335,93 MB
+- PID: 1904	Name: IntelCpHeciSvc	Virtual memory: 2.101.316,52 MB
+- PID: 2064	Name: svchost	Virtual memory: 2.101.341,19 MB
+- PID: 2092	Name: svchost	Virtual memory: 2.101.321,82 MB
+- PID: 2200	Name: svchost	Virtual memory: 2.101.319,20 MB
+- PID: 2276	Name: SysInfoCap	Virtual memory: 4.272,26 MB
+- PID: 2284	Name: AppHelperCap	Virtual memory: 4.212,90 MB
+- PID: 2292	Name: NetworkCap	Virtual memory: 4.180,83 MB
+- PID: 2304	Name: OmenCap	Virtual memory: 4.163,45 MB
+- PID: 2316	Name: TouchpointAnalyticsClientService	Virtual memory: 4.798,55 MB
+- PID: 2440	Name: svchost	Virtual memory: 2.101.345,36 MB
+- PID: 2604	Name: svchost	Virtual memory: 2.101.327,09 MB
+- PID: 2688	Name: svchost	Virtual memory: 2.101.323,09 MB
+- PID: 2748	Name: svchost	Virtual memory: 2.101.490,69 MB
+- PID: 2828	Name: svchost	Virtual memory: 2.101.358,93 MB
+- PID: 2880	Name: svchost	Virtual memory: 2.101.328,79 MB
+- PID: 2888	Name: svchost	Virtual memory: 2.101.328,06 MB
+- PID: 2904	Name: svchost	Virtual memory: 2.101.335,46 MB
+- PID: 2492	Name: svchost	Virtual memory: 2.101.323,02 MB
+- PID: 2100	Name: svchost	Virtual memory: 2.101.347,20 MB
+- PID: 3128	Name: svchost	Virtual memory: 2.101.334,59 MB
+- PID: 3160	Name: svchost	Virtual memory: 2.101.324,84 MB
+- PID: 3192	Name: svchost	Virtual memory: 2.101.356,89 MB
+- PID: 3252	Name: svchost	Virtual memory: 2.101.314,45 MB
+- PID: 3392	Name: svchost	Virtual memory: 2.101.313,86 MB
+- PID: 3460	Name: svchost	Virtual memory: 2.101.393,15 MB
+- PID: 3488	Name: svchost	Virtual memory: 2.101.323,24 MB
+- PID: 3620	Name: svchost	Virtual memory: 2.101.315,51 MB
+- PID: 3788	Name: WmiPrvSE	Virtual memory: 2.101.352,79 MB
+- PID: 3840	Name: svchost	Virtual memory: 2.101.317,45 MB
+- PID: 3876	Name: dasHost	Virtual memory: 2.101.357,69 MB
+- PID: 3940	Name: unsecapp	Virtual memory: 2.101.315,75 MB
+- PID: 4080	Name: WmiPrvSE	Virtual memory: 2.101.322,20 MB
+- PID: 2640	Name: svchost	Virtual memory: 2.101.327,83 MB
+- PID: 4140	Name: NVDisplay.Container	Virtual memory: 2.101.371,16 MB
+- PID: 4216	Name: svchost	Virtual memory: 2.101.316,59 MB
+- PID: 4228	Name: svchost	Virtual memory: 2.105.451,63 MB
+- PID: 4240	Name: svchost	Virtual memory: 2.101.324,33 MB
+- PID: 4364	Name: igfxCUIService	Virtual memory: 2.101.326,13 MB
+- PID: 4384	Name: Memory Compression	Virtual memory: 626,75 MB
+- PID: 4440	Name: svchost	Virtual memory: 2.101.327,77 MB
+- PID: 4448	Name: svchost	Virtual memory: 2.101.378,89 MB
+- PID: 4780	Name: svchost	Virtual memory: 2.101.343,45 MB
+- PID: 4920	Name: svchost	Virtual memory: 2.101.329,92 MB
+- PID: 4928	Name: svchost	Virtual memory: 2.101.315,31 MB
+- PID: 4836	Name: svchost	Virtual memory: 2.101.373,72 MB
+- PID: 5184	Name: svchost	Virtual memory: 2.101.344,29 MB
+- PID: 5300	Name: spoolsv	Virtual memory: 2.101.359,01 MB
+- PID: 5412	Name: svchost	Virtual memory: 2.101.325,63 MB
+- PID: 5592	Name: svchost	Virtual memory: 2.101.426,11 MB
+- PID: 5604	Name: OneApp.IGCC.WinService	Virtual memory: 4.707,69 MB
+- PID: 5612	Name: svchost	Virtual memory: 2.101.493,70 MB
+- PID: 5620	Name: svchost	Virtual memory: 2.101.312,67 MB
+- PID: 5628	Name: svchost	Virtual memory: 2.101.323,62 MB
+- PID: 5636	Name: IntelAudioService	Virtual memory: 4.748,26 MB
+- PID: 5644	Name: ETDService	Virtual memory: 4.167,61 MB
+- PID: 5652	Name: svchost	Virtual memory: 2.101.357,46 MB
+- PID: 5660	Name: RtkBtManServ	Virtual memory: 4.172,50 MB
+- PID: 5676	Name: svchost	Virtual memory: 2.101.328,51 MB
+- PID: 5684	Name: RstMwService	Virtual memory: 2.101.326,19 MB
+- PID: 5692	Name: SECOMN64	Virtual memory: 4.163,94 MB
+- PID: 5700	Name: RtkAudUService64	Virtual memory: 4.214,35 MB
+- PID: 5708	Name: svchost	Virtual memory: 2.101.317,18 MB
+- PID: 5716	Name: OfficeClickToRun	Virtual memory: 2.101.512,19 MB
+- PID: 5728	Name: PanGPS	Virtual memory: 4.244,09 MB
+- PID: 5740	Name: svchost	Virtual memory: 2.101.328,39 MB
+- PID: 5804	Name: OriginWebHelperService	Virtual memory: 99,99 MB
+- PID: 5908	Name: svchost	Virtual memory: 2.101.328,67 MB
+- PID: 6048	Name: svchost	Virtual memory: 2.101.311,95 MB
+- PID: 6112	Name: svchost	Virtual memory: 2.101.337,65 MB
+- PID: 6220	Name: esif_uf	Virtual memory: 2.101.314,40 MB
+- PID: 6392	Name: jhi_service	Virtual memory: 2.101.321,94 MB
+- PID: 6632	Name: svchost	Virtual memory: 2.101.348,08 MB
+- PID: 6084	Name: svchost	Virtual memory: 2.101.316,43 MB
+- PID: 7588	Name: PresentationFontCache	Virtual memory: 4.644,77 MB
+- PID: 5572	Name: svchost	Virtual memory: 2.101.357,36 MB
+- PID: 8296	Name: svchost	Virtual memory: 2.101.319,62 MB
+- PID: 8632	Name: svchost	Virtual memory: 2.101.369,01 MB
+- PID: 8992	Name: svchost	Virtual memory: 2.101.324,91 MB
+- PID: 8704	Name: svchost	Virtual memory: 2.101.325,14 MB
+- PID: 9784	Name: SearchIndexer	Virtual memory: 2.101.633,70 MB
+- PID: 10808	Name: svchost	Virtual memory: 2.101.323,73 MB
+- PID: 11132	Name: dllhost	Virtual memory: 2.101.468,52 MB
+- PID: 11492	Name: SecurityHealthService	Virtual memory: 2.101.375,35 MB
+- PID: 11832	Name: svchost	Virtual memory: 2.101.359,89 MB
+- PID: 12272	Name: svchost	Virtual memory: 2.101.339,18 MB
+- PID: 12896	Name: svchost	Virtual memory: 2.101.338,91 MB
+- PID: 13284	Name: svchost	Virtual memory: 2.101.338,46 MB
+- PID: 14208	Name: svchost	Virtual memory: 2.101.352,63 MB
+- PID: 1828	Name: svchost	Virtual memory: 2.101.335,39 MB
+- PID: 12024	Name: SgrmBroker	Virtual memory: 2.101.559,65 MB
+- PID: 13040	Name: svchost	Virtual memory: 2.101.366,57 MB
+- PID: 14300	Name: svchost	Virtual memory: 2.101.349,44 MB
+- PID: 8388	Name: svchost	Virtual memory: 2.101.335,12 MB
+- PID: 3596	Name: svchost	Virtual memory: 2.101.339,37 MB
+- PID: 11864	Name: svchost	Virtual memory: 2.101.318,17 MB
+- PID: 7564	Name: MoUsoCoreWorker	Virtual memory: 2.101.916,75 MB
+- PID: 9260	Name: MsMpEng	Virtual memory: 2.103.311,16 MB
+- PID: 9192	Name: NisSrv	Virtual memory: 2.101.343,27 MB
+- PID: 6964	Name: svchost	Virtual memory: 2.101.597,34 MB
+- PID: 9584	Name: svchost	Virtual memory: 2.101.313,04 MB
+- PID: 520	Name: csrss	Virtual memory: 2.101.392,61 MB
+- PID: 11280	Name: winlogon	Virtual memory: 2.101.345,67 MB
+- PID: 11548	Name: fontdrvhost	Virtual memory: 2.101.471,00 MB
+- PID: 14440	Name: dwm	Virtual memory: 2.101.778,59 MB
+- PID: 2896	Name: NVDisplay.Container	Virtual memory: 2.101.599,02 MB
+- PID: 15764	Name: svchost	Virtual memory: 2.101.313,20 MB
+- PID: 14720	Name: ETDCtrl	Virtual memory: 4.227,56 MB
+- PID: 16144	Name: sihost	Virtual memory: 2.101.431,60 MB
+- PID: 14992	Name: svchost	Virtual memory: 2.101.407,59 MB
+- PID: 3200	Name: igfxEM	Virtual memory: 2.101.404,80 MB
+- PID: 15500	Name: svchost	Virtual memory: 2.101.450,81 MB
+- PID: 16592	Name: taskhostw	Virtual memory: 2.101.503,32 MB
+- PID: 13672	Name: svchost	Virtual memory: 2.101.319,34 MB
+- PID: 1320	Name: explorer	Virtual memory: 2.102.049,47 MB
+- PID: 13184	Name: svchost	Virtual memory: 2.101.458,75 MB
+- PID: 3016	Name: SettingSyncHost	Virtual memory: 2.101.444,41 MB
+- PID: 15016	Name: StartMenuExperienceHost	Virtual memory: 2.101.745,04 MB
+- PID: 6508	Name: RuntimeBroker	Virtual memory: 2.101.396,10 MB
+- PID: 15468	Name: SearchApp	Virtual memory: 2.135.432,89 MB
+- PID: 13100	Name: RuntimeBroker	Virtual memory: 2.101.437,41 MB
+- PID: 17180	Name: YourPhone	Virtual memory: 4.980,26 MB
+- PID: 15768	Name: ctfmon	Virtual memory: 2.101.395,82 MB
+- PID: 8112	Name: RtkAudUService64	Virtual memory: 4.213,42 MB
+- PID: 4552	Name: LockApp	Virtual memory: 2.101.651,55 MB
+- PID: 8088	Name: RuntimeBroker	Virtual memory: 2.101.432,77 MB
+- PID: 18416	Name: dllhost	Virtual memory: 2.101.492,55 MB
+- PID: 2628	Name: svchost	Virtual memory: 2.101.680,60 MB
+- PID: 15472	Name: RuntimeBroker	Virtual memory: 2.101.362,61 MB
+- PID: 11428	Name: TextInputHost	Virtual memory: 2.101.622,27 MB
+- PID: 9732	Name: RuntimeBroker	Virtual memory: 2.101.384,02 MB
+- PID: 32	Name: SecurityHealthSystray	Virtual memory: 2.101.352,21 MB
+- PID: 13720	Name: RtkAudUService64	Virtual memory: 4.227,98 MB
+- PID: 6544	Name: PanGPA	Virtual memory: 4.276,98 MB
+- PID: 9856	Name: OneDrive	Virtual memory: 430,46 MB
+- PID: 384	Name: IGCCTray	Virtual memory: 4.886,12 MB
+- PID: 14576	Name: Teams	Virtual memory: 2.102.031,64 MB
+- PID: 17292	Name: Cortana	Virtual memory: 4.969,13 MB
+- PID: 2108	Name: RuntimeBroker	Virtual memory: 2.101.382,91 MB
+- PID: 5864	Name: svchost	Virtual memory: 2.101.408,16 MB
+- PID: 13660	Name: Teams	Virtual memory: 2.102.124,59 MB
+- PID: 3984	Name: Teams	Virtual memory: 2.101.526,79 MB
+- PID: 16972	Name: Teams	Virtual memory: 2.101.686,89 MB
+- PID: 4816	Name: Lightshot	Virtual memory: 222,42 MB
+- PID: 15680	Name: hpwuschd2	Virtual memory: 53,25 MB
+- PID: 10512	Name: Teams	Virtual memory: 2.102.517,90 MB
+- PID: 14824	Name: Teams	Virtual memory: 2.101.530,25 MB
+- PID: 13496	Name: IGCC	Virtual memory: 4.911,40 MB
+- PID: 17892	Name: ShellExperienceHost	Virtual memory: 2.101.699,15 MB
+- PID: 14232	Name: ApplicationFrameHost	Virtual memory: 2.101.555,32 MB
+- PID: 8436	Name: RuntimeBroker	Virtual memory: 2.101.401,27 MB
+- PID: 6916	Name: RuntimeBroker	Virtual memory: 2.101.407,49 MB
+- PID: 16700	Name: HxTsr	Virtual memory: 2.101.534,26 MB
+- PID: 4008	Name: WinStore.App	Virtual memory: 5.056,37 MB
+- PID: 16864	Name: RuntimeBroker	Virtual memory: 2.101.370,98 MB
+- PID: 11244	Name: Teams	Virtual memory: 2.101.987,63 MB
+- PID: 7732	Name: Teams	Virtual memory: 2.102.384,22 MB
+- PID: 15664	Name: SystemSettings	Virtual memory: 2.101.711,02 MB
+- PID: 3796	Name: HxCalendarAppImm	Virtual memory: 2.101.771,48 MB
+- PID: 268	Name: RuntimeBroker	Virtual memory: 2.101.378,89 MB
+- PID: 10036	Name: Microsoft.Msn.Weather	Virtual memory: 4.953,77 MB
+- PID: 15236	Name: RuntimeBroker	Virtual memory: 2.101.393,65 MB
+- PID: 3044	Name: Music.UI	Virtual memory: 2.101.799,14 MB
+- PID: 15676	Name: Video.UI	Virtual memory: 2.101.801,97 MB
+- PID: 16004	Name: firefox	Virtual memory: 2.105.013,48 MB
+- PID: 5536	Name: firefox	Virtual memory: 2.102.469,56 MB
+- PID: 13800	Name: firefox	Virtual memory: 2.104.438,53 MB
+- PID: 15068	Name: firefox	Virtual memory: 2.104.269,40 MB
+- PID: 1676	Name: firefox	Virtual memory: 2.103.984,93 MB
+- PID: 11664	Name: firefox	Virtual memory: 2.103.977,86 MB
+- PID: 7456	Name: firefox	Virtual memory: 2.104.229,33 MB
+- PID: 3680	Name: CompPkgSrv	Virtual memory: 2.101.337,33 MB
+- PID: 3932	Name: firefox	Virtual memory: 2.101.654,27 MB
+- PID: 14252	Name: UserOOBEBroker	Virtual memory: 2.101.341,05 MB
+- PID: 9400	Name: firefox	Virtual memory: 2.103.814,50 MB
+- PID: 17648	Name: HxOutlook	Virtual memory: 2.101.884,07 MB
+- PID: 10148	Name: devenv	Virtual memory: 1.019,79 MB
+- PID: 10576	Name: PerfWatson2	Virtual memory: 256,57 MB
+- PID: 4604	Name: Microsoft.ServiceHub.Controller	Virtual memory: 4.747,18 MB
+- PID: 6940	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 1768	Name: ServiceHub.VSDetouredHost	Virtual memory: 493,53 MB
+- PID: 10628	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 16416	Name: ServiceHub.IdentityHost	Virtual memory: 357,04 MB
+- PID: 17428	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 8036	Name: ServiceHub.TestWindowStoreHost	Virtual memory: 4.875,39 MB
+- PID: 18112	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 4588	Name: ServiceHub.SettingsHost	Virtual memory: 504,91 MB
+- PID: 8224	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 11716	Name: ServiceHub.Host.CLR.x86	Virtual memory: 375,55 MB
+- PID: 12636	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 9068	Name: audiodg	Virtual memory: 2.101.367,10 MB
+- PID: 12524	Name: firefox	Virtual memory: 2.103.948,94 MB
+- PID: 3952	Name: firefox	Virtual memory: 2.103.948,06 MB
+- PID: 17580	Name: ServiceHub.ThreadedWaitDialog	Virtual memory: 570,32 MB
+- PID: 14244	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 18056	Name: ServiceHub.RoslynCodeAnalysisService	Virtual memory: 5.043,56 MB
+- PID: 180	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 4952	Name: vstest.console	Virtual memory: 195,72 MB
+- PID: 8984	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 1196	Name: MSBuild	Virtual memory: 210,01 MB
+- PID: 1692	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 1396	Name: MSBuild	Virtual memory: 206,60 MB
+- PID: 5800	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 3832	Name: MSBuild	Virtual memory: 189,66 MB
+- PID: 4428	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 816	Name: MSBuild	Virtual memory: 228,56 MB
+- PID: 2712	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 6720	Name: ServiceHub.Host.CLR.x86	Virtual memory: 404,58 MB
+- PID: 8196	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 3572	Name: ServiceHub.Host.CLR.x86	Virtual memory: 585,39 MB
+- PID: 10352	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 6356	Name: VBCSCompiler	Virtual memory: 19.755,59 MB
+- PID: 15256	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 324	Name: ServiceHub.DataWarehouseHost	Virtual memory: 5.148,05 MB
+- PID: 1780	Name: conhost	Virtual memory: 2.101.346,95 MB
+- PID: 2044	Name: SearchProtocolHost	Virtual memory: 2.101.349,38 MB
+- PID: 9340	Name: svchost	Virtual memory: 2.101.320,90 MB
+- PID: 16876	Name: notepad++	Virtual memory: 133,77 MB
+- PID: 18500	Name: Teams	Virtual memory: 2.101.780,70 MB
+- PID: 17948	Name: firefox	Virtual memory: 2.103.710,95 MB
+- PID: 7156	Name: msvsmon	Virtual memory: 4.692,53 MB
+- PID: 19140	Name: StandardCollector.Service	Virtual memory: 2.101.423,42 MB
+- PID: 3240	Name: VsDebugConsole	Virtual memory: 49,23 MB
+- PID: 2348	Name: conhost	Virtual memory: 2.101.400,50 MB
+- PID: 5116	Name: process.thread	Virtual memory: 2.101.762,03 MB
+- PID: 0	Name: Idle.
+	- ThreadId: 0	Priority: 1	State: Running.
+	- ThreadId: 0	Priority: 1	State: Running.
+	- ThreadId: 0	Priority: 1	State: Running.
+	- ThreadId: 0	Priority: 1	State: Running.
+	- ThreadId: 0	Priority: 1	State: Running.
+	- ThreadId: 0	Priority: 1	State: Running.
+	- ThreadId: 0	Priority: 1	State: Running.
+	- ThreadId: 0	Priority: 1	State: Running.
+	- ThreadId: 0	Priority: 1	State: Running.
+	- ThreadId: 0	Priority: 1	State: Running.
+	- ThreadId: 0	Priority: 1	State: Running.
+	- ThreadId: 0	Priority: 1	State: Running.
+- PID: 4	Name: System.
+	- ThreadId: 12	Priority: 13	State: Wait.
+	- ThreadId: 16	Priority: 13	State: Wait.
+	- ThreadId: 20	Priority: 13	State: Wait.
+	- ThreadId: 24	Priority: 16	State: Wait.
+	- ThreadId: 28	Priority: 12	State: Wait.
+	- ThreadId: 36	Priority: 9	State: Wait.
+	- ThreadId: 40	Priority: 31	State: Wait.
+	- ThreadId: 44	Priority: 31	State: Wait.
+	- ThreadId: 48	Priority: 31	State: Wait.
+	- ThreadId: 52	Priority: 31	State: Wait.
+	- ThreadId: 56	Priority: 31	State: Wait.
+	- ThreadId: 60	Priority: 31	State: Wait.
+	- ThreadId: 64	Priority: 31	State: Wait.
+	- ThreadId: 68	Priority: 31	State: Wait.
+	- ThreadId: 72	Priority: 31	State: Wait.
+	- ThreadId: 76	Priority: 31	State: Wait.
+	- ThreadId: 80	Priority: 31	State: Wait.
+	- ThreadId: 84	Priority: 31	State: Wait.
+	- ThreadId: 96	Priority: 17	State: Wait.
+	- ThreadId: 100	Priority: 23	State: Wait.
+	- ThreadId: 104	Priority: 8	State: Wait.
+	- ThreadId: 116	Priority: 0	State: Wait.
+	- ThreadId: 120	Priority: 0	State: Wait.
+	- ThreadId: 124	Priority: 0	State: Wait.
+	- ThreadId: 128	Priority: 0	State: Wait.
+	- ThreadId: 132	Priority: 0	State: Wait.
+	- ThreadId: 136	Priority: 0	State: Wait.
+	- ThreadId: 140	Priority: 8	State: Wait.
+	- ThreadId: 144	Priority: 9	State: Wait.
+	- ThreadId: 148	Priority: 8	State: Wait.
+	- ThreadId: 152	Priority: 8	State: Wait.
+	- ThreadId: 164	Priority: 16	State: Wait.
+	- ThreadId: 168	Priority: 17	State: Wait.
+	- ThreadId: 184	Priority: 15	State: Wait.
+	- ThreadId: 188	Priority: 15	State: Wait.
+	- ThreadId: 192	Priority: 15	State: Wait.
+	- ThreadId: 196	Priority: 15	State: Wait.
+	- ThreadId: 200	Priority: 15	State: Wait.
+	- ThreadId: 204	Priority: 15	State: Wait.
+	- ThreadId: 208	Priority: 15	State: Wait.
+	- ThreadId: 212	Priority: 15	State: Wait.
+	- ThreadId: 216	Priority: 15	State: Wait.
+	- ThreadId: 220	Priority: 15	State: Wait.
+	- ThreadId: 224	Priority: 15	State: Wait.
+	- ThreadId: 228	Priority: 15	State: Wait.
+	- ThreadId: 232	Priority: 15	State: Wait.
+	- ThreadId: 236	Priority: 15	State: Wait.
+	- ThreadId: 240	Priority: 15	State: Wait.
+	- ThreadId: 244	Priority: 15	State: Wait.
+	- ThreadId: 248	Priority: 15	State: Wait.
+	- ThreadId: 252	Priority: 15	State: Wait.
+	- ThreadId: 256	Priority: 15	State: Wait.
+	- ThreadId: 260	Priority: 15	State: Wait.
+	- ThreadId: 264	Priority: 15	State: Wait.
+	- ThreadId: 276	Priority: 16	State: Wait.
+	- ThreadId: 280	Priority: 16	State: Wait.
+	- ThreadId: 284	Priority: 16	State: Wait.
+	- ThreadId: 288	Priority: 16	State: Wait.
+	- ThreadId: 292	Priority: 8	State: Wait.
+	- ThreadId: 332	Priority: 8	State: Wait.
+	- ThreadId: 336	Priority: 16	State: Wait.
+	- ThreadId: 340	Priority: 8	State: Wait.
+	- ThreadId: 344	Priority: 8	State: Wait.
+	- ThreadId: 348	Priority: 8	State: Wait.
+	- ThreadId: 352	Priority: 12	State: Wait.
+	- ThreadId: 356	Priority: 16	State: Wait.
+	- ThreadId: 412	Priority: 8	State: Wait.
+	- ThreadId: 416	Priority: 8	State: Wait.
+	- ThreadId: 420	Priority: 8	State: Wait.
+	- ThreadId: 424	Priority: 8	State: Wait.
+	- ThreadId: 428	Priority: 8	State: Wait.
+	- ThreadId: 432	Priority: 8	State: Wait.
+	- ThreadId: 436	Priority: 8	State: Wait.
+	- ThreadId: 440	Priority: 8	State: Wait.
+	- ThreadId: 444	Priority: 8	State: Wait.
+	- ThreadId: 448	Priority: 8	State: Wait.
+	- ThreadId: 452	Priority: 8	State: Wait.
+	- ThreadId: 456	Priority: 8	State: Wait.
+	- ThreadId: 460	Priority: 20	State: Wait.
+	- ThreadId: 464	Priority: 8	State: Wait.
+	- ThreadId: 468	Priority: 8	State: Wait.
+	- ThreadId: 472	Priority: 20	State: Wait.
+	- ThreadId: 476	Priority: 8	State: Wait.
+	- ThreadId: 480	Priority: 8	State: Wait.
+	- ThreadId: 484	Priority: 8	State: Wait.
+	- ThreadId: 488	Priority: 8	State: Wait.
+	- ThreadId: 492	Priority: 8	State: Wait.
+	- ThreadId: 496	Priority: 19	State: Wait.
+	- ThreadId: 500	Priority: 18	State: Wait.
+	- ThreadId: 524	Priority: 8	State: Wait.
+	- ThreadId: 528	Priority: 9	State: Wait.
+	- ThreadId: 532	Priority: 8	State: Wait.
+	- ThreadId: 536	Priority: 8	State: Wait.
+	- ThreadId: 544	Priority: 8	State: Wait.
+	- ThreadId: 548	Priority: 8	State: Wait.
+	- ThreadId: 552	Priority: 9	State: Wait.
+	- ThreadId: 572	Priority: 8	State: Wait.
+	- ThreadId: 632	Priority: 7	State: Wait.
+	- ThreadId: 636	Priority: 8	State: Wait.
+	- ThreadId: 648	Priority: 8	State: Wait.
+	- ThreadId: 652	Priority: 10	State: Wait.
+	- ThreadId: 656	Priority: 8	State: Wait.
+	- ThreadId: 660	Priority: 8	State: Wait.
+	- ThreadId: 664	Priority: 30	State: Wait.
+	- ThreadId: 668	Priority: 8	State: Wait.
+	- ThreadId: 672	Priority: 8	State: Wait.
+	- ThreadId: 696	Priority: 8	State: Wait.
+	- ThreadId: 700	Priority: 8	State: Wait.
+	- ThreadId: 704	Priority: 10	State: Wait.
+	- ThreadId: 708	Priority: 8	State: Wait.
+	- ThreadId: 720	Priority: 8	State: Wait.
+	- ThreadId: 724	Priority: 8	State: Wait.
+	- ThreadId: 728	Priority: 8	State: Wait.
+	- ThreadId: 732	Priority: 8	State: Wait.
+	- ThreadId: 736	Priority: 31	State: Wait.
+	- ThreadId: 740	Priority: 10	State: Wait.
+	- ThreadId: 744	Priority: 16	State: Wait.
+	- ThreadId: 748	Priority: 16	State: Wait.
+	- ThreadId: 760	Priority: 8	State: Wait.
+	- ThreadId: 764	Priority: 8	State: Wait.
+	- ThreadId: 772	Priority: 16	State: Wait.
+	- ThreadId: 856	Priority: 16	State: Wait.
+	- ThreadId: 868	Priority: 15	State: Wait.
+	- ThreadId: 884	Priority: 18	State: Wait.
+	- ThreadId: 916	Priority: 8	State: Wait.
+	- ThreadId: 920	Priority: 16	State: Wait.
+	- ThreadId: 924	Priority: 15	State: Wait.
+	- ThreadId: 928	Priority: 14	State: Wait.
+	- ThreadId: 932	Priority: 16	State: Wait.
+	- ThreadId: 936	Priority: 16	State: Wait.
+	- ThreadId: 940	Priority: 15	State: Wait.
+	- ThreadId: 944	Priority: 16	State: Wait.
+	- ThreadId: 948	Priority: 29	State: Wait.
+	- ThreadId: 952	Priority: 16	State: Wait.
+	- ThreadId: 956	Priority: 15	State: Wait.
+	- ThreadId: 580	Priority: 9	State: Wait.
+	- ThreadId: 1360	Priority: 15	State: Wait.
+	- ThreadId: 600	Priority: 8	State: Wait.
+	- ThreadId: 1232	Priority: 14	State: Wait.
+	- ThreadId: 1372	Priority: 14	State: Wait.
+	- ThreadId: 2076	Priority: 8	State: Wait.
+	- ThreadId: 2196	Priority: 15	State: Wait.
+	- ThreadId: 2220	Priority: 12	State: Wait.
+	- ThreadId: 2392	Priority: 27	State: Wait.
+	- ThreadId: 2916	Priority: 11	State: Wait.
+	- ThreadId: 2920	Priority: 8	State: Wait.
+	- ThreadId: 2924	Priority: 8	State: Wait.
+	- ThreadId: 4400	Priority: 8	State: Wait.
+	- ThreadId: 4864	Priority: 15	State: Wait.
+	- ThreadId: 4868	Priority: 15	State: Wait.
+	- ThreadId: 4872	Priority: 15	State: Wait.
+	- ThreadId: 4876	Priority: 15	State: Wait.
+	- ThreadId: 4880	Priority: 15	State: Wait.
+	- ThreadId: 4884	Priority: 15	State: Wait.
+	- ThreadId: 4888	Priority: 15	State: Wait.
+	- ThreadId: 4892	Priority: 15	State: Wait.
+	- ThreadId: 4896	Priority: 15	State: Wait.
+	- ThreadId: 4900	Priority: 15	State: Wait.
+	- ThreadId: 4904	Priority: 15	State: Wait.
+	- ThreadId: 4908	Priority: 15	State: Wait.
+	- ThreadId: 4912	Priority: 8	State: Wait.
+	- ThreadId: 5396	Priority: 8	State: Wait.
+	- ThreadId: 5468	Priority: 15	State: Wait.
+	- ThreadId: 5796	Priority: 8	State: Wait.
+	- ThreadId: 5892	Priority: 8	State: Wait.
+	- ThreadId: 6708	Priority: 8	State: Wait.
+	- ThreadId: 6716	Priority: 8	State: Wait.
+	- ThreadId: 6724	Priority: 8	State: Wait.
+	- ThreadId: 6728	Priority: 8	State: Wait.
+	- ThreadId: 6752	Priority: 8	State: Wait.
+	- ThreadId: 6756	Priority: 8	State: Wait.
+	- ThreadId: 6760	Priority: 8	State: Wait.
+	- ThreadId: 6764	Priority: 8	State: Wait.
+	- ThreadId: 6768	Priority: 8	State: Wait.
+	- ThreadId: 6772	Priority: 8	State: Wait.
+	- ThreadId: 6776	Priority: 8	State: Wait.
+	- ThreadId: 6780	Priority: 8	State: Wait.
+	- ThreadId: 6784	Priority: 8	State: Wait.
+	- ThreadId: 6788	Priority: 8	State: Wait.
+	- ThreadId: 6792	Priority: 8	State: Wait.
+	- ThreadId: 6796	Priority: 8	State: Wait.
+	- ThreadId: 6800	Priority: 8	State: Wait.
+	- ThreadId: 6804	Priority: 8	State: Wait.
+	- ThreadId: 6808	Priority: 8	State: Wait.
+	- ThreadId: 6812	Priority: 8	State: Wait.
+	- ThreadId: 6816	Priority: 8	State: Wait.
+	- ThreadId: 6820	Priority: 8	State: Wait.
+	- ThreadId: 6824	Priority: 8	State: Wait.
+	- ThreadId: 6828	Priority: 8	State: Wait.
+	- ThreadId: 6832	Priority: 8	State: Wait.
+	- ThreadId: 6836	Priority: 8	State: Wait.
+	- ThreadId: 6840	Priority: 8	State: Wait.
+	- ThreadId: 6844	Priority: 8	State: Wait.
+	- ThreadId: 6848	Priority: 8	State: Wait.
+	- ThreadId: 6852	Priority: 8	State: Wait.
+	- ThreadId: 6856	Priority: 8	State: Wait.
+	- ThreadId: 6860	Priority: 8	State: Wait.
+	- ThreadId: 6864	Priority: 8	State: Wait.
+	- ThreadId: 6868	Priority: 8	State: Wait.
+	- ThreadId: 6872	Priority: 8	State: Wait.
+	- ThreadId: 6876	Priority: 8	State: Wait.
+	- ThreadId: 6880	Priority: 8	State: Wait.
+	- ThreadId: 6884	Priority: 8	State: Wait.
+	- ThreadId: 6888	Priority: 8	State: Wait.
+	- ThreadId: 6892	Priority: 8	State: Wait.
+	- ThreadId: 6924	Priority: 8	State: Wait.
+	- ThreadId: 11352	Priority: 15	State: Wait.
+	- ThreadId: 3804	Priority: 15	State: Wait.
+	- ThreadId: 11644	Priority: 8	State: Wait.
+	- ThreadId: 8076	Priority: 14	State: Wait.
+	- ThreadId: 8828	Priority: 8	State: Wait.
+	- ThreadId: 9520	Priority: 15	State: Wait.
+	- ThreadId: 6956	Priority: 15	State: Wait.
+	- ThreadId: 12044	Priority: 15	State: Wait.
+	- ThreadId: 13272	Priority: 8	State: Wait.
+	- ThreadId: 5264	Priority: 8	State: Wait.
+	- ThreadId: 7948	Priority: 8	State: Wait.
+	- ThreadId: 16160	Priority: 8	State: Wait.
+	- ThreadId: 8912	Priority: 8	State: Wait.
+	- ThreadId: 5488	Priority: 8	State: Wait.
+	- ThreadId: 14668	Priority: 8	State: Wait.
+	- ThreadId: 9248	Priority: 8	State: Wait.
+	- ThreadId: 3340	Priority: 8	State: Wait.
+	- ThreadId: 10488	Priority: 8	State: Wait.
+	- ThreadId: 14192	Priority: 8	State: Wait.
+	- ThreadId: 2816	Priority: 8	State: Wait.
+	- ThreadId: 1680	Priority: 8	State: Wait.
+	- ThreadId: 7508	Priority: 31	State: Wait.
+	- ThreadId: 6332	Priority: 31	State: Wait.
+	- ThreadId: 9540	Priority: 31	State: Wait.
+	- ThreadId: 9736	Priority: 31	State: Wait.
+	- ThreadId: 7920	Priority: 31	State: Wait.
+	- ThreadId: 10476	Priority: 31	State: Wait.
+	- ThreadId: 8396	Priority: 31	State: Wait.
+	- ThreadId: 10136	Priority: 31	State: Wait.
+	- ThreadId: 10704	Priority: 31	State: Wait.
+	- ThreadId: 8980	Priority: 31	State: Wait.
+	- ThreadId: 13796	Priority: 31	State: Wait.
+	- ThreadId: 5848	Priority: 31	State: Wait.
+	- ThreadId: 11028	Priority: 31	State: Wait.
+	- ThreadId: 7712	Priority: 31	State: Wait.
+	- ThreadId: 10984	Priority: 31	State: Wait.
+	- ThreadId: 14604	Priority: 31	State: Wait.
+	- ThreadId: 1012	Priority: 31	State: Wait.
+	- ThreadId: 6492	Priority: 31	State: Wait.
+	- ThreadId: 11024	Priority: 12	State: Wait.
+	- ThreadId: 1104	Priority: 15	State: Wait.
+	- ThreadId: 14100	Priority: 8	State: Wait.
+	- ThreadId: 3536	Priority: 8	State: Wait.
+	- ThreadId: 4060	Priority: 15	State: Wait.
+	- ThreadId: 16924	Priority: 9	State: Wait.
+	- ThreadId: 1656	Priority: 9	State: Wait.
+	- ThreadId: 1892	Priority: 9	State: Wait.
+	- ThreadId: 7160	Priority: 9	State: Wait.
+	- ThreadId: 17204	Priority: 9	State: Wait.
+	- ThreadId: 2596	Priority: 13	State: Wait.
+	- ThreadId: 15916	Priority: 9	State: Wait.
+	- ThreadId: 7940	Priority: 12	State: Wait.
+	- ThreadId: 5000	Priority: 16	State: Wait.
+	- ThreadId: 12500	Priority: 9	State: Wait.
+	- ThreadId: 9800	Priority: 13	State: Wait.
+	- ThreadId: 13524	Priority: 9	State: Wait.
+	- ThreadId: 9888	Priority: 12	State: Wait.
+	- ThreadId: 15932	Priority: 15	State: Wait.
+	- ThreadId: 18296	Priority: 13	State: Wait.
+	- ThreadId: 9312	Priority: 8	State: Wait.
+	- ThreadId: 8680	Priority: 9	State: Wait.
+	- ThreadId: 11200	Priority: 9	State: Wait.
+	- ThreadId: 8312	Priority: 9	State: Wait.
+	- ThreadId: 8048	Priority: 8	State: Wait.
+	- ThreadId: 9608	Priority: 9	State: Wait.
+	- ThreadId: 540	Priority: 8	State: Wait.
+	- ThreadId: 9316	Priority: 9	State: Wait.
+	- ThreadId: 16800	Priority: 8	State: Wait.
+	- ThreadId: 11100	Priority: 9	State: Wait.
+	- ThreadId: 13856	Priority: 8	State: Wait.
+	- ThreadId: 7356	Priority: 13	State: Wait.
+	- ThreadId: 12864	Priority: 9	State: Wait.
+	- ThreadId: 12680	Priority: 8	State: Wait.
+	- ThreadId: 4328	Priority: 8	State: Wait.
+	- ThreadId: 10456	Priority: 8	State: Wait.
+	- ThreadId: 10092	Priority: 9	State: Wait.
+	- ThreadId: 9728	Priority: 9	State: Wait.
+	- ThreadId: 11640	Priority: 10	State: Wait.
+	- ThreadId: 6456	Priority: 9	State: Wait.
+	- ThreadId: 16388	Priority: 8	State: Wait.
+	- ThreadId: 15052	Priority: 8	State: Wait.
+	- ThreadId: 10672	Priority: 12	State: Wait.
+	- ThreadId: 15520	Priority: 9	State: Wait.
+	- ThreadId: 11744	Priority: 15	State: Wait.
+	- ThreadId: 9440	Priority: 31	State: Wait.
+	- ThreadId: 16604	Priority: 8	State: Wait.
+	- ThreadId: 16348	Priority: 8	State: Wait.
+	- ThreadId: 7608	Priority: 8	State: Wait.
+	- ThreadId: 11588	Priority: 8	State: Wait.
+	- ThreadId: 9808	Priority: 8	State: Wait.
+	- ThreadId: 388	Priority: 8	State: Wait.
+	- ThreadId: 18596	Priority: 15	State: Wait.
+	- ThreadId: 18600	Priority: 15	State: Wait.
+	- ThreadId: 18604	Priority: 15	State: Wait.
+	- ThreadId: 18608	Priority: 15	State: Wait.
+	- ThreadId: 18612	Priority: 15	State: Wait.
+	- ThreadId: 18616	Priority: 15	State: Wait.
+	- ThreadId: 18620	Priority: 15	State: Wait.
+	- ThreadId: 18624	Priority: 15	State: Wait.
+	- ThreadId: 18628	Priority: 15	State: Wait.
+	- ThreadId: 18632	Priority: 23	State: Wait.
+	- ThreadId: 12100	Priority: 15	State: Wait.
+	- ThreadId: 8364	Priority: 15	State: Wait.
+	- ThreadId: 7084	Priority: 15	State: Wait.
+	- ThreadId: 12712	Priority: 15	State: Wait.
+	- ThreadId: 16360	Priority: 15	State: Wait.
+	- ThreadId: 13848	Priority: 15	State: Wait.
+	- ThreadId: 3204	Priority: 15	State: Wait.
+- PID: 88	Name: Secure System.
+- PID: 156	Name: Registry.
+	- ThreadId: 160	Priority: 8	State: Wait.
+	- ThreadId: 616	Priority: 9	State: Wait.
+	- ThreadId: 620	Priority: 8	State: Wait.
+	- ThreadId: 624	Priority: 8	State: Wait.
+- PID: 556	Name: smss.
+	- ThreadId: 560	Priority: 12	State: Wait.
+	- ThreadId: 13376	Priority: 11	State: Wait.
+- PID: 888	Name: csrss.
+	- ThreadId: 904	Priority: 14	State: Wait.
+	- ThreadId: 960	Priority: 15	State: Wait.
+	- ThreadId: 968	Priority: 3	State: Wait.
+	- ThreadId: 972	Priority: 14	State: Wait.
+	- ThreadId: 976	Priority: 14	State: Wait.
+	- ThreadId: 508	Priority: 14	State: Wait.
+	- ThreadId: 588	Priority: 16	State: Wait.
+	- ThreadId: 612	Priority: 16	State: Wait.
+	- ThreadId: 1324	Priority: 14	State: Wait.
+	- ThreadId: 1928	Priority: 14	State: Wait.
+	- ThreadId: 2300	Priority: 14	State: Wait.
+	- ThreadId: 2448	Priority: 14	State: Wait.
+- PID: 988	Name: wininit.
+	- ThreadId: 992	Priority: 15	State: Wait.
+- PID: 596	Name: services.
+	- ThreadId: 1160	Priority: 9	State: Wait.
+	- ThreadId: 1368	Priority: 9	State: Wait.
+	- ThreadId: 752	Priority: 11	State: Wait.
+	- ThreadId: 15012	Priority: 9	State: Wait.
+	- ThreadId: 6400	Priority: 9	State: Wait.
+	- ThreadId: 11044	Priority: 9	State: Wait.
+- PID: 912	Name: LsaIso.
+	- ThreadId: 8	Priority: 9	State: Wait.
+- PID: 644	Name: lsass.
+	- ThreadId: 1032	Priority: 10	State: Wait.
+	- ThreadId: 1044	Priority: 9	State: Wait.
+	- ThreadId: 1048	Priority: 9	State: Wait.
+	- ThreadId: 1128	Priority: 10	State: Wait.
+	- ThreadId: 7012	Priority: 9	State: Wait.
+	- ThreadId: 1344	Priority: 9	State: Wait.
+	- ThreadId: 11836	Priority: 9	State: Wait.
+	- ThreadId: 7708	Priority: 9	State: Wait.
+	- ThreadId: 18516	Priority: 9	State: Wait.
+- PID: 1212	Name: svchost.
+	- ThreadId: 1216	Priority: 8	State: Wait.
+	- ThreadId: 1412	Priority: 8	State: Wait.
+	- ThreadId: 1596	Priority: 8	State: Wait.
+	- ThreadId: 1664	Priority: 9	State: Wait.
+	- ThreadId: 4112	Priority: 8	State: Wait.
+	- ThreadId: 10208	Priority: 8	State: Wait.
+	- ThreadId: 10028	Priority: 8	State: Wait.
+	- ThreadId: 14392	Priority: 8	State: Wait.
+	- ThreadId: 17728	Priority: 8	State: Wait.
+	- ThreadId: 17708	Priority: 9	State: Wait.
+	- ThreadId: 13244	Priority: 8	State: Wait.
+	- ThreadId: 7224	Priority: 8	State: Wait.
+	- ThreadId: 12028	Priority: 8	State: Wait.
+- PID: 1240	Name: WUDFHost.
+	- ThreadId: 1244	Priority: 9	State: Wait.
+	- ThreadId: 1328	Priority: 9	State: Wait.
+	- ThreadId: 1332	Priority: 9	State: Wait.
+	- ThreadId: 1340	Priority: 9	State: Wait.
+	- ThreadId: 1504	Priority: 8	State: Wait.
+	- ThreadId: 3108	Priority: 8	State: Wait.
+	- ThreadId: 3996	Priority: 8	State: Wait.
+	- ThreadId: 5148	Priority: 8	State: Wait.
+	- ThreadId: 7200	Priority: 8	State: Wait.
+	- ThreadId: 7204	Priority: 8	State: Wait.
+	- ThreadId: 7208	Priority: 8	State: Wait.
+	- ThreadId: 5024	Priority: 8	State: Wait.
+	- ThreadId: 14156	Priority: 8	State: Wait.
+	- ThreadId: 14188	Priority: 8	State: Wait.
+	- ThreadId: 14184	Priority: 8	State: Wait.
+	- ThreadId: 3004	Priority: 8	State: Wait.
+	- ThreadId: 13456	Priority: 8	State: Wait.
+	- ThreadId: 5788	Priority: 8	State: Wait.
+	- ThreadId: 3720	Priority: 8	State: Wait.
+	- ThreadId: 12188	Priority: 8	State: Wait.
+	- ThreadId: 9348	Priority: 8	State: Wait.
+	- ThreadId: 8496	Priority: 8	State: Wait.
+	- ThreadId: 272	Priority: 8	State: Wait.
+	- ThreadId: 13588	Priority: 8	State: Wait.
+	- ThreadId: 4820	Priority: 8	State: Wait.
+	- ThreadId: 13380	Priority: 8	State: Wait.
+	- ThreadId: 10016	Priority: 8	State: Wait.
+	- ThreadId: 8204	Priority: 8	State: Wait.
+	- ThreadId: 3868	Priority: 8	State: Wait.
+	- ThreadId: 14880	Priority: 8	State: Wait.
+	- ThreadId: 11072	Priority: 8	State: Wait.
+	- ThreadId: 6656	Priority: 8	State: Wait.
+	- ThreadId: 4524	Priority: 8	State: Wait.
+	- ThreadId: 16440	Priority: 8	State: Wait.
+	- ThreadId: 14260	Priority: 8	State: Wait.
+- PID: 1268	Name: fontdrvhost.
+	- ThreadId: 1272	Priority: 8	State: Wait.
+	- ThreadId: 1292	Priority: 8	State: Wait.
+	- ThreadId: 1296	Priority: 8	State: Wait.
+	- ThreadId: 1304	Priority: 8	State: Wait.
+	- ThreadId: 1308	Priority: 8	State: Wait.
+- PID: 1376	Name: WUDFHost.
+	- ThreadId: 1380	Priority: 13	State: Wait.
+	- ThreadId: 1400	Priority: 14	State: Wait.
+	- ThreadId: 1404	Priority: 14	State: Wait.
+	- ThreadId: 1408	Priority: 14	State: Wait.
+	- ThreadId: 1548	Priority: 15	State: Wait.
+	- ThreadId: 6624	Priority: 14	State: Wait.
+	- ThreadId: 6672	Priority: 14	State: Wait.
+	- ThreadId: 6676	Priority: 14	State: Wait.
+	- ThreadId: 7420	Priority: 14	State: Wait.
+	- ThreadId: 11180	Priority: 14	State: Wait.
+	- ThreadId: 13964	Priority: 13	State: Wait.
+	- ThreadId: 18440	Priority: 13	State: Wait.
+- PID: 1416	Name: svchost.
+	- ThreadId: 1420	Priority: 8	State: Wait.
+	- ThreadId: 1444	Priority: 9	State: Wait.
+	- ThreadId: 1448	Priority: 10	State: Wait.
+	- ThreadId: 3764	Priority: 9	State: Wait.
+	- ThreadId: 13476	Priority: 9	State: Wait.
+	- ThreadId: 11064	Priority: 8	State: Wait.
+	- ThreadId: 3140	Priority: 9	State: Wait.
+	- ThreadId: 18772	Priority: 11	State: Wait.
+	- ThreadId: 17828	Priority: 8	State: Wait.
+	- ThreadId: 15396	Priority: 8	State: Wait.
+	- ThreadId: 2488	Priority: 8	State: Wait.
+- PID: 1468	Name: svchost.
+	- ThreadId: 1472	Priority: 8	State: Wait.
+	- ThreadId: 1520	Priority: 8	State: Wait.
+	- ThreadId: 19168	Priority: 8	State: Wait.
+	- ThreadId: 3636	Priority: 10	State: Wait.
+	- ThreadId: 3924	Priority: 8	State: Wait.
+- PID: 1716	Name: svchost.
+	- ThreadId: 1720	Priority: 8	State: Wait.
+- PID: 1744	Name: svchost.
+	- ThreadId: 1748	Priority: 8	State: Wait.
+	- ThreadId: 5180	Priority: 8	State: Wait.
+	- ThreadId: 5204	Priority: 8	State: Wait.
+	- ThreadId: 12420	Priority: 8	State: Wait.
+- PID: 1792	Name: svchost.
+	- ThreadId: 1796	Priority: 8	State: Wait.
+	- ThreadId: 2228	Priority: 8	State: Wait.
+- PID: 1852	Name: svchost.
+	- ThreadId: 1856	Priority: 8	State: Wait.
+	- ThreadId: 1992	Priority: 9	State: Wait.
+- PID: 1868	Name: svchost.
+	- ThreadId: 1872	Priority: 8	State: Wait.
+	- ThreadId: 13936	Priority: 8	State: Wait.
+- PID: 1876	Name: IntelCpHDCPSvc.
+	- ThreadId: 1880	Priority: 8	State: Wait.
+	- ThreadId: 876	Priority: 8	State: Wait.
+	- ThreadId: 1228	Priority: 8	State: Wait.
+- PID: 1896	Name: svchost.
+	- ThreadId: 1900	Priority: 8	State: Wait.
+	- ThreadId: 2004	Priority: 8	State: Wait.
+	- ThreadId: 2000	Priority: 8	State: Wait.
+	- ThreadId: 2224	Priority: 8	State: Wait.
+	- ThreadId: 5344	Priority: 9	State: Wait.
+	- ThreadId: 12308	Priority: 9	State: Wait.
+	- ThreadId: 10884	Priority: 8	State: Wait.
+- PID: 2024	Name: svchost.
+	- ThreadId: 2028	Priority: 8	State: Wait.
+	- ThreadId: 2072	Priority: 8	State: Wait.
+	- ThreadId: 11628	Priority: 8	State: Wait.
+	- ThreadId: 4288	Priority: 8	State: Wait.
+	- ThreadId: 3776	Priority: 8	State: Wait.
+	- ThreadId: 3268	Priority: 8	State: Wait.
+	- ThreadId: 12412	Priority: 8	State: Wait.
+- PID: 628	Name: svchost.
+	- ThreadId: 1156	Priority: 8	State: Wait.
+	- ThreadId: 1740	Priority: 8	State: Wait.
+	- ThreadId: 2148	Priority: 8	State: Wait.
+	- ThreadId: 18004	Priority: 8	State: Wait.
+	- ThreadId: 19432	Priority: 8	State: Wait.
+	- ThreadId: 11472	Priority: 8	State: Wait.
+	- ThreadId: 5460	Priority: 8	State: Wait.
+- PID: 1904	Name: IntelCpHeciSvc.
+	- ThreadId: 1996	Priority: 8	State: Wait.
+	- ThreadId: 2136	Priority: 8	State: Wait.
+	- ThreadId: 2248	Priority: 8	State: Wait.
+- PID: 2064	Name: svchost.
+	- ThreadId: 2068	Priority: 8	State: Wait.
+	- ThreadId: 2504	Priority: 8	State: Wait.
+- PID: 2092	Name: svchost.
+	- ThreadId: 2096	Priority: 8	State: Wait.
+	- ThreadId: 9972	Priority: 8	State: Wait.
+	- ThreadId: 16680	Priority: 8	State: Wait.
+	- ThreadId: 15972	Priority: 8	State: Wait.
+- PID: 2200	Name: svchost.
+	- ThreadId: 2204	Priority: 8	State: Wait.
+	- ThreadId: 2232	Priority: 9	State: Wait.
+	- ThreadId: 2412	Priority: 9	State: Wait.
+	- ThreadId: 19196	Priority: 9	State: Wait.
+	- ThreadId: 10620	Priority: 8	State: Wait.
+	- ThreadId: 18544	Priority: 8	State: Wait.
+	- ThreadId: 12156	Priority: 8	State: Wait.
+- PID: 2276	Name: SysInfoCap.
+	- ThreadId: 2280	Priority: 9	State: Wait.
+	- ThreadId: 2600	Priority: 9	State: Wait.
+	- ThreadId: 2732	Priority: 8	State: Wait.
+	- ThreadId: 3896	Priority: 8	State: Wait.
+	- ThreadId: 3900	Priority: 9	State: Wait.
+	- ThreadId: 3904	Priority: 9	State: Wait.
+	- ThreadId: 3908	Priority: 9	State: Wait.
+	- ThreadId: 3912	Priority: 9	State: Wait.
+	- ThreadId: 3916	Priority: 9	State: Wait.
+	- ThreadId: 8104	Priority: 8	State: Wait.
+	- ThreadId: 8108	Priority: 8	State: Wait.
+	- ThreadId: 14348	Priority: 9	State: Wait.
+	- ThreadId: 1812	Priority: 9	State: Wait.
+	- ThreadId: 12052	Priority: 9	State: Wait.
+	- ThreadId: 10564	Priority: 9	State: Wait.
+	- ThreadId: 3424	Priority: 9	State: Wait.
+	- ThreadId: 13732	Priority: 9	State: Wait.
+	- ThreadId: 14436	Priority: 9	State: Wait.
+	- ThreadId: 10836	Priority: 8	State: Wait.
+	- ThreadId: 880	Priority: 8	State: Wait.
+	- ThreadId: 10748	Priority: 8	State: Wait.
+	- ThreadId: 15700	Priority: 8	State: Wait.
+	- ThreadId: 1120	Priority: 8	State: Wait.
+	- ThreadId: 12304	Priority: 9	State: Wait.
+	- ThreadId: 10848	Priority: 9	State: Wait.
+	- ThreadId: 13500	Priority: 8	State: Wait.
+	- ThreadId: 15388	Priority: 9	State: Wait.
+	- ThreadId: 13928	Priority: 8	State: Wait.
+	- ThreadId: 7376	Priority: 9	State: Wait.
+	- ThreadId: 3552	Priority: 9	State: Wait.
+	- ThreadId: 4848	Priority: 9	State: Wait.
+	- ThreadId: 8504	Priority: 8	State: Wait.
+	- ThreadId: 9040	Priority: 8	State: Wait.
+	- ThreadId: 2580	Priority: 8	State: Wait.
+	- ThreadId: 16956	Priority: 9	State: Wait.
+	- ThreadId: 5820	Priority: 8	State: Wait.
+	- ThreadId: 4092	Priority: 9	State: Wait.
+	- ThreadId: 8284	Priority: 9	State: Wait.
+	- ThreadId: 4832	Priority: 9	State: Wait.
+	- ThreadId: 16424	Priority: 8	State: Wait.
+	- ThreadId: 1688	Priority: 8	State: Wait.
+	- ThreadId: 12484	Priority: 9	State: Wait.
+	- ThreadId: 5812	Priority: 9	State: Wait.
+	- ThreadId: 6536	Priority: 8	State: Wait.
+	- ThreadId: 12104	Priority: 8	State: Wait.
+	- ThreadId: 14656	Priority: 8	State: Wait.
+	- ThreadId: 16276	Priority: 8	State: Wait.
+	- ThreadId: 3976	Priority: 8	State: Wait.
+	- ThreadId: 15272	Priority: 8	State: Wait.
+	- ThreadId: 9420	Priority: 8	State: Wait.
+	- ThreadId: 12560	Priority: 8	State: Wait.
+	- ThreadId: 12436	Priority: 8	State: Wait.
+	- ThreadId: 10256	Priority: 8	State: Wait.
+- PID: 2284	Name: AppHelperCap.
+	- ThreadId: 2288	Priority: 8	State: Wait.
+	- ThreadId: 2616	Priority: 9	State: Wait.
+	- ThreadId: 4772	Priority: 9	State: Wait.
+- PID: 2292	Name: NetworkCap.
+	- ThreadId: 2296	Priority: 9	State: Wait.
+	- ThreadId: 2636	Priority: 9	State: Wait.
+	- ThreadId: 2736	Priority: 8	State: Wait.
+- PID: 2304	Name: OmenCap.
+	- ThreadId: 2308	Priority: 8	State: Wait.
+	- ThreadId: 2496	Priority: 9	State: Wait.
+- PID: 2316	Name: TouchpointAnalyticsClientService.
+	- ThreadId: 2320	Priority: 8	State: Wait.
+	- ThreadId: 3008	Priority: 9	State: Wait.
+	- ThreadId: 3032	Priority: 10	State: Wait.
+	- ThreadId: 4116	Priority: 9	State: Wait.
+	- ThreadId: 4128	Priority: 8	State: Wait.
+	- ThreadId: 4136	Priority: 10	State: Wait.
+	- ThreadId: 4608	Priority: 8	State: Wait.
+	- ThreadId: 5036	Priority: 8	State: Wait.
+	- ThreadId: 6260	Priority: 8	State: Wait.
+	- ThreadId: 7464	Priority: 8	State: Wait.
+	- ThreadId: 7888	Priority: 8	State: Wait.
+	- ThreadId: 7312	Priority: 8	State: Wait.
+	- ThreadId: 11784	Priority: 9	State: Wait.
+- PID: 2440	Name: svchost.
+	- ThreadId: 2444	Priority: 8	State: Wait.
+	- ThreadId: 2564	Priority: 8	State: Wait.
+	- ThreadId: 2852	Priority: 8	State: Wait.
+	- ThreadId: 4200	Priority: 8	State: Wait.
+	- ThreadId: 9304	Priority: 8	State: Wait.
+- PID: 2604	Name: svchost.
+	- ThreadId: 2608	Priority: 8	State: Wait.
+	- ThreadId: 2700	Priority: 8	State: Wait.
+	- ThreadId: 2704	Priority: 8	State: Wait.
+	- ThreadId: 2708	Priority: 8	State: Wait.
+	- ThreadId: 5200	Priority: 8	State: Wait.
+	- ThreadId: 16684	Priority: 8	State: Wait.
+	- ThreadId: 17432	Priority: 8	State: Wait.
+	- ThreadId: 17896	Priority: 8	State: Wait.
+	- ThreadId: 18712	Priority: 8	State: Wait.
+	- ThreadId: 16716	Priority: 8	State: Wait.
+- PID: 2688	Name: svchost.
+	- ThreadId: 2692	Priority: 8	State: Wait.
+	- ThreadId: 2728	Priority: 15	State: Wait.
+- PID: 2748	Name: svchost.
+	- ThreadId: 2752	Priority: 8	State: Wait.
+	- ThreadId: 13984	Priority: 9	State: Wait.
+	- ThreadId: 3668	Priority: 10	State: Wait.
+	- ThreadId: 5940	Priority: 9	State: Wait.
+	- ThreadId: 2960	Priority: 8	State: Wait.
+	- ThreadId: 5060	Priority: 8	State: Wait.
+- PID: 2828	Name: svchost.
+	- ThreadId: 2832	Priority: 8	State: Wait.
+	- ThreadId: 5196	Priority: 8	State: Wait.
+	- ThreadId: 7952	Priority: 8	State: Wait.
+	- ThreadId: 14612	Priority: 8	State: Wait.
+	- ThreadId: 3308	Priority: 9	State: Wait.
+	- ThreadId: 13276	Priority: 8	State: Wait.
+- PID: 2880	Name: svchost.
+	- ThreadId: 2884	Priority: 8	State: Wait.
+	- ThreadId: 3376	Priority: 9	State: Wait.
+	- ThreadId: 3388	Priority: 8	State: Wait.
+	- ThreadId: 3456	Priority: 8	State: Wait.
+	- ThreadId: 12828	Priority: 9	State: Wait.
+- PID: 2888	Name: svchost.
+	- ThreadId: 2892	Priority: 8	State: Wait.
+	- ThreadId: 2724	Priority: 8	State: Wait.
+- PID: 2904	Name: svchost.
+	- ThreadId: 2908	Priority: 8	State: Wait.
+	- ThreadId: 18828	Priority: 8	State: Wait.
+	- ThreadId: 19072	Priority: 8	State: Wait.
+	- ThreadId: 18836	Priority: 8	State: Wait.
+	- ThreadId: 8588	Priority: 8	State: Wait.
+- PID: 2492	Name: svchost.
+	- ThreadId: 2612	Priority: 9	State: Wait.
+	- ThreadId: 4960	Priority: 8	State: Wait.
+	- ThreadId: 1552	Priority: 8	State: Wait.
+	- ThreadId: 7616	Priority: 8	State: Wait.
+- PID: 2100	Name: svchost.
+	- ThreadId: 2768	Priority: 8	State: Wait.
+	- ThreadId: 16120	Priority: 9	State: Wait.
+	- ThreadId: 16136	Priority: 9	State: Wait.
+	- ThreadId: 9252	Priority: 8	State: Wait.
+	- ThreadId: 7788	Priority: 8	State: Wait.
+	- ThreadId: 1736	Priority: 8	State: Wait.
+- PID: 3128	Name: svchost.
+	- ThreadId: 3132	Priority: 8	State: Wait.
+	- ThreadId: 3212	Priority: 9	State: Wait.
+	- ThreadId: 3228	Priority: 8	State: Wait.
+	- ThreadId: 3232	Priority: 9	State: Wait.
+	- ThreadId: 3236	Priority: 8	State: Wait.
+	- ThreadId: 5668	Priority: 10	State: Wait.
+	- ThreadId: 11312	Priority: 10	State: Wait.
+	- ThreadId: 13296	Priority: 8	State: Wait.
+	- ThreadId: 19416	Priority: 8	State: Wait.
+	- ThreadId: 1288	Priority: 8	State: Wait.
+	- ThreadId: 5028	Priority: 8	State: Wait.
+- PID: 3160	Name: svchost.
+	- ThreadId: 3164	Priority: 8	State: Wait.
+	- ThreadId: 3312	Priority: 8	State: Wait.
+	- ThreadId: 3612	Priority: 8	State: Wait.
+	- ThreadId: 3616	Priority: 8	State: Wait.
+- PID: 3192	Name: svchost.
+	- ThreadId: 3196	Priority: 8	State: Wait.
+	- ThreadId: 3224	Priority: 10	State: Wait.
+	- ThreadId: 3664	Priority: 8	State: Wait.
+	- ThreadId: 3732	Priority: 8	State: Wait.
+	- ThreadId: 3736	Priority: 8	State: Wait.
+	- ThreadId: 2848	Priority: 8	State: Wait.
+	- ThreadId: 3512	Priority: 9	State: Wait.
+	- ThreadId: 2804	Priority: 9	State: Wait.
+	- ThreadId: 17276	Priority: 9	State: Wait.
+	- ThreadId: 12356	Priority: 9	State: Wait.
+	- ThreadId: 2400	Priority: 8	State: Wait.
+	- ThreadId: 14164	Priority: 8	State: Wait.
+	- ThreadId: 16392	Priority: 9	State: Wait.
+	- ThreadId: 14324	Priority: 8	State: Wait.
+- PID: 3252	Name: svchost.
+	- ThreadId: 3256	Priority: 8	State: Wait.
+- PID: 3392	Name: svchost.
+	- ThreadId: 3396	Priority: 8	State: Wait.
+- PID: 3460	Name: svchost.
+	- ThreadId: 3464	Priority: 8	State: Wait.
+	- ThreadId: 3560	Priority: 8	State: Wait.
+	- ThreadId: 3608	Priority: 8	State: Wait.
+	- ThreadId: 5408	Priority: 9	State: Wait.
+	- ThreadId: 5456	Priority: 8	State: Wait.
+	- ThreadId: 5472	Priority: 8	State: Wait.
+	- ThreadId: 5476	Priority: 8	State: Wait.
+	- ThreadId: 6572	Priority: 8	State: Wait.
+	- ThreadId: 6592	Priority: 8	State: Wait.
+	- ThreadId: 6596	Priority: 8	State: Wait.
+	- ThreadId: 10108	Priority: 8	State: Wait.
+	- ThreadId: 18748	Priority: 9	State: Wait.
+	- ThreadId: 18488	Priority: 8	State: Wait.
+- PID: 3488	Name: svchost.
+	- ThreadId: 3492	Priority: 8	State: Wait.
+	- ThreadId: 3528	Priority: 8	State: Wait.
+	- ThreadId: 3540	Priority: 8	State: Wait.
+	- ThreadId: 7448	Priority: 8	State: Wait.
+	- ThreadId: 14060	Priority: 8	State: Wait.
+	- ThreadId: 9472	Priority: 8	State: Wait.
+- PID: 3620	Name: svchost.
+	- ThreadId: 3624	Priority: 8	State: Wait.
+- PID: 3788	Name: WmiPrvSE.
+	- ThreadId: 3792	Priority: 10	State: Wait.
+	- ThreadId: 3824	Priority: 8	State: Wait.
+	- ThreadId: 5780	Priority: 10	State: Wait.
+	- ThreadId: 9880	Priority: 9	State: Wait.
+	- ThreadId: 14524	Priority: 8	State: Wait.
+	- ThreadId: 7496	Priority: 9	State: Wait.
+	- ThreadId: 9884	Priority: 8	State: Wait.
+	- ThreadId: 11424	Priority: 8	State: Wait.
+- PID: 3840	Name: svchost.
+	- ThreadId: 3844	Priority: 8	State: Wait.
+- PID: 3876	Name: dasHost.
+	- ThreadId: 3880	Priority: 9	State: Wait.
+	- ThreadId: 4208	Priority: 8	State: Wait.
+	- ThreadId: 4316	Priority: 8	State: Wait.
+- PID: 3940	Name: unsecapp.
+	- ThreadId: 3944	Priority: 8	State: Wait.
+	- ThreadId: 12520	Priority: 8	State: Wait.
+	- ThreadId: 14544	Priority: 8	State: Wait.
+- PID: 4080	Name: WmiPrvSE.
+	- ThreadId: 4084	Priority: 10	State: Wait.
+	- ThreadId: 3316	Priority: 9	State: Wait.
+	- ThreadId: 3412	Priority: 8	State: Wait.
+	- ThreadId: 14812	Priority: 8	State: Wait.
+	- ThreadId: 13932	Priority: 8	State: Wait.
+	- ThreadId: 5768	Priority: 8	State: Wait.
+- PID: 2640	Name: svchost.
+	- ThreadId: 3784	Priority: 8	State: Wait.
+	- ThreadId: 3988	Priority: 8	State: Wait.
+	- ThreadId: 4176	Priority: 10	State: Wait.
+	- ThreadId: 4180	Priority: 9	State: Wait.
+	- ThreadId: 1684	Priority: 9	State: Wait.
+	- ThreadId: 16844	Priority: 8	State: Wait.
+	- ThreadId: 7468	Priority: 8	State: Wait.
+	- ThreadId: 14536	Priority: 8	State: Wait.
+	- ThreadId: 18700	Priority: 8	State: Wait.
+- PID: 4140	Name: NVDisplay.Container.
+	- ThreadId: 4144	Priority: 10	State: Wait.
+	- ThreadId: 4160	Priority: 8	State: Wait.
+	- ThreadId: 4172	Priority: 8	State: Wait.
+	- ThreadId: 4492	Priority: 8	State: Wait.
+	- ThreadId: 4528	Priority: 8	State: Wait.
+	- ThreadId: 4536	Priority: 10	State: Wait.
+	- ThreadId: 4540	Priority: 9	State: Wait.
+	- ThreadId: 4544	Priority: 9	State: Wait.
+- PID: 4216	Name: svchost.
+	- ThreadId: 4220	Priority: 8	State: Wait.
+	- ThreadId: 4324	Priority: 9	State: Wait.
+	- ThreadId: 15476	Priority: 8	State: Wait.
+- PID: 4228	Name: svchost.
+	- ThreadId: 4232	Priority: 8	State: Wait.
+	- ThreadId: 4332	Priority: 7	State: Wait.
+	- ThreadId: 19436	Priority: 8	State: Wait.
+	- ThreadId: 13860	Priority: 8	State: Wait.
+- PID: 4240	Name: svchost.
+	- ThreadId: 4244	Priority: 8	State: Wait.
+	- ThreadId: 5588	Priority: 14	State: Wait.
+- PID: 4364	Name: igfxCUIService.
+	- ThreadId: 4368	Priority: 8	State: Wait.
+	- ThreadId: 4424	Priority: 8	State: Wait.
+- PID: 4384	Name: Memory Compression.
+	- ThreadId: 4388	Priority: 25	State: Wait.
+	- ThreadId: 4408	Priority: 25	State: Wait.
+	- ThreadId: 4412	Priority: 25	State: Wait.
+	- ThreadId: 4416	Priority: 12	State: Wait.
+	- ThreadId: 4420	Priority: 4	State: Wait.
+	- ThreadId: 6576	Priority: 25	State: Wait.
+	- ThreadId: 1056	Priority: 25	State: Wait.
+	- ThreadId: 14276	Priority: 12	State: Wait.
+	- ThreadId: 9308	Priority: 7	State: Wait.
+	- ThreadId: 10616	Priority: 25	State: Wait.
+	- ThreadId: 4936	Priority: 25	State: Wait.
+	- ThreadId: 7408	Priority: 12	State: Wait.
+	- ThreadId: 17220	Priority: 7	State: Wait.
+	- ThreadId: 15856	Priority: 25	State: Wait.
+	- ThreadId: 18172	Priority: 25	State: Wait.
+	- ThreadId: 17008	Priority: 12	State: Wait.
+	- ThreadId: 6748	Priority: 7	State: Wait.
+	- ThreadId: 16260	Priority: 25	State: Wait.
+	- ThreadId: 8532	Priority: 25	State: Wait.
+	- ThreadId: 11900	Priority: 12	State: Wait.
+	- ThreadId: 3100	Priority: 7	State: Wait.
+	- ThreadId: 10892	Priority: 25	State: Wait.
+	- ThreadId: 14964	Priority: 25	State: Wait.
+	- ThreadId: 6056	Priority: 12	State: Wait.
+	- ThreadId: 15064	Priority: 7	State: Wait.
+	- ThreadId: 9176	Priority: 25	State: Wait.
+	- ThreadId: 16076	Priority: 25	State: Wait.
+	- ThreadId: 9500	Priority: 12	State: Wait.
+	- ThreadId: 13252	Priority: 7	State: Wait.
+	- ThreadId: 17784	Priority: 25	State: Wait.
+	- ThreadId: 16100	Priority: 25	State: Wait.
+	- ThreadId: 11360	Priority: 12	State: Wait.
+	- ThreadId: 14644	Priority: 7	State: Wait.
+	- ThreadId: 14912	Priority: 25	State: Wait.
+	- ThreadId: 10876	Priority: 25	State: Wait.
+	- ThreadId: 15232	Priority: 12	State: Wait.
+	- ThreadId: 1112	Priority: 7	State: Wait.
+	- ThreadId: 16576	Priority: 25	State: Wait.
+	- ThreadId: 16432	Priority: 25	State: Wait.
+	- ThreadId: 13692	Priority: 12	State: Wait.
+	- ThreadId: 12588	Priority: 7	State: Wait.
+	- ThreadId: 3320	Priority: 25	State: Wait.
+	- ThreadId: 3348	Priority: 25	State: Wait.
+	- ThreadId: 11120	Priority: 12	State: Wait.
+	- ThreadId: 3672	Priority: 7	State: Wait.
+	- ThreadId: 2184	Priority: 25	State: Wait.
+	- ThreadId: 9356	Priority: 25	State: Wait.
+	- ThreadId: 9020	Priority: 12	State: Wait.
+	- ThreadId: 4856	Priority: 7	State: Wait.
+	- ThreadId: 14104	Priority: 25	State: Wait.
+	- ThreadId: 8072	Priority: 25	State: Wait.
+	- ThreadId: 8028	Priority: 12	State: Wait.
+	- ThreadId: 14296	Priority: 7	State: Wait.
+	- ThreadId: 300	Priority: 25	State: Wait.
+	- ThreadId: 12944	Priority: 25	State: Wait.
+	- ThreadId: 17448	Priority: 12	State: Wait.
+	- ThreadId: 8920	Priority: 7	State: Wait.
+	- ThreadId: 17816	Priority: 25	State: Wait.
+	- ThreadId: 2584	Priority: 25	State: Wait.
+	- ThreadId: 7292	Priority: 12	State: Wait.
+	- ThreadId: 17172	Priority: 7	State: Wait.
+	- ThreadId: 10896	Priority: 25	State: Wait.
+	- ThreadId: 13680	Priority: 25	State: Wait.
+	- ThreadId: 10664	Priority: 12	State: Wait.
+	- ThreadId: 8404	Priority: 7	State: Wait.
+	- ThreadId: 14800	Priority: 25	State: Wait.
+	- ThreadId: 17148	Priority: 25	State: Wait.
+	- ThreadId: 3564	Priority: 12	State: Wait.
+	- ThreadId: 4508	Priority: 7	State: Wait.
+	- ThreadId: 5832	Priority: 25	State: Wait.
+	- ThreadId: 11576	Priority: 25	State: Wait.
+	- ThreadId: 10428	Priority: 12	State: Wait.
+	- ThreadId: 12996	Priority: 7	State: Wait.
+	- ThreadId: 17840	Priority: 7	State: Wait.
+	- ThreadId: 14020	Priority: 25	State: Wait.
+	- ThreadId: 2876	Priority: 25	State: Wait.
+	- ThreadId: 13960	Priority: 12	State: Wait.
+	- ThreadId: 13896	Priority: 7	State: Wait.
+- PID: 4440	Name: svchost.
+	- ThreadId: 4444	Priority: 8	State: Wait.
+	- ThreadId: 4496	Priority: 8	State: Wait.
+	- ThreadId: 17636	Priority: 8	State: Wait.
+- PID: 4448	Name: svchost.
+	- ThreadId: 4452	Priority: 8	State: Wait.
+	- ThreadId: 4512	Priority: 9	State: Wait.
+	- ThreadId: 4520	Priority: 9	State: Wait.
+	- ThreadId: 9428	Priority: 9	State: Wait.
+	- ThreadId: 9832	Priority: 8	State: Wait.
+	- ThreadId: 11996	Priority: 8	State: Wait.
+	- ThreadId: 14876	Priority: 8	State: Wait.
+	- ThreadId: 4636	Priority: 8	State: Wait.
+	- ThreadId: 13600	Priority: 8	State: Wait.
+- PID: 4780	Name: svchost.
+	- ThreadId: 4784	Priority: 8	State: Wait.
+	- ThreadId: 4808	Priority: 8	State: Wait.
+	- ThreadId: 4828	Priority: 9	State: Wait.
+	- ThreadId: 4840	Priority: 8	State: Wait.
+	- ThreadId: 4844	Priority: 8	State: Wait.
+	- ThreadId: 10328	Priority: 8	State: Wait.
+	- ThreadId: 12516	Priority: 8	State: Wait.
+	- ThreadId: 10760	Priority: 10	State: Wait.
+	- ThreadId: 13132	Priority: 8	State: Wait.
+- PID: 4920	Name: svchost.
+	- ThreadId: 4924	Priority: 8	State: Wait.
+	- ThreadId: 4164	Priority: 8	State: Wait.
+	- ThreadId: 4336	Priority: 8	State: Wait.
+	- ThreadId: 5192	Priority: 8	State: Wait.
+	- ThreadId: 5212	Priority: 8	State: Wait.
+	- ThreadId: 3968	Priority: 9	State: Wait.
+	- ThreadId: 9388	Priority: 9	State: Wait.
+	- ThreadId: 14716	Priority: 8	State: Wait.
+	- ThreadId: 10948	Priority: 9	State: Wait.
+	- ThreadId: 17876	Priority: 8	State: Wait.
+- PID: 4928	Name: svchost.
+	- ThreadId: 4932	Priority: 9	State: Wait.
+	- ThreadId: 8000	Priority: 9	State: Wait.
+	- ThreadId: 8004	Priority: 8	State: Wait.
+	- ThreadId: 2520	Priority: 9	State: Wait.
+	- ThreadId: 7460	Priority: 8	State: Wait.
+- PID: 4836	Name: svchost.
+	- ThreadId: 4824	Priority: 8	State: Wait.
+	- ThreadId: 5152	Priority: 8	State: Wait.
+	- ThreadId: 5160	Priority: 9	State: Wait.
+	- ThreadId: 5164	Priority: 11	State: Wait.
+	- ThreadId: 5240	Priority: 8	State: Wait.
+	- ThreadId: 5312	Priority: 8	State: Wait.
+	- ThreadId: 5428	Priority: 8	State: Wait.
+	- ThreadId: 14908	Priority: 8	State: Wait.
+	- ThreadId: 8092	Priority: 8	State: Wait.
+	- ThreadId: 16964	Priority: 8	State: Wait.
+	- ThreadId: 12856	Priority: 8	State: Wait.
+	- ThreadId: 16228	Priority: 8	State: Wait.
+	- ThreadId: 8968	Priority: 9	State: Wait.
+	- ThreadId: 8060	Priority: 9	State: Wait.
+	- ThreadId: 1788	Priority: 9	State: Wait.
+	- ThreadId: 6372	Priority: 8	State: Wait.
+	- ThreadId: 1568	Priority: 8	State: Wait.
+	- ThreadId: 17528	Priority: 8	State: Wait.
+	- ThreadId: 9072	Priority: 8	State: Wait.
+- PID: 5184	Name: svchost.
+	- ThreadId: 5188	Priority: 8	State: Wait.
+	- ThreadId: 5244	Priority: 9	State: Wait.
+	- ThreadId: 5404	Priority: 8	State: Wait.
+	- ThreadId: 8816	Priority: 10	State: Wait.
+- PID: 5300	Name: spoolsv.
+	- ThreadId: 5304	Priority: 8	State: Wait.
+	- ThreadId: 5352	Priority: 8	State: Wait.
+	- ThreadId: 5372	Priority: 9	State: Wait.
+	- ThreadId: 2368	Priority: 8	State: Wait.
+	- ThreadId: 2088	Priority: 9	State: Wait.
+	- ThreadId: 1384	Priority: 9	State: Wait.
+	- ThreadId: 7572	Priority: 8	State: Wait.
+	- ThreadId: 7176	Priority: 8	State: Wait.
+- PID: 5412	Name: svchost.
+	- ThreadId: 5416	Priority: 8	State: Wait.
+	- ThreadId: 5464	Priority: 8	State: Wait.
+	- ThreadId: 5496	Priority: 8	State: Wait.
+	- ThreadId: 15816	Priority: 9	State: Wait.
+	- ThreadId: 11676	Priority: 8	State: Wait.
+- PID: 5592	Name: svchost.
+	- ThreadId: 5596	Priority: 8	State: Wait.
+	- ThreadId: 6120	Priority: 8	State: Wait.
+	- ThreadId: 7280	Priority: 8	State: Wait.
+	- ThreadId: 7284	Priority: 9	State: Wait.
+	- ThreadId: 7288	Priority: 9	State: Wait.
+	- ThreadId: 7300	Priority: 9	State: Wait.
+	- ThreadId: 7304	Priority: 8	State: Wait.
+	- ThreadId: 7324	Priority: 11	State: Wait.
+	- ThreadId: 7328	Priority: 9	State: Wait.
+- PID: 5604	Name: OneApp.IGCC.WinService.
+	- ThreadId: 5608	Priority: 8	State: Wait.
+	- ThreadId: 6016	Priority: 8	State: Wait.
+	- ThreadId: 6024	Priority: 10	State: Wait.
+	- ThreadId: 6568	Priority: 8	State: Wait.
+	- ThreadId: 7308	Priority: 8	State: Wait.
+	- ThreadId: 5272	Priority: 9	State: Wait.
+- PID: 5612	Name: svchost.
+	- ThreadId: 5616	Priority: 9	State: Wait.
+	- ThreadId: 5988	Priority: 8	State: Wait.
+	- ThreadId: 6032	Priority: 8	State: Wait.
+	- ThreadId: 6216	Priority: 9	State: Wait.
+	- ThreadId: 6472	Priority: 8	State: Wait.
+	- ThreadId: 7128	Priority: 8	State: Wait.
+	- ThreadId: 2552	Priority: 9	State: Wait.
+	- ThreadId: 6240	Priority: 8	State: Wait.
+	- ThreadId: 6176	Priority: 9	State: Wait.
+	- ThreadId: 9680	Priority: 8	State: Wait.
+	- ThreadId: 9724	Priority: 9	State: Wait.
+	- ThreadId: 14748	Priority: 8	State: Wait.
+	- ThreadId: 1220	Priority: 8	State: Wait.
+	- ThreadId: 15436	Priority: 8	State: Wait.
+	- ThreadId: 7552	Priority: 8	State: Wait.
+	- ThreadId: 17664	Priority: 8	State: Wait.
+	- ThreadId: 10496	Priority: 8	State: Wait.
+	- ThreadId: 17732	Priority: 8	State: Wait.
+	- ThreadId: 13700	Priority: 8	State: Wait.
+	- ThreadId: 17680	Priority: 8	State: Wait.
+- PID: 5620	Name: svchost.
+	- ThreadId: 5624	Priority: 8	State: Wait.
+	- ThreadId: 6092	Priority: 9	State: Wait.
+	- ThreadId: 6096	Priority: 8	State: Wait.
+- PID: 5628	Name: svchost.
+	- ThreadId: 5632	Priority: 8	State: Wait.
+	- ThreadId: 6256	Priority: 8	State: Wait.
+	- ThreadId: 6316	Priority: 8	State: Wait.
+	- ThreadId: 6352	Priority: 8	State: Wait.
+- PID: 5636	Name: IntelAudioService.
+	- ThreadId: 5640	Priority: 8	State: Wait.
+	- ThreadId: 5868	Priority: 8	State: Wait.
+	- ThreadId: 5872	Priority: 10	State: Wait.
+	- ThreadId: 6100	Priority: 9	State: Wait.
+	- ThreadId: 6156	Priority: 12	State: Wait.
+	- ThreadId: 6244	Priority: 8	State: Wait.
+	- ThreadId: 7872	Priority: 9	State: Wait.
+	- ThreadId: 7908	Priority: 9	State: Wait.
+	- ThreadId: 6128	Priority: 9	State: Wait.
+- PID: 5644	Name: ETDService.
+	- ThreadId: 5648	Priority: 8	State: Wait.
+	- ThreadId: 6072	Priority: 8	State: Wait.
+	- ThreadId: 6108	Priority: 8	State: Wait.
+	- ThreadId: 5772	Priority: 8	State: Wait.
+- PID: 5652	Name: svchost.
+	- ThreadId: 5656	Priority: 9	State: Wait.
+	- ThreadId: 8484	Priority: 10	State: Wait.
+	- ThreadId: 8628	Priority: 11	State: Wait.
+	- ThreadId: 3992	Priority: 10	State: Wait.
+	- ThreadId: 15416	Priority: 10	State: Wait.
+- PID: 5660	Name: RtkBtManServ.
+	- ThreadId: 5664	Priority: 8	State: Wait.
+	- ThreadId: 6192	Priority: 9	State: Wait.
+- PID: 5676	Name: svchost.
+	- ThreadId: 5680	Priority: 8	State: Wait.
+	- ThreadId: 6000	Priority: 9	State: Wait.
+	- ThreadId: 6080	Priority: 8	State: Wait.
+	- ThreadId: 6104	Priority: 9	State: Wait.
+- PID: 5684	Name: RstMwService.
+	- ThreadId: 5688	Priority: 8	State: Wait.
+	- ThreadId: 6044	Priority: 9	State: Wait.
+	- ThreadId: 6336	Priority: 9	State: Wait.
+	- ThreadId: 6364	Priority: 9	State: Wait.
+	- ThreadId: 6460	Priority: 8	State: Wait.
+	- ThreadId: 6488	Priority: 8	State: Wait.
+- PID: 5692	Name: SECOMN64.
+	- ThreadId: 5696	Priority: 9	State: Wait.
+	- ThreadId: 6036	Priority: 9	State: Wait.
+- PID: 5700	Name: RtkAudUService64.
+	- ThreadId: 5704	Priority: 8	State: Wait.
+	- ThreadId: 6008	Priority: 9	State: Wait.
+	- ThreadId: 6012	Priority: 8	State: Wait.
+	- ThreadId: 6160	Priority: 9	State: Wait.
+	- ThreadId: 6164	Priority: 8	State: Wait.
+	- ThreadId: 6668	Priority: 9	State: Wait.
+	- ThreadId: 6700	Priority: 8	State: Wait.
+	- ThreadId: 9392	Priority: 8	State: Wait.
+	- ThreadId: 15988	Priority: 8	State: Wait.
+	- ThreadId: 14788	Priority: 8	State: Wait.
+	- ThreadId: 5880	Priority: 8	State: Wait.
+	- ThreadId: 12868	Priority: 8	State: Wait.
+- PID: 5708	Name: svchost.
+	- ThreadId: 5712	Priority: 9	State: Wait.
+- PID: 5716	Name: OfficeClickToRun.
+	- ThreadId: 5720	Priority: 8	State: Wait.
+	- ThreadId: 6696	Priority: 8	State: Wait.
+	- ThreadId: 6908	Priority: 8	State: Wait.
+	- ThreadId: 6972	Priority: 8	State: Wait.
+	- ThreadId: 6976	Priority: 9	State: Wait.
+	- ThreadId: 7112	Priority: 8	State: Wait.
+	- ThreadId: 7244	Priority: 9	State: Wait.
+	- ThreadId: 7252	Priority: 9	State: Wait.
+	- ThreadId: 7256	Priority: 8	State: Wait.
+	- ThreadId: 8016	Priority: 8	State: Wait.
+	- ThreadId: 8020	Priority: 8	State: Wait.
+	- ThreadId: 8024	Priority: 8	State: Wait.
+	- ThreadId: 11172	Priority: 8	State: Wait.
+	- ThreadId: 11228	Priority: 8	State: Wait.
+	- ThreadId: 4472	Priority: 10	State: Wait.
+	- ThreadId: 3012	Priority: 8	State: Wait.
+	- ThreadId: 15672	Priority: 8	State: Wait.
+	- ThreadId: 12772	Priority: 8	State: Wait.
+	- ThreadId: 12352	Priority: 8	State: Wait.
+	- ThreadId: 8876	Priority: 8	State: Wait.
+	- ThreadId: 1088	Priority: 8	State: Wait.
+- PID: 5728	Name: PanGPS.
+	- ThreadId: 5732	Priority: 9	State: Wait.
+	- ThreadId: 6548	Priority: 8	State: Wait.
+	- ThreadId: 7036	Priority: 8	State: Wait.
+	- ThreadId: 7428	Priority: 9	State: Wait.
+	- ThreadId: 7436	Priority: 8	State: Wait.
+	- ThreadId: 7440	Priority: 8	State: Wait.
+	- ThreadId: 7444	Priority: 10	State: Wait.
+	- ThreadId: 9280	Priority: 9	State: Wait.
+	- ThreadId: 10600	Priority: 8	State: Wait.
+	- ThreadId: 1436	Priority: 8	State: Wait.
+	- ThreadId: 11916	Priority: 9	State: Wait.
+	- ThreadId: 15924	Priority: 9	State: Wait.
+	- ThreadId: 12836	Priority: 9	State: Wait.
+	- ThreadId: 15644	Priority: 9	State: Wait.
+	- ThreadId: 3444	Priority: 8	State: Wait.
+	- ThreadId: 13188	Priority: 8	State: Wait.
+	- ThreadId: 17052	Priority: 8	State: Wait.
+- PID: 5740	Name: svchost.
+	- ThreadId: 5744	Priority: 8	State: Wait.
+	- ThreadId: 6476	Priority: 8	State: Wait.
+	- ThreadId: 6480	Priority: 9	State: Wait.
+	- ThreadId: 6588	Priority: 9	State: Wait.
+	- ThreadId: 13300	Priority: 8	State: Wait.
+- PID: 5804	Name: OriginWebHelperService.
+	- ThreadId: 5808	Priority: 5	State: Wait.
+	- ThreadId: 7960	Priority: 6	State: Wait.
+	- ThreadId: 7964	Priority: 7	State: Wait.
+	- ThreadId: 7972	Priority: 5	State: Wait.
+	- ThreadId: 7976	Priority: 5	State: Wait.
+	- ThreadId: 7992	Priority: 4	State: Wait.
+	- ThreadId: 7996	Priority: 8	State: Wait.
+	- ThreadId: 11976	Priority: 5	State: Wait.
+	- ThreadId: 11984	Priority: 5	State: Wait.
+	- ThreadId: 12000	Priority: 4	State: Wait.
+	- ThreadId: 12004	Priority: 4	State: Wait.
+	- ThreadId: 12008	Priority: 7	State: Wait.
+	- ThreadId: 12012	Priority: 4	State: Wait.
+	- ThreadId: 4272	Priority: 6	State: Wait.
+- PID: 5908	Name: svchost.
+	- ThreadId: 5912	Priority: 8	State: Wait.
+	- ThreadId: 6188	Priority: 10	State: Wait.
+	- ThreadId: 6552	Priority: 8	State: Wait.
+	- ThreadId: 6560	Priority: 9	State: Wait.
+	- ThreadId: 7216	Priority: 8	State: Wait.
+	- ThreadId: 12128	Priority: 8	State: Wait.
+- PID: 6048	Name: svchost.
+	- ThreadId: 6052	Priority: 9	State: Wait.
+	- ThreadId: 6200	Priority: 9	State: Wait.
+- PID: 6112	Name: svchost.
+	- ThreadId: 6116	Priority: 9	State: Wait.
+	- ThreadId: 6408	Priority: 9	State: Wait.
+	- ThreadId: 6412	Priority: 9	State: Wait.
+	- ThreadId: 6416	Priority: 9	State: Wait.
+	- ThreadId: 6420	Priority: 9	State: Wait.
+	- ThreadId: 6424	Priority: 9	State: Wait.
+	- ThreadId: 6428	Priority: 9	State: Wait.
+	- ThreadId: 6432	Priority: 9	State: Wait.
+	- ThreadId: 6436	Priority: 9	State: Wait.
+	- ThreadId: 6440	Priority: 9	State: Wait.
+	- ThreadId: 6444	Priority: 9	State: Wait.
+	- ThreadId: 6448	Priority: 9	State: Wait.
+	- ThreadId: 6452	Priority: 9	State: Wait.
+	- ThreadId: 7020	Priority: 10	State: Wait.
+	- ThreadId: 7024	Priority: 10	State: Wait.
+	- ThreadId: 7032	Priority: 9	State: Wait.
+	- ThreadId: 7040	Priority: 10	State: Wait.
+- PID: 6220	Name: esif_uf.
+	- ThreadId: 6224	Priority: 13	State: Wait.
+	- ThreadId: 6272	Priority: 13	State: Wait.
+	- ThreadId: 6616	Priority: 15	State: Wait.
+- PID: 6392	Name: jhi_service.
+	- ThreadId: 6396	Priority: 9	State: Wait.
+	- ThreadId: 6600	Priority: 8	State: Wait.
+- PID: 6632	Name: svchost.
+	- ThreadId: 6636	Priority: 8	State: Wait.
+	- ThreadId: 6652	Priority: 8	State: Wait.
+	- ThreadId: 6980	Priority: 8	State: Wait.
+	- ThreadId: 6984	Priority: 10	State: Wait.
+	- ThreadId: 7044	Priority: 8	State: Wait.
+	- ThreadId: 7104	Priority: 8	State: Wait.
+	- ThreadId: 7108	Priority: 9	State: Wait.
+	- ThreadId: 7116	Priority: 9	State: Wait.
+	- ThreadId: 7120	Priority: 8	State: Wait.
+	- ThreadId: 7124	Priority: 8	State: Wait.
+	- ThreadId: 7132	Priority: 9	State: Wait.
+	- ThreadId: 7144	Priority: 8	State: Wait.
+	- ThreadId: 15268	Priority: 8	State: Wait.
+- PID: 6084	Name: svchost.
+	- ThreadId: 6180	Priority: 8	State: Wait.
+	- ThreadId: 6360	Priority: 8	State: Wait.
+	- ThreadId: 2548	Priority: 8	State: Wait.
+- PID: 7588	Name: PresentationFontCache.
+	- ThreadId: 7584	Priority: 9	State: Wait.
+	- ThreadId: 7912	Priority: 8	State: Wait.
+	- ThreadId: 8116	Priority: 10	State: Wait.
+	- ThreadId: 8652	Priority: 9	State: Wait.
+	- ThreadId: 18704	Priority: 9	State: Wait.
+- PID: 5572	Name: svchost.
+	- ThreadId: 5508	Priority: 9	State: Wait.
+	- ThreadId: 1940	Priority: 9	State: Wait.
+- PID: 8296	Name: svchost.
+	- ThreadId: 8300	Priority: 8	State: Wait.
+	- ThreadId: 8360	Priority: 9	State: Wait.
+	- ThreadId: 17640	Priority: 8	State: Wait.
+- PID: 8632	Name: svchost.
+	- ThreadId: 8636	Priority: 8	State: Wait.
+	- ThreadId: 8664	Priority: 8	State: Wait.
+	- ThreadId: 8676	Priority: 8	State: Wait.
+	- ThreadId: 8696	Priority: 9	State: Wait.
+	- ThreadId: 8884	Priority: 8	State: Wait.
+	- ThreadId: 3644	Priority: 10	State: Wait.
+	- ThreadId: 18840	Priority: 8	State: Wait.
+	- ThreadId: 12476	Priority: 8	State: Wait.
+	- ThreadId: 16796	Priority: 8	State: Wait.
+- PID: 8992	Name: svchost.
+	- ThreadId: 8996	Priority: 8	State: Wait.
+	- ThreadId: 9056	Priority: 9	State: Wait.
+	- ThreadId: 9100	Priority: 9	State: Wait.
+	- ThreadId: 9120	Priority: 8	State: Wait.
+	- ThreadId: 9128	Priority: 9	State: Wait.
+	- ThreadId: 9136	Priority: 8	State: Wait.
+	- ThreadId: 5172	Priority: 8	State: Wait.
+- PID: 8704	Name: svchost.
+	- ThreadId: 8608	Priority: 9	State: Wait.
+	- ThreadId: 8896	Priority: 8	State: Wait.
+- PID: 9784	Name: SearchIndexer.
+	- ThreadId: 9788	Priority: 8	State: Wait.
+	- ThreadId: 9812	Priority: 8	State: Wait.
+	- ThreadId: 9900	Priority: 10	State: Wait.
+	- ThreadId: 9904	Priority: 15	State: Wait.
+	- ThreadId: 9988	Priority: 9	State: Wait.
+	- ThreadId: 10116	Priority: 10	State: Wait.
+	- ThreadId: 10236	Priority: 8	State: Wait.
+	- ThreadId: 2236	Priority: 8	State: Wait.
+	- ThreadId: 9324	Priority: 9	State: Wait.
+	- ThreadId: 9468	Priority: 8	State: Wait.
+	- ThreadId: 10532	Priority: 9	State: Wait.
+	- ThreadId: 10740	Priority: 10	State: Wait.
+	- ThreadId: 12228	Priority: 10	State: Wait.
+	- ThreadId: 1180	Priority: 10	State: Wait.
+	- ThreadId: 11536	Priority: 8	State: Wait.
+	- ThreadId: 1704	Priority: 8	State: Wait.
+	- ThreadId: 17544	Priority: 8	State: Wait.
+	- ThreadId: 6944	Priority: 8	State: Wait.
+- PID: 10808	Name: svchost.
+	- ThreadId: 10812	Priority: 9	State: Wait.
+	- ThreadId: 11012	Priority: 8	State: Wait.
+- PID: 11132	Name: dllhost.
+	- ThreadId: 11136	Priority: 8	State: Wait.
+	- ThreadId: 11160	Priority: 10	State: Wait.
+	- ThreadId: 11184	Priority: 10	State: Wait.
+	- ThreadId: 11212	Priority: 9	State: Wait.
+- PID: 11492	Name: SecurityHealthService.
+	- ThreadId: 11496	Priority: 8	State: Wait.
+	- ThreadId: 11128	Priority: 9	State: Wait.
+	- ThreadId: 2808	Priority: 13	State: Wait.
+	- ThreadId: 11196	Priority: 10	State: Wait.
+	- ThreadId: 11364	Priority: 8	State: Wait.
+	- ThreadId: 11368	Priority: 9	State: Wait.
+	- ThreadId: 5584	Priority: 8	State: Wait.
+	- ThreadId: 10584	Priority: 9	State: Wait.
+	- ThreadId: 15152	Priority: 8	State: Wait.
+	- ThreadId: 12832	Priority: 9	State: Wait.
+	- ThreadId: 5552	Priority: 8	State: Wait.
+	- ThreadId: 13168	Priority: 9	State: Wait.
+	- ThreadId: 5276	Priority: 8	State: Wait.
+	- ThreadId: 13568	Priority: 8	State: Wait.
+	- ThreadId: 8372	Priority: 8	State: Wait.
+	- ThreadId: 9664	Priority: 9	State: Wait.
+	- ThreadId: 12328	Priority: 8	State: Wait.
+	- ThreadId: 13024	Priority: 9	State: Wait.
+	- ThreadId: 1348	Priority: 8	State: Wait.
+	- ThreadId: 11868	Priority: 9	State: Wait.
+	- ThreadId: 7928	Priority: 8	State: Wait.
+	- ThreadId: 8328	Priority: 9	State: Wait.
+	- ThreadId: 5080	Priority: 9	State: Wait.
+	- ThreadId: 7512	Priority: 9	State: Wait.
+	- ThreadId: 14008	Priority: 8	State: Wait.
+	- ThreadId: 9240	Priority: 9	State: Wait.
+	- ThreadId: 10064	Priority: 8	State: Wait.
+	- ThreadId: 12696	Priority: 9	State: Wait.
+	- ThreadId: 17192	Priority: 9	State: Wait.
+	- ThreadId: 9844	Priority: 9	State: Wait.
+	- ThreadId: 1972	Priority: 8	State: Wait.
+	- ThreadId: 8044	Priority: 9	State: Wait.
+	- ThreadId: 10052	Priority: 9	State: Wait.
+	- ThreadId: 7664	Priority: 9	State: Wait.
+	- ThreadId: 13124	Priority: 8	State: Wait.
+	- ThreadId: 10104	Priority: 8	State: Wait.
+	- ThreadId: 3148	Priority: 9	State: Wait.
+	- ThreadId: 7604	Priority: 9	State: Wait.
+	- ThreadId: 10224	Priority: 8	State: Wait.
+	- ThreadId: 4004	Priority: 9	State: Wait.
+	- ThreadId: 380	Priority: 8	State: Wait.
+	- ThreadId: 8008	Priority: 9	State: Wait.
+	- ThreadId: 16564	Priority: 9	State: Wait.
+	- ThreadId: 16128	Priority: 9	State: Wait.
+	- ThreadId: 12432	Priority: 8	State: Wait.
+	- ThreadId: 4560	Priority: 9	State: Wait.
+	- ThreadId: 13264	Priority: 8	State: Wait.
+	- ThreadId: 13768	Priority: 9	State: Wait.
+- PID: 11832	Name: svchost.
+	- ThreadId: 11552	Priority: 8	State: Wait.
+	- ThreadId: 9944	Priority: 8	State: Wait.
+	- ThreadId: 10416	Priority: 8	State: Wait.
+	- ThreadId: 9948	Priority: 9	State: Wait.
+	- ThreadId: 10688	Priority: 8	State: Wait.
+	- ThreadId: 9916	Priority: 8	State: Wait.
+	- ThreadId: 11604	Priority: 8	State: Wait.
+	- ThreadId: 8292	Priority: 8	State: Wait.
+- PID: 12272	Name: svchost.
+	- ThreadId: 12172	Priority: 8	State: Wait.
+- PID: 12896	Name: svchost.
+	- ThreadId: 12900	Priority: 9	State: Wait.
+	- ThreadId: 12916	Priority: 8	State: Wait.
+	- ThreadId: 13016	Priority: 8	State: Wait.
+	- ThreadId: 19076	Priority: 8	State: Wait.
+	- ThreadId: 4996	Priority: 8	State: Wait.
+- PID: 13284	Name: svchost.
+	- ThreadId: 13288	Priority: 8	State: Wait.
+	- ThreadId: 13308	Priority: 8	State: Wait.
+	- ThreadId: 12416	Priority: 8	State: Wait.
+- PID: 14208	Name: svchost.
+	- ThreadId: 14212	Priority: 8	State: Wait.
+	- ThreadId: 14228	Priority: 9	State: Wait.
+	- ThreadId: 13176	Priority: 8	State: Wait.
+- PID: 1828	Name: svchost.
+	- ThreadId: 4380	Priority: 8	State: Wait.
+	- ThreadId: 17760	Priority: 8	State: Wait.
+- PID: 12024	Name: SgrmBroker.
+	- ThreadId: 10680	Priority: 9	State: Wait.
+	- ThreadId: 9804	Priority: 9	State: Wait.
+	- ThreadId: 3700	Priority: 7	State: Wait.
+	- ThreadId: 8592	Priority: 9	State: Wait.
+	- ThreadId: 3728	Priority: 8	State: Wait.
+	- ThreadId: 13572	Priority: 8	State: Wait.
+	- ThreadId: 19220	Priority: 9	State: Wait.
+	- ThreadId: 18144	Priority: 7	State: Wait.
+- PID: 13040	Name: svchost.
+	- ThreadId: 13104	Priority: 9	State: Wait.
+	- ThreadId: 5316	Priority: 8	State: Wait.
+	- ThreadId: 5852	Priority: 11	State: Wait.
+	- ThreadId: 5956	Priority: 8	State: Wait.
+	- ThreadId: 12748	Priority: 9	State: Wait.
+	- ThreadId: 2208	Priority: 9	State: Wait.
+	- ThreadId: 7592	Priority: 8	State: Wait.
+- PID: 14300	Name: svchost.
+	- ThreadId: 14304	Priority: 10	State: Wait.
+	- ThreadId: 3508	Priority: 9	State: Wait.
+	- ThreadId: 3800	Priority: 8	State: Wait.
+	- ThreadId: 4948	Priority: 8	State: Wait.
+	- ThreadId: 2020	Priority: 8	State: Wait.
+	- ThreadId: 13440	Priority: 10	State: Wait.
+	- ThreadId: 7368	Priority: 8	State: Wait.
+- PID: 8388	Name: svchost.
+	- ThreadId: 11188	Priority: 9	State: Wait.
+	- ThreadId: 8768	Priority: 10	State: Wait.
+	- ThreadId: 12888	Priority: 9	State: Wait.
+	- ThreadId: 2996	Priority: 8	State: Wait.
+	- ThreadId: 8228	Priority: 8	State: Wait.
+- PID: 3596	Name: svchost.
+	- ThreadId: 2408	Priority: 9	State: Wait.
+	- ThreadId: 14044	Priority: 8	State: Wait.
+	- ThreadId: 11036	Priority: 8	State: Wait.
+	- ThreadId: 4972	Priority: 8	State: Wait.
+	- ThreadId: 13340	Priority: 8	State: Wait.
+	- ThreadId: 14048	Priority: 9	State: Wait.
+- PID: 11864	Name: svchost.
+	- ThreadId: 10480	Priority: 9	State: Wait.
+	- ThreadId: 4680	Priority: 10	State: Wait.
+	- ThreadId: 5064	Priority: 15	State: Wait.
+	- ThreadId: 2384	Priority: 9	State: Wait.
+	- ThreadId: 14864	Priority: 8	State: Wait.
+- PID: 7564	Name: MoUsoCoreWorker.
+	- ThreadId: 15228	Priority: 9	State: Wait.
+	- ThreadId: 8276	Priority: 11	State: Wait.
+	- ThreadId: 12472	Priority: 11	State: Wait.
+	- ThreadId: 13120	Priority: 8	State: Wait.
+	- ThreadId: 14584	Priority: 8	State: Wait.
+- PID: 9260	Name: MsMpEng.
+	- ThreadId: 2152	Priority: 8	State: Wait.
+	- ThreadId: 12088	Priority: 8	State: Wait.
+	- ThreadId: 9432	Priority: 8	State: Wait.
+	- ThreadId: 14236	Priority: 9	State: Wait.
+	- ThreadId: 8288	Priority: 8	State: Wait.
+	- ThreadId: 14268	Priority: 8	State: Wait.
+	- ThreadId: 15312	Priority: 8	State: Wait.
+	- ThreadId: 11516	Priority: 14	State: Wait.
+	- ThreadId: 8792	Priority: 14	State: Wait.
+	- ThreadId: 11168	Priority: 14	State: Wait.
+	- ThreadId: 15244	Priority: 14	State: Wait.
+	- ThreadId: 12640	Priority: 14	State: Wait.
+	- ThreadId: 15804	Priority: 14	State: Wait.
+	- ThreadId: 5092	Priority: 14	State: Wait.
+	- ThreadId: 13008	Priority: 14	State: Wait.
+	- ThreadId: 8316	Priority: 14	State: Wait.
+	- ThreadId: 12912	Priority: 14	State: Wait.
+	- ThreadId: 6308	Priority: 14	State: Wait.
+	- ThreadId: 14200	Priority: 14	State: Wait.
+	- ThreadId: 14468	Priority: 14	State: Wait.
+	- ThreadId: 16224	Priority: 14	State: Wait.
+	- ThreadId: 4592	Priority: 14	State: Wait.
+	- ThreadId: 10332	Priority: 14	State: Wait.
+	- ThreadId: 1888	Priority: 14	State: Wait.
+	- ThreadId: 16084	Priority: 14	State: Wait.
+	- ThreadId: 16172	Priority: 14	State: Wait.
+	- ThreadId: 2160	Priority: 14	State: Wait.
+	- ThreadId: 5228	Priority: 14	State: Wait.
+	- ThreadId: 13864	Priority: 14	State: Wait.
+	- ThreadId: 2052	Priority: 14	State: Wait.
+	- ThreadId: 11032	Priority: 14	State: Wait.
+	- ThreadId: 9244	Priority: 7	State: Wait.
+	- ThreadId: 12388	Priority: 7	State: Wait.
+	- ThreadId: 7892	Priority: 10	State: Wait.
+	- ThreadId: 12660	Priority: 8	State: Wait.
+	- ThreadId: 11436	Priority: 8	State: Wait.
+	- ThreadId: 17584	Priority: 8	State: Wait.
+	- ThreadId: 17372	Priority: 9	State: Wait.
+	- ThreadId: 15212	Priority: 9	State: Wait.
+	- ThreadId: 3180	Priority: 8	State: Wait.
+	- ThreadId: 18308	Priority: 9	State: Wait.
+	- ThreadId: 12056	Priority: 8	State: Wait.
+	- ThreadId: 7844	Priority: 9	State: Wait.
+	- ThreadId: 10300	Priority: 9	State: Wait.
+	- ThreadId: 7528	Priority: 9	State: Wait.
+	- ThreadId: 12924	Priority: 9	State: Wait.
+	- ThreadId: 16504	Priority: 9	State: Wait.
+	- ThreadId: 1200	Priority: 8	State: Wait.
+	- ThreadId: 15604	Priority: 9	State: Wait.
+	- ThreadId: 13216	Priority: 8	State: Wait.
+	- ThreadId: 9376	Priority: 9	State: Wait.
+	- ThreadId: 18532	Priority: 8	State: Wait.
+	- ThreadId: 9752	Priority: 8	State: Wait.
+	- ThreadId: 18512	Priority: 8	State: Wait.
+	- ThreadId: 11748	Priority: 8	State: Wait.
+- PID: 9192	Name: NisSrv.
+	- ThreadId: 12016	Priority: 8	State: Wait.
+	- ThreadId: 2872	Priority: 8	State: Wait.
+	- ThreadId: 14844	Priority: 9	State: Wait.
+	- ThreadId: 2324	Priority: 8	State: Wait.
+- PID: 6964	Name: svchost.
+	- ThreadId: 14032	Priority: 9	State: Wait.
+	- ThreadId: 10268	Priority: 10	State: Wait.
+	- ThreadId: 13912	Priority: 15	State: Wait.
+	- ThreadId: 9200	Priority: 9	State: Wait.
+- PID: 9584	Name: svchost.
+	- ThreadId: 16916	Priority: 9	State: Wait.
+	- ThreadId: 2780	Priority: 8	State: Wait.
+- PID: 520	Name: csrss.
+	- ThreadId: 16612	Priority: 14	State: Wait.
+	- ThreadId: 14168	Priority: 15	State: Wait.
+	- ThreadId: 18124	Priority: 14	State: Wait.
+	- ThreadId: 11692	Priority: 14	State: Wait.
+	- ThreadId: 3928	Priority: 14	State: Wait.
+	- ThreadId: 5840	Priority: 14	State: Wait.
+	- ThreadId: 16940	Priority: 16	State: Wait.
+	- ThreadId: 8700	Priority: 16	State: Wait.
+	- ThreadId: 14732	Priority: 13	State: Wait.
+	- ThreadId: 3216	Priority: 14	State: Wait.
+	- ThreadId: 18044	Priority: 15	State: Wait.
+	- ThreadId: 18240	Priority: 14	State: Wait.
+	- ThreadId: 7220	Priority: 14	State: Wait.
+- PID: 11280	Name: winlogon.
+	- ThreadId: 15860	Priority: 15	State: Wait.
+	- ThreadId: 4696	Priority: 14	State: Wait.
+	- ThreadId: 14556	Priority: 13	State: Wait.
+	- ThreadId: 10656	Priority: 13	State: Wait.
+	- ThreadId: 17284	Priority: 13	State: Wait.
+- PID: 11548	Name: fontdrvhost.
+	- ThreadId: 17064	Priority: 8	State: Wait.
+	- ThreadId: 17696	Priority: 8	State: Wait.
+	- ThreadId: 2360	Priority: 8	State: Wait.
+	- ThreadId: 9576	Priority: 8	State: Wait.
+	- ThreadId: 14764	Priority: 8	State: Wait.
+- PID: 14440	Name: dwm.
+	- ThreadId: 2984	Priority: 15	State: Wait.
+	- ThreadId: 13020	Priority: 15	State: Wait.
+	- ThreadId: 4012	Priority: 15	State: Wait.
+	- ThreadId: 10172	Priority: 15	State: Wait.
+	- ThreadId: 9748	Priority: 16	State: Wait.
+	- ThreadId: 18164	Priority: 16	State: Wait.
+	- ThreadId: 18420	Priority: 15	State: Wait.
+	- ThreadId: 7432	Priority: 13	State: Wait.
+	- ThreadId: 5784	Priority: 14	State: Wait.
+	- ThreadId: 7900	Priority: 15	State: Wait.
+	- ThreadId: 11404	Priority: 15	State: Wait.
+	- ThreadId: 14320	Priority: 13	State: Wait.
+	- ThreadId: 5420	Priority: 13	State: Wait.
+	- ThreadId: 18508	Priority: 13	State: Wait.
+- PID: 2896	Name: NVDisplay.Container.
+	- ThreadId: 11940	Priority: 10	State: Wait.
+	- ThreadId: 7916	Priority: 8	State: Wait.
+	- ThreadId: 13900	Priority: 8	State: Wait.
+	- ThreadId: 10388	Priority: 8	State: Wait.
+	- ThreadId: 4312	Priority: 8	State: Wait.
+	- ThreadId: 3500	Priority: 10	State: Wait.
+	- ThreadId: 4460	Priority: 10	State: Wait.
+	- ThreadId: 18180	Priority: 8	State: Wait.
+	- ThreadId: 2788	Priority: 8	State: Wait.
+	- ThreadId: 18404	Priority: 8	State: Wait.
+	- ThreadId: 16528	Priority: 8	State: Wait.
+	- ThreadId: 10500	Priority: 9	State: Wait.
+	- ThreadId: 12948	Priority: 8	State: Wait.
+	- ThreadId: 608	Priority: 8	State: Wait.
+	- ThreadId: 8744	Priority: 8	State: Wait.
+	- ThreadId: 2128	Priority: 8	State: Wait.
+	- ThreadId: 7296	Priority: 9	State: Wait.
+	- ThreadId: 15300	Priority: 8	State: Wait.
+	- ThreadId: 676	Priority: 8	State: Wait.
+	- ThreadId: 16672	Priority: 9	State: Wait.
+	- ThreadId: 11660	Priority: 8	State: Wait.
+	- ThreadId: 5072	Priority: 8	State: Wait.
+	- ThreadId: 15536	Priority: 8	State: Wait.
+	- ThreadId: 10472	Priority: 10	State: Wait.
+	- ThreadId: 14968	Priority: 10	State: Wait.
+	- ThreadId: 14160	Priority: 9	State: Wait.
+	- ThreadId: 15188	Priority: 9	State: Wait.
+	- ThreadId: 1560	Priority: 10	State: Wait.
+	- ThreadId: 1388	Priority: 8	State: Wait.
+- PID: 15764	Name: svchost.
+	- ThreadId: 16848	Priority: 9	State: Wait.
+	- ThreadId: 4184	Priority: 9	State: Wait.
+	- ThreadId: 8880	Priority: 8	State: Wait.
+- PID: 14720	Name: ETDCtrl.
+	- ThreadId: 15740	Priority: 12	State: Wait.
+	- ThreadId: 1432	Priority: 12	State: Wait.
+	- ThreadId: 14400	Priority: 12	State: Wait.
+	- ThreadId: 15224	Priority: 10	State: Wait.
+	- ThreadId: 2784	Priority: 12	State: Wait.
+	- ThreadId: 16324	Priority: 12	State: Wait.
+	- ThreadId: 8948	Priority: 12	State: Wait.
+	- ThreadId: 13200	Priority: 12	State: Wait.
+	- ThreadId: 8188	Priority: 12	State: Wait.
+	- ThreadId: 6620	Priority: 12	State: Wait.
+	- ThreadId: 8512	Priority: 10	State: Wait.
+	- ThreadId: 10056	Priority: 10	State: Wait.
+	- ThreadId: 16540	Priority: 10	State: Wait.
+- PID: 16144	Name: sihost.
+	- ThreadId: 11392	Priority: 8	State: Wait.
+	- ThreadId: 3296	Priority: 10	State: Wait.
+	- ThreadId: 13520	Priority: 9	State: Wait.
+	- ThreadId: 17548	Priority: 9	State: Wait.
+	- ThreadId: 14488	Priority: 8	State: Wait.
+	- ThreadId: 4576	Priority: 11	State: Wait.
+	- ThreadId: 18412	Priority: 8	State: Wait.
+	- ThreadId: 19060	Priority: 8	State: Wait.
+	- ThreadId: 10468	Priority: 8	State: Wait.
+	- ThreadId: 14508	Priority: 8	State: Wait.
+- PID: 14992	Name: svchost.
+	- ThreadId: 4976	Priority: 8	State: Wait.
+	- ThreadId: 6968	Priority: 8	State: Wait.
+	- ThreadId: 12392	Priority: 8	State: Wait.
+	- ThreadId: 9116	Priority: 8	State: Wait.
+	- ThreadId: 172	Priority: 8	State: Wait.
+	- ThreadId: 11040	Priority: 8	State: Wait.
+	- ThreadId: 15908	Priority: 8	State: Wait.
+	- ThreadId: 16052	Priority: 8	State: Wait.
+	- ThreadId: 15120	Priority: 8	State: Wait.
+	- ThreadId: 7716	Priority: 8	State: Wait.
+	- ThreadId: 13320	Priority: 8	State: Wait.
+- PID: 3200	Name: igfxEM.
+	- ThreadId: 6664	Priority: 10	State: Wait.
+	- ThreadId: 17488	Priority: 8	State: Wait.
+	- ThreadId: 17512	Priority: 8	State: Wait.
+	- ThreadId: 17516	Priority: 8	State: Wait.
+	- ThreadId: 13032	Priority: 8	State: Wait.
+	- ThreadId: 10820	Priority: 8	State: Wait.
+- PID: 15500	Name: svchost.
+	- ThreadId: 17560	Priority: 9	State: Wait.
+	- ThreadId: 11304	Priority: 10	State: Wait.
+	- ThreadId: 7404	Priority: 8	State: Wait.
+	- ThreadId: 6504	Priority: 8	State: Wait.
+	- ThreadId: 4036	Priority: 8	State: Wait.
+	- ThreadId: 16008	Priority: 8	State: Wait.
+	- ThreadId: 12992	Priority: 8	State: Wait.
+	- ThreadId: 9848	Priority: 8	State: Wait.
+	- ThreadId: 19424	Priority: 8	State: Wait.
+	- ThreadId: 2544	Priority: 8	State: Wait.
+	- ThreadId: 4196	Priority: 8	State: Wait.
+- PID: 16592	Name: taskhostw.
+	- ThreadId: 5756	Priority: 8	State: Wait.
+	- ThreadId: 11944	Priority: 10	State: Wait.
+	- ThreadId: 17984	Priority: 8	State: Wait.
+	- ThreadId: 14660	Priority: 12	State: Wait.
+	- ThreadId: 14996	Priority: 10	State: Wait.
+	- ThreadId: 11544	Priority: 9	State: Wait.
+	- ThreadId: 18996	Priority: 8	State: Wait.
+	- ThreadId: 4456	Priority: 8	State: Wait.
+- PID: 13672	Name: svchost.
+	- ThreadId: 18156	Priority: 8	State: Wait.
+- PID: 1320	Name: explorer.
+	- ThreadId: 11528	Priority: 10	State: Wait.
+	- ThreadId: 16452	Priority: 8	State: Wait.
+	- ThreadId: 8692	Priority: 8	State: Wait.
+	- ThreadId: 17400	Priority: 11	State: Wait.
+	- ThreadId: 8428	Priority: 9	State: Wait.
+	- ThreadId: 17684	Priority: 8	State: Wait.
+	- ThreadId: 2404	Priority: 8	State: Wait.
+	- ThreadId: 6232	Priority: 10	State: Wait.
+	- ThreadId: 8756	Priority: 9	State: Wait.
+	- ThreadId: 5748	Priority: 9	State: Wait.
+	- ThreadId: 17656	Priority: 8	State: Wait.
+	- ThreadId: 7724	Priority: 8	State: Wait.
+	- ThreadId: 11680	Priority: 8	State: Wait.
+	- ThreadId: 9716	Priority: 8	State: Wait.
+	- ThreadId: 13640	Priority: 9	State: Wait.
+	- ThreadId: 14548	Priority: 8	State: Wait.
+	- ThreadId: 5224	Priority: 8	State: Wait.
+	- ThreadId: 17632	Priority: 8	State: Wait.
+	- ThreadId: 16168	Priority: 8	State: Wait.
+	- ThreadId: 10000	Priority: 8	State: Wait.
+	- ThreadId: 8936	Priority: 8	State: Wait.
+	- ThreadId: 9640	Priority: 8	State: Wait.
+	- ThreadId: 9508	Priority: 8	State: Wait.
+	- ThreadId: 4628	Priority: 9	State: Wait.
+	- ThreadId: 9996	Priority: 8	State: Wait.
+	- ThreadId: 14504	Priority: 8	State: Wait.
+	- ThreadId: 16816	Priority: 8	State: Wait.
+	- ThreadId: 9956	Priority: 8	State: Wait.
+	- ThreadId: 11484	Priority: 8	State: Wait.
+	- ThreadId: 2256	Priority: 8	State: Wait.
+	- ThreadId: 15532	Priority: 8	State: Wait.
+	- ThreadId: 9912	Priority: 8	State: Wait.
+	- ThreadId: 15776	Priority: 8	State: Wait.
+	- ThreadId: 11992	Priority: 8	State: Wait.
+	- ThreadId: 16676	Priority: 9	State: Wait.
+	- ThreadId: 12504	Priority: 8	State: Wait.
+	- ThreadId: 1000	Priority: 8	State: Wait.
+	- ThreadId: 14712	Priority: 8	State: Wait.
+	- ThreadId: 11432	Priority: 8	State: Wait.
+	- ThreadId: 2744	Priority: 8	State: Wait.
+	- ThreadId: 13064	Priority: 8	State: Wait.
+	- ThreadId: 17176	Priority: 8	State: Wait.
+	- ThreadId: 18128	Priority: 8	State: Wait.
+	- ThreadId: 5100	Priority: 9	State: Wait.
+	- ThreadId: 15780	Priority: 8	State: Wait.
+	- ThreadId: 17256	Priority: 8	State: Wait.
+	- ThreadId: 684	Priority: 8	State: Wait.
+	- ThreadId: 11396	Priority: 15	State: Wait.
+	- ThreadId: 13584	Priority: 8	State: Wait.
+	- ThreadId: 13092	Priority: 8	State: Wait.
+	- ThreadId: 2532	Priority: 8	State: Wait.
+	- ThreadId: 15624	Priority: 8	State: Wait.
+	- ThreadId: 18040	Priority: 8	State: Wait.
+	- ThreadId: 12084	Priority: 10	State: Wait.
+	- ThreadId: 16088	Priority: 8	State: Wait.
+	- ThreadId: 9704	Priority: 8	State: Wait.
+	- ThreadId: 8256	Priority: 8	State: Wait.
+	- ThreadId: 11316	Priority: 8	State: Wait.
+	- ThreadId: 12572	Priority: 8	State: Wait.
+	- ThreadId: 10384	Priority: 8	State: Wait.
+	- ThreadId: 1036	Priority: 8	State: Wait.
+	- ThreadId: 564	Priority: 8	State: Wait.
+	- ThreadId: 16012	Priority: 8	State: Wait.
+	- ThreadId: 3060	Priority: 8	State: Wait.
+	- ThreadId: 5288	Priority: 8	State: Wait.
+	- ThreadId: 5340	Priority: 8	State: Wait.
+	- ThreadId: 17280	Priority: 8	State: Wait.
+	- ThreadId: 16364	Priority: 8	State: Wait.
+	- ThreadId: 17152	Priority: 8	State: Wait.
+	- ThreadId: 11004	Priority: 9	State: Wait.
+	- ThreadId: 4044	Priority: 10	State: Wait.
+	- ThreadId: 18352	Priority: 8	State: Wait.
+	- ThreadId: 11808	Priority: 8	State: Wait.
+	- ThreadId: 10228	Priority: 8	State: Wait.
+	- ThreadId: 1256	Priority: 8	State: Wait.
+	- ThreadId: 16792	Priority: 8	State: Wait.
+	- ThreadId: 17612	Priority: 8	State: Wait.
+	- ThreadId: 15828	Priority: 8	State: Wait.
+	- ThreadId: 13352	Priority: 8	State: Wait.
+	- ThreadId: 10408	Priority: 8	State: Wait.
+	- ThreadId: 8856	Priority: 8	State: Wait.
+	- ThreadId: 18216	Priority: 9	State: Wait.
+	- ThreadId: 1524	Priority: 8	State: Wait.
+	- ThreadId: 11960	Priority: 8	State: Wait.
+	- ThreadId: 19116	Priority: 8	State: Wait.
+	- ThreadId: 18524	Priority: 8	State: Wait.
+	- ThreadId: 16948	Priority: 8	State: Wait.
+	- ThreadId: 18556	Priority: 8	State: Wait.
+	- ThreadId: 17652	Priority: 8	State: Wait.
+	- ThreadId: 19064	Priority: 8	State: Wait.
+	- ThreadId: 16872	Priority: 8	State: Wait.
+	- ThreadId: 11356	Priority: 8	State: Wait.
+	- ThreadId: 18768	Priority: 8	State: Wait.
+	- ThreadId: 3516	Priority: 8	State: Wait.
+	- ThreadId: 2948	Priority: 9	State: Wait.
+	- ThreadId: 10668	Priority: 9	State: Wait.
+	- ThreadId: 5972	Priority: 9	State: Wait.
+	- ThreadId: 4640	Priority: 9	State: Wait.
+	- ThreadId: 5176	Priority: 8	State: Wait.
+	- ThreadId: 16280	Priority: 9	State: Wait.
+	- ThreadId: 7936	Priority: 8	State: Wait.
+	- ThreadId: 5968	Priority: 8	State: Wait.
+	- ThreadId: 12808	Priority: 9	State: Wait.
+	- ThreadId: 4024	Priority: 9	State: Wait.
+- PID: 13184	Name: svchost.
+	- ThreadId: 11448	Priority: 8	State: Wait.
+	- ThreadId: 9288	Priority: 10	State: Wait.
+	- ThreadId: 6196	Priority: 9	State: Wait.
+	- ThreadId: 7684	Priority: 8	State: Wait.
+	- ThreadId: 18148	Priority: 9	State: Wait.
+	- ThreadId: 14380	Priority: 8	State: Wait.
+	- ThreadId: 14368	Priority: 10	State: Wait.
+	- ThreadId: 9620	Priority: 10	State: Wait.
+	- ThreadId: 7848	Priority: 8	State: Wait.
+	- ThreadId: 2664	Priority: 9	State: Wait.
+	- ThreadId: 15548	Priority: 8	State: Wait.
+- PID: 3016	Name: SettingSyncHost.
+	- ThreadId: 13268	Priority: 6	State: Wait.
+	- ThreadId: 16600	Priority: 10	State: Wait.
+	- ThreadId: 10844	Priority: 6	State: Wait.
+	- ThreadId: 9064	Priority: 7	State: Wait.
+	- ThreadId: 18540	Priority: 7	State: Wait.
+- PID: 15016	Name: StartMenuExperienceHost.
+	- ThreadId: 17616	Priority: 8	State: Wait.
+	- ThreadId: 15800	Priority: 8	State: Wait.
+	- ThreadId: 8560	Priority: 15	State: Wait.
+	- ThreadId: 3068	Priority: 8	State: Wait.
+	- ThreadId: 2952	Priority: 8	State: Wait.
+	- ThreadId: 12824	Priority: 8	State: Wait.
+	- ThreadId: 9968	Priority: 8	State: Wait.
+	- ThreadId: 7056	Priority: 8	State: Wait.
+	- ThreadId: 14240	Priority: 8	State: Wait.
+- PID: 6508	Name: RuntimeBroker.
+	- ThreadId: 13452	Priority: 8	State: Wait.
+	- ThreadId: 9456	Priority: 8	State: Wait.
+- PID: 15468	Name: SearchApp.
+	- ThreadId: 14572	Priority: 8	State: Wait.
+	- ThreadId: 18016	Priority: 8	State: Wait.
+	- ThreadId: 8544	Priority: 8	State: Wait.
+	- ThreadId: 13616	Priority: 9	State: Wait.
+	- ThreadId: 15640	Priority: 8	State: Wait.
+	- ThreadId: 16188	Priority: 8	State: Wait.
+	- ThreadId: 2936	Priority: 15	State: Wait.
+	- ThreadId: 8720	Priority: 9	State: Wait.
+	- ThreadId: 17108	Priority: 8	State: Wait.
+	- ThreadId: 3980	Priority: 9	State: Wait.
+	- ThreadId: 16720	Priority: 8	State: Wait.
+	- ThreadId: 12384	Priority: 8	State: Wait.
+	- ThreadId: 3400	Priority: 10	State: Wait.
+	- ThreadId: 6712	Priority: 8	State: Wait.
+	- ThreadId: 10648	Priority: 8	State: Wait.
+	- ThreadId: 8644	Priority: 7	State: Wait.
+	- ThreadId: 10164	Priority: 8	State: Wait.
+	- ThreadId: 11152	Priority: 9	State: Wait.
+	- ThreadId: 1920	Priority: 9	State: Wait.
+	- ThreadId: 17712	Priority: 8	State: Wait.
+	- ThreadId: 13344	Priority: 8	State: Wait.
+	- ThreadId: 3144	Priority: 8	State: Wait.
+	- ThreadId: 12380	Priority: 8	State: Wait.
+	- ThreadId: 17416	Priority: 9	State: Wait.
+	- ThreadId: 12444	Priority: 8	State: Wait.
+	- ThreadId: 8124	Priority: 11	State: Wait.
+	- ThreadId: 8180	Priority: 9	State: Wait.
+	- ThreadId: 5520	Priority: 8	State: Wait.
+	- ThreadId: 12788	Priority: 8	State: Wait.
+	- ThreadId: 7516	Priority: 9	State: Wait.
+	- ThreadId: 13988	Priority: 8	State: Wait.
+	- ThreadId: 1496	Priority: 8	State: Wait.
+	- ThreadId: 14452	Priority: 8	State: Wait.
+	- ThreadId: 12844	Priority: 9	State: Wait.
+	- ThreadId: 1988	Priority: 8	State: Wait.
+	- ThreadId: 4396	Priority: 8	State: Wait.
+	- ThreadId: 1124	Priority: 8	State: Wait.
+	- ThreadId: 17644	Priority: 8	State: Wait.
+	- ThreadId: 2008	Priority: 9	State: Wait.
+	- ThreadId: 15552	Priority: 8	State: Wait.
+	- ThreadId: 15968	Priority: 8	State: Wait.
+	- ThreadId: 3660	Priority: 8	State: Wait.
+	- ThreadId: 10212	Priority: 8	State: Wait.
+	- ThreadId: 11096	Priority: 8	State: Wait.
+	- ThreadId: 13480	Priority: 8	State: Wait.
+	- ThreadId: 1312	Priority: 9	State: Wait.
+	- ThreadId: 10776	Priority: 8	State: Wait.
+	- ThreadId: 11980	Priority: 8	State: Wait.
+	- ThreadId: 16044	Priority: 8	State: Wait.
+	- ThreadId: 7452	Priority: 8	State: Wait.
+	- ThreadId: 14384	Priority: 8	State: Wait.
+	- ThreadId: 13612	Priority: 8	State: Wait.
+	- ThreadId: 6384	Priority: 8	State: Wait.
+	- ThreadId: 13076	Priority: 15	State: Wait.
+	- ThreadId: 11928	Priority: 8	State: Wait.
+	- ThreadId: 16648	Priority: 8	State: Wait.
+	- ThreadId: 17316	Priority: 8	State: Wait.
+	- ThreadId: 5260	Priority: 8	State: Wait.
+	- ThreadId: 2656	Priority: 8	State: Wait.
+- PID: 13100	Name: RuntimeBroker.
+	- ThreadId: 8748	Priority: 8	State: Wait.
+	- ThreadId: 15084	Priority: 9	State: Wait.
+	- ThreadId: 9292	Priority: 10	State: Wait.
+	- ThreadId: 16320	Priority: 9	State: Wait.
+	- ThreadId: 17920	Priority: 9	State: Wait.
+	- ThreadId: 16180	Priority: 8	State: Wait.
+	- ThreadId: 17452	Priority: 8	State: Wait.
+	- ThreadId: 16376	Priority: 8	State: Wait.
+	- ThreadId: 2556	Priority: 10	State: Wait.
+	- ThreadId: 11872	Priority: 8	State: Wait.
+	- ThreadId: 4436	Priority: 8	State: Wait.
+	- ThreadId: 12260	Priority: 9	State: Wait.
+- PID: 17180	Name: YourPhone.
+	- ThreadId: 8344	Priority: 8	State: Wait.
+	- ThreadId: 11116	Priority: 11	State: Wait.
+	- ThreadId: 10196	Priority: 8	State: Wait.
+	- ThreadId: 1700	Priority: 9	State: Wait.
+	- ThreadId: 6952	Priority: 15	State: Wait.
+	- ThreadId: 11636	Priority: 8	State: Wait.
+	- ThreadId: 4000	Priority: 8	State: Wait.
+	- ThreadId: 14868	Priority: 9	State: Wait.
+	- ThreadId: 13332	Priority: 8	State: Wait.
+	- ThreadId: 5020	Priority: 9	State: Wait.
+	- ThreadId: 11752	Priority: 8	State: Wait.
+	- ThreadId: 12700	Priority: 8	State: Wait.
+	- ThreadId: 12220	Priority: 8	State: Wait.
+- PID: 15768	Name: ctfmon.
+	- ThreadId: 18316	Priority: 15	State: Wait.
+	- ThreadId: 13684	Priority: 14	State: Wait.
+	- ThreadId: 4704	Priority: 14	State: Wait.
+	- ThreadId: 8728	Priority: 15	State: Wait.
+	- ThreadId: 2648	Priority: 14	State: Wait.
+	- ThreadId: 12428	Priority: 14	State: Wait.
+	- ThreadId: 13956	Priority: 14	State: Wait.
+	- ThreadId: 16236	Priority: 14	State: Wait.
+	- ThreadId: 12676	Priority: 14	State: Wait.
+	- ThreadId: 16240	Priority: 14	State: Wait.
+	- ThreadId: 8252	Priority: 14	State: Wait.
+- PID: 8112	Name: RtkAudUService64.
+	- ThreadId: 2388	Priority: 9	State: Wait.
+	- ThreadId: 7004	Priority: 9	State: Wait.
+	- ThreadId: 16520	Priority: 10	State: Wait.
+	- ThreadId: 13180	Priority: 8	State: Wait.
+	- ThreadId: 18160	Priority: 9	State: Wait.
+- PID: 4552	Name: LockApp.
+	- ThreadId: 2696	Priority: 8	State: Wait.
+	- ThreadId: 12908	Priority: 8	State: Wait.
+	- ThreadId: 15840	Priority: 8	State: Wait.
+	- ThreadId: 8080	Priority: 8	State: Wait.
+	- ThreadId: 3780	Priority: 8	State: Wait.
+	- ThreadId: 11904	Priority: 15	State: Wait.
+	- ThreadId: 1652	Priority: 8	State: Wait.
+	- ThreadId: 10856	Priority: 8	State: Wait.
+	- ThreadId: 9960	Priority: 8	State: Wait.
+	- ThreadId: 16244	Priority: 8	State: Wait.
+	- ThreadId: 11140	Priority: 8	State: Wait.
+	- ThreadId: 13108	Priority: 8	State: Wait.
+	- ThreadId: 6996	Priority: 8	State: Wait.
+	- ThreadId: 12348	Priority: 8	State: Wait.
+	- ThreadId: 6088	Priority: 8	State: Wait.
+- PID: 8088	Name: RuntimeBroker.
+	- ThreadId: 9124	Priority: 8	State: Wait.
+	- ThreadId: 1140	Priority: 8	State: Wait.
+	- ThreadId: 8868	Priority: 8	State: Wait.
+	- ThreadId: 5068	Priority: 10	State: Wait.
+	- ThreadId: 7412	Priority: 9	State: Wait.
+	- ThreadId: 2080	Priority: 9	State: Wait.
+	- ThreadId: 15036	Priority: 8	State: Wait.
+	- ThreadId: 9256	Priority: 8	State: Wait.
+	- ThreadId: 10552	Priority: 9	State: Wait.
+	- ThreadId: 12080	Priority: 8	State: Wait.
+- PID: 18416	Name: dllhost.
+	- ThreadId: 2484	Priority: 8	State: Wait.
+	- ThreadId: 5168	Priority: 8	State: Wait.
+	- ThreadId: 16544	Priority: 10	State: Wait.
+	- ThreadId: 12628	Priority: 10	State: Wait.
+	- ThreadId: 10828	Priority: 9	State: Wait.
+- PID: 2628	Name: svchost.
+	- ThreadId: 10608	Priority: 9	State: Wait.
+	- ThreadId: 15912	Priority: 10	State: Wait.
+	- ThreadId: 12904	Priority: 9	State: Wait.
+	- ThreadId: 11756	Priority: 8	State: Wait.
+	- ThreadId: 19084	Priority: 9	State: Wait.
+	- ThreadId: 16852	Priority: 8	State: Wait.
+- PID: 15472	Name: RuntimeBroker.
+	- ThreadId: 3136	Priority: 8	State: Wait.
+	- ThreadId: 15732	Priority: 8	State: Wait.
+- PID: 11428	Name: TextInputHost.
+	- ThreadId: 6688	Priority: 8	State: Wait.
+	- ThreadId: 7136	Priority: 8	State: Wait.
+	- ThreadId: 14084	Priority: 15	State: Wait.
+	- ThreadId: 7764	Priority: 8	State: Wait.
+	- ThreadId: 9824	Priority: 8	State: Wait.
+	- ThreadId: 15956	Priority: 15	State: Wait.
+	- ThreadId: 13620	Priority: 8	State: Wait.
+	- ThreadId: 9232	Priority: 11	State: Wait.
+	- ThreadId: 11876	Priority: 8	State: Wait.
+	- ThreadId: 780	Priority: 8	State: Wait.
+- PID: 9732	Name: RuntimeBroker.
+	- ThreadId: 18224	Priority: 8	State: Wait.
+	- ThreadId: 13304	Priority: 8	State: Wait.
+- PID: 32	Name: SecurityHealthSystray.
+	- ThreadId: 4656	Priority: 10	State: Wait.
+- PID: 13720	Name: RtkAudUService64.
+	- ThreadId: 5860	Priority: 10	State: Wait.
+	- ThreadId: 17300	Priority: 9	State: Wait.
+	- ThreadId: 15944	Priority: 9	State: Wait.
+	- ThreadId: 15588	Priority: 8	State: Wait.
+	- ThreadId: 11376	Priority: 8	State: Wait.
+	- ThreadId: 9272	Priority: 9	State: Wait.
+	- ThreadId: 16976	Priority: 8	State: Wait.
+	- ThreadId: 15480	Priority: 8	State: Wait.
+	- ThreadId: 12244	Priority: 8	State: Wait.
+	- ThreadId: 784	Priority: 8	State: Wait.
+- PID: 6544	Name: PanGPA.
+	- ThreadId: 13248	Priority: 10	State: Wait.
+	- ThreadId: 15420	Priority: 8	State: Wait.
+	- ThreadId: 2512	Priority: 11	State: Wait.
+	- ThreadId: 17856	Priority: 8	State: Wait.
+- PID: 9856	Name: OneDrive.
+	- ThreadId: 13536	Priority: 10	State: Wait.
+	- ThreadId: 11272	Priority: 10	State: Wait.
+	- ThreadId: 18204	Priority: 8	State: Wait.
+	- ThreadId: 18200	Priority: 8	State: Wait.
+	- ThreadId: 8764	Priority: 10	State: Wait.
+	- ThreadId: 6304	Priority: 9	State: Wait.
+	- ThreadId: 11420	Priority: 8	State: Wait.
+	- ThreadId: 15000	Priority: 8	State: Wait.
+	- ThreadId: 13952	Priority: 9	State: Wait.
+	- ThreadId: 8924	Priority: 8	State: Wait.
+	- ThreadId: 16628	Priority: 10	State: Wait.
+	- ThreadId: 4056	Priority: 8	State: Wait.
+	- ThreadId: 16372	Priority: 10	State: Wait.
+	- ThreadId: 12988	Priority: 8	State: Wait.
+	- ThreadId: 10096	Priority: 9	State: Wait.
+	- ThreadId: 15280	Priority: 9	State: Wait.
+	- ThreadId: 10188	Priority: 8	State: Wait.
+	- ThreadId: 15892	Priority: 10	State: Wait.
+	- ThreadId: 1052	Priority: 9	State: Wait.
+	- ThreadId: 18184	Priority: 10	State: Wait.
+	- ThreadId: 18052	Priority: 8	State: Wait.
+	- ThreadId: 15088	Priority: 10	State: Wait.
+	- ThreadId: 12236	Priority: 8	State: Wait.
+	- ThreadId: 10140	Priority: 9	State: Wait.
+	- ThreadId: 14040	Priority: 8	State: Wait.
+	- ThreadId: 18564	Priority: 8	State: Wait.
+- PID: 384	Name: IGCCTray.
+	- ThreadId: 17836	Priority: 10	State: Wait.
+	- ThreadId: 8384	Priority: 8	State: Wait.
+	- ThreadId: 2268	Priority: 10	State: Wait.
+	- ThreadId: 8324	Priority: 8	State: Wait.
+	- ThreadId: 10132	Priority: 10	State: Wait.
+	- ThreadId: 15424	Priority: 9	State: Wait.
+	- ThreadId: 16140	Priority: 8	State: Wait.
+	- ThreadId: 10308	Priority: 8	State: Wait.
+	- ThreadId: 17304	Priority: 8	State: Wait.
+	- ThreadId: 4788	Priority: 9	State: Wait.
+- PID: 14576	Name: Teams.
+	- ThreadId: 11684	Priority: 10	State: Wait.
+	- ThreadId: 11908	Priority: 8	State: Wait.
+	- ThreadId: 11888	Priority: 8	State: Wait.
+	- ThreadId: 15668	Priority: 8	State: Wait.
+	- ThreadId: 16040	Priority: 7	State: Wait.
+	- ThreadId: 17236	Priority: 10	State: Wait.
+	- ThreadId: 2928	Priority: 8	State: Wait.
+	- ThreadId: 3972	Priority: 8	State: Wait.
+	- ThreadId: 5128	Priority: 8	State: Wait.
+	- ThreadId: 17328	Priority: 8	State: Wait.
+	- ThreadId: 11056	Priority: 8	State: Wait.
+	- ThreadId: 13808	Priority: 8	State: Wait.
+	- ThreadId: 12280	Priority: 8	State: Wait.
+	- ThreadId: 3692	Priority: 8	State: Wait.
+	- ThreadId: 17128	Priority: 8	State: Wait.
+	- ThreadId: 11456	Priority: 8	State: Wait.
+	- ThreadId: 16060	Priority: 9	State: Wait.
+	- ThreadId: 1624	Priority: 8	State: Wait.
+	- ThreadId: 17716	Priority: 8	State: Wait.
+	- ThreadId: 17248	Priority: 9	State: Wait.
+	- ThreadId: 864	Priority: 8	State: Wait.
+	- ThreadId: 17540	Priority: 8	State: Wait.
+	- ThreadId: 11720	Priority: 8	State: Wait.
+	- ThreadId: 1516	Priority: 6	State: Wait.
+	- ThreadId: 17532	Priority: 8	State: Wait.
+	- ThreadId: 17960	Priority: 10	State: Wait.
+	- ThreadId: 5448	Priority: 8	State: Wait.
+	- ThreadId: 16104	Priority: 8	State: Wait.
+	- ThreadId: 13424	Priority: 8	State: Wait.
+	- ThreadId: 8420	Priority: 8	State: Wait.
+	- ThreadId: 16904	Priority: 8	State: Wait.
+	- ThreadId: 14696	Priority: 8	State: Wait.
+	- ThreadId: 2856	Priority: 9	State: Wait.
+	- ThreadId: 6264	Priority: 8	State: Wait.
+	- ThreadId: 9836	Priority: 8	State: Wait.
+	- ThreadId: 8976	Priority: 8	State: Wait.
+	- ThreadId: 8724	Priority: 6	State: Wait.
+	- ThreadId: 18568	Priority: 8	State: Wait.
+	- ThreadId: 19200	Priority: 8	State: Wait.
+- PID: 17292	Name: Cortana.
+	- ThreadId: 3872	Priority: 8	State: Wait.
+	- ThreadId: 16312	Priority: 10	State: Wait.
+	- ThreadId: 10200	Priority: 8	State: Wait.
+	- ThreadId: 15180	Priority: 9	State: Wait.
+	- ThreadId: 11596	Priority: 15	State: Wait.
+	- ThreadId: 13388	Priority: 9	State: Wait.
+	- ThreadId: 10276	Priority: 8	State: Wait.
+	- ThreadId: 13080	Priority: 8	State: Wait.
+	- ThreadId: 13096	Priority: 9	State: Wait.
+	- ThreadId: 12780	Priority: 8	State: Wait.
+	- ThreadId: 17036	Priority: 8	State: Wait.
+	- ThreadId: 17024	Priority: 8	State: Wait.
+	- ThreadId: 3520	Priority: 8	State: Wait.
+	- ThreadId: 7472	Priority: 8	State: Wait.
+	- ThreadId: 17320	Priority: 8	State: Wait.
+	- ThreadId: 15076	Priority: 8	State: Wait.
+	- ThreadId: 17804	Priority: 8	State: Wait.
+- PID: 2108	Name: RuntimeBroker.
+	- ThreadId: 8624	Priority: 8	State: Wait.
+	- ThreadId: 4020	Priority: 8	State: Wait.
+- PID: 5864	Name: svchost.
+	- ThreadId: 11336	Priority: 9	State: Wait.
+	- ThreadId: 8416	Priority: 9	State: Wait.
+	- ThreadId: 13512	Priority: 8	State: Wait.
+	- ThreadId: 17916	Priority: 8	State: Wait.
+	- ThreadId: 12456	Priority: 8	State: Wait.
+	- ThreadId: 15948	Priority: 9	State: Wait.
+	- ThreadId: 1960	Priority: 8	State: Wait.
+	- ThreadId: 15684	Priority: 9	State: Wait.
+	- ThreadId: 15872	Priority: 8	State: Wait.
+	- ThreadId: 13792	Priority: 9	State: Wait.
+	- ThreadId: 7580	Priority: 8	State: Wait.
+	- ThreadId: 7968	Priority: 8	State: Wait.
+- PID: 13660	Name: Teams.
+	- ThreadId: 3960	Priority: 12	State: Wait.
+	- ThreadId: 15636	Priority: 10	State: Wait.
+	- ThreadId: 15812	Priority: 10	State: Wait.
+	- ThreadId: 16632	Priority: 10	State: Wait.
+	- ThreadId: 18176	Priority: 8	State: Wait.
+	- ThreadId: 1188	Priority: 13	State: Wait.
+	- ThreadId: 8988	Priority: 11	State: Wait.
+	- ThreadId: 10800	Priority: 12	State: Wait.
+	- ThreadId: 5056	Priority: 12	State: Wait.
+	- ThreadId: 16256	Priority: 12	State: Wait.
+	- ThreadId: 16732	Priority: 12	State: Wait.
+	- ThreadId: 16248	Priority: 12	State: Wait.
+	- ThreadId: 8440	Priority: 12	State: Wait.
+	- ThreadId: 14092	Priority: 11	State: Wait.
+- PID: 3984	Name: Teams.
+	- ThreadId: 16232	Priority: 8	State: Wait.
+	- ThreadId: 14512	Priority: 8	State: Wait.
+	- ThreadId: 2536	Priority: 8	State: Wait.
+	- ThreadId: 12624	Priority: 9	State: Wait.
+	- ThreadId: 11512	Priority: 9	State: Wait.
+	- ThreadId: 16080	Priority: 10	State: Wait.
+	- ThreadId: 18032	Priority: 6	State: Wait.
+	- ThreadId: 11464	Priority: 8	State: Wait.
+	- ThreadId: 11092	Priority: 11	State: Wait.
+	- ThreadId: 5556	Priority: 8	State: Wait.
+	- ThreadId: 15380	Priority: 8	State: Wait.
+- PID: 16972	Name: Teams.
+	- ThreadId: 11580	Priority: 8	State: Wait.
+	- ThreadId: 7648	Priority: 8	State: Wait.
+	- ThreadId: 12460	Priority: 6	State: Wait.
+	- ThreadId: 13224	Priority: 11	State: Wait.
+	- ThreadId: 11520	Priority: 8	State: Wait.
+	- ThreadId: 6532	Priority: 9	State: Wait.
+	- ThreadId: 15072	Priority: 9	State: Wait.
+	- ThreadId: 9140	Priority: 9	State: Wait.
+	- ThreadId: 10568	Priority: 9	State: Wait.
+	- ThreadId: 8752	Priority: 9	State: Wait.
+	- ThreadId: 7548	Priority: 10	State: Wait.
+	- ThreadId: 9548	Priority: 9	State: Wait.
+	- ThreadId: 9896	Priority: 6	State: Wait.
+	- ThreadId: 9224	Priority: 9	State: Wait.
+	- ThreadId: 7820	Priority: 8	State: Wait.
+	- ThreadId: 14928	Priority: 9	State: Wait.
+	- ThreadId: 12968	Priority: 15	State: Wait.
+- PID: 4816	Name: Lightshot.
+	- ThreadId: 12204	Priority: 10	State: Wait.
+	- ThreadId: 17160	Priority: 8	State: Wait.
+	- ThreadId: 14860	Priority: 10	State: Wait.
+	- ThreadId: 10868	Priority: 8	State: Wait.
+- PID: 15680	Name: hpwuschd2.
+	- ThreadId: 11388	Priority: 10	State: Wait.
+- PID: 10512	Name: Teams.
+	- ThreadId: 6648	Priority: 8	State: Wait.
+	- ThreadId: 16200	Priority: 8	State: Wait.
+	- ThreadId: 16288	Priority: 8	State: Wait.
+	- ThreadId: 1016	Priority: 6	State: Wait.
+	- ThreadId: 368	Priority: 11	State: Wait.
+	- ThreadId: 14832	Priority: 8	State: Wait.
+	- ThreadId: 4052	Priority: 9	State: Wait.
+	- ThreadId: 4984	Priority: 10	State: Wait.
+	- ThreadId: 16284	Priority: 9	State: Wait.
+	- ThreadId: 13776	Priority: 9	State: Wait.
+	- ThreadId: 13712	Priority: 9	State: Wait.
+	- ThreadId: 15292	Priority: 9	State: Wait.
+	- ThreadId: 2156	Priority: 9	State: Wait.
+	- ThreadId: 11452	Priority: 7	State: Wait.
+	- ThreadId: 15868	Priority: 9	State: Wait.
+	- ThreadId: 15352	Priority: 8	State: Wait.
+	- ThreadId: 9496	Priority: 9	State: Wait.
+	- ThreadId: 4756	Priority: 8	State: Wait.
+	- ThreadId: 10604	Priority: 9	State: Wait.
+	- ThreadId: 16984	Priority: 9	State: Wait.
+	- ThreadId: 9660	Priority: 9	State: Wait.
+	- ThreadId: 2680	Priority: 8	State: Wait.
+	- ThreadId: 18396	Priority: 9	State: Wait.
+- PID: 14824	Name: Teams.
+	- ThreadId: 4016	Priority: 9	State: Wait.
+	- ThreadId: 7096	Priority: 8	State: Wait.
+	- ThreadId: 12612	Priority: 9	State: Wait.
+	- ThreadId: 14820	Priority: 8	State: Wait.
+	- ThreadId: 18400	Priority: 6	State: Wait.
+	- ThreadId: 18360	Priority: 10	State: Wait.
+	- ThreadId: 8132	Priority: 8	State: Wait.
+- PID: 13496	Name: IGCC.
+	- ThreadId: 2560	Priority: 8	State: Wait.
+	- ThreadId: 14552	Priority: 8	State: Wait.
+	- ThreadId: 9172	Priority: 10	State: Wait.
+	- ThreadId: 10292	Priority: 9	State: Wait.
+	- ThreadId: 17384	Priority: 15	State: Wait.
+	- ThreadId: 7652	Priority: 8	State: Wait.
+	- ThreadId: 9940	Priority: 8	State: Wait.
+	- ThreadId: 14132	Priority: 9	State: Wait.
+- PID: 17892	Name: ShellExperienceHost.
+	- ThreadId: 15448	Priority: 8	State: Wait.
+	- ThreadId: 14216	Priority: 9	State: Wait.
+	- ThreadId: 8220	Priority: 15	State: Wait.
+	- ThreadId: 8960	Priority: 8	State: Wait.
+	- ThreadId: 3888	Priority: 8	State: Wait.
+	- ThreadId: 2396	Priority: 15	State: Wait.
+	- ThreadId: 1392	Priority: 8	State: Wait.
+	- ThreadId: 1576	Priority: 8	State: Wait.
+	- ThreadId: 8672	Priority: 15	State: Wait.
+	- ThreadId: 3812	Priority: 10	State: Wait.
+	- ThreadId: 8348	Priority: 8	State: Wait.
+	- ThreadId: 19172	Priority: 8	State: Wait.
+	- ThreadId: 3480	Priority: 8	State: Wait.
+- PID: 14232	Name: ApplicationFrameHost.
+	- ThreadId: 10396	Priority: 8	State: Wait.
+	- ThreadId: 10840	Priority: 10	State: Wait.
+	- ThreadId: 8860	Priority: 10	State: Wait.
+	- ThreadId: 14528	Priority: 10	State: Wait.
+	- ThreadId: 3956	Priority: 10	State: Wait.
+	- ThreadId: 2244	Priority: 10	State: Wait.
+	- ThreadId: 9480	Priority: 10	State: Wait.
+	- ThreadId: 13436	Priority: 10	State: Wait.
+- PID: 8436	Name: RuntimeBroker.
+	- ThreadId: 1964	Priority: 8	State: Wait.
+- PID: 6916	Name: RuntimeBroker.
+	- ThreadId: 13924	Priority: 8	State: Wait.
+	- ThreadId: 6236	Priority: 10	State: Wait.
+	- ThreadId: 2164	Priority: 10	State: Wait.
+	- ThreadId: 17044	Priority: 8	State: Wait.
+- PID: 16700	Name: HxTsr.
+	- ThreadId: 9840	Priority: 8	State: Wait.
+	- ThreadId: 7600	Priority: 8	State: Wait.
+	- ThreadId: 13920	Priority: 8	State: Wait.
+	- ThreadId: 15456	Priority: 9	State: Wait.
+	- ThreadId: 980	Priority: 11	State: Wait.
+	- ThreadId: 16928	Priority: 9	State: Wait.
+	- ThreadId: 3652	Priority: 9	State: Wait.
+	- ThreadId: 14560	Priority: 8	State: Wait.
+	- ThreadId: 6564	Priority: 9	State: Wait.
+	- ThreadId: 10372	Priority: 8	State: Wait.
+	- ThreadId: 808	Priority: 9	State: Wait.
+	- ThreadId: 3592	Priority: 9	State: Wait.
+	- ThreadId: 10544	Priority: 8	State: Wait.
+	- ThreadId: 17012	Priority: 8	State: Wait.
+	- ThreadId: 12600	Priority: 8	State: Wait.
+- PID: 4008	Name: WinStore.App.
+	- ThreadId: 17668	Priority: 9	State: Wait.
+	- ThreadId: 13708	Priority: 11	State: Wait.
+	- ThreadId: 11840	Priority: 8	State: Wait.
+	- ThreadId: 1968	Priority: 9	State: Wait.
+	- ThreadId: 2800	Priority: 9	State: Wait.
+	- ThreadId: 7068	Priority: 15	State: Wait.
+	- ThreadId: 4344	Priority: 8	State: Wait.
+	- ThreadId: 12860	Priority: 8	State: Wait.
+	- ThreadId: 8448	Priority: 9	State: Wait.
+	- ThreadId: 14016	Priority: 8	State: Wait.
+	- ThreadId: 16756	Priority: 8	State: Wait.
+	- ThreadId: 15656	Priority: 8	State: Wait.
+	- ThreadId: 3548	Priority: 9	State: Wait.
+	- ThreadId: 1752	Priority: 8	State: Wait.
+	- ThreadId: 4148	Priority: 8	State: Wait.
+	- ThreadId: 11796	Priority: 10	State: Wait.
+	- ThreadId: 4032	Priority: 9	State: Wait.
+	- ThreadId: 10024	Priority: 8	State: Wait.
+	- ThreadId: 5944	Priority: 8	State: Wait.
+	- ThreadId: 10540	Priority: 8	State: Wait.
+- PID: 16864	Name: RuntimeBroker.
+	- ThreadId: 7728	Priority: 8	State: Wait.
+	- ThreadId: 14592	Priority: 9	State: Wait.
+- PID: 11244	Name: Teams.
+	- ThreadId: 11340	Priority: 9	State: Wait.
+	- ThreadId: 17524	Priority: 8	State: Wait.
+	- ThreadId: 9592	Priority: 6	State: Wait.
+	- ThreadId: 10112	Priority: 11	State: Wait.
+	- ThreadId: 2356	Priority: 8	State: Wait.
+	- ThreadId: 16368	Priority: 9	State: Wait.
+	- ThreadId: 16572	Priority: 10	State: Wait.
+	- ThreadId: 15220	Priority: 8	State: Wait.
+	- ThreadId: 17484	Priority: 9	State: Wait.
+	- ThreadId: 15028	Priority: 9	State: Wait.
+	- ThreadId: 14688	Priority: 9	State: Wait.
+	- ThreadId: 15148	Priority: 9	State: Wait.
+	- ThreadId: 14632	Priority: 7	State: Wait.
+	- ThreadId: 18832	Priority: 8	State: Wait.
+	- ThreadId: 13336	Priority: 8	State: Wait.
+	- ThreadId: 15404	Priority: 9	State: Wait.
+	- ThreadId: 18536	Priority: 9	State: Wait.
+- PID: 7732	Name: Teams.
+	- ThreadId: 14680	Priority: 8	State: Wait.
+	- ThreadId: 17492	Priority: 8	State: Wait.
+	- ThreadId: 17476	Priority: 8	State: Wait.
+	- ThreadId: 17496	Priority: 6	State: Wait.
+	- ThreadId: 5876	Priority: 9	State: Wait.
+	- ThreadId: 5516	Priority: 8	State: Wait.
+	- ThreadId: 3504	Priority: 9	State: Wait.
+	- ThreadId: 8940	Priority: 11	State: Wait.
+	- ThreadId: 13416	Priority: 8	State: Wait.
+	- ThreadId: 17344	Priority: 8	State: Wait.
+	- ThreadId: 372	Priority: 8	State: Wait.
+	- ThreadId: 17700	Priority: 8	State: Wait.
+	- ThreadId: 17084	Priority: 9	State: Wait.
+	- ThreadId: 2452	Priority: 7	State: Wait.
+	- ThreadId: 4068	Priority: 9	State: Wait.
+	- ThreadId: 17764	Priority: 8	State: Wait.
+	- ThreadId: 13236	Priority: 9	State: Wait.
+	- ThreadId: 14096	Priority: 9	State: Wait.
+	- ThreadId: 11648	Priority: 15	State: Wait.
+	- ThreadId: 8840	Priority: 7	State: Wait.
+	- ThreadId: 6468	Priority: 10	State: Wait.
+	- ThreadId: 12140	Priority: 8	State: Wait.
+	- ThreadId: 15304	Priority: 20	State: Wait.
+	- ThreadId: 8424	Priority: 7	State: Wait.
+	- ThreadId: 2264	Priority: 8	State: Wait.
+	- ThreadId: 8600	Priority: 12	State: Wait.
+	- ThreadId: 308	Priority: 9	State: Wait.
+	- ThreadId: 8552	Priority: 9	State: Wait.
+	- ThreadId: 15884	Priority: 9	State: Wait.
+	- ThreadId: 8140	Priority: 15	State: Wait.
+	- ThreadId: 3088	Priority: 12	State: Wait.
+	- ThreadId: 5452	Priority: 8	State: Wait.
+	- ThreadId: 6252	Priority: 8	State: Wait.
+	- ThreadId: 3860	Priority: 15	State: Wait.
+	- ThreadId: 6988	Priority: 15	State: Wait.
+	- ThreadId: 4248	Priority: 21	State: Wait.
+	- ThreadId: 11416	Priority: 15	State: Wait.
+	- ThreadId: 1440	Priority: 21	State: Wait.
+	- ThreadId: 13728	Priority: 9	State: Wait.
+	- ThreadId: 11148	Priority: 10	State: Wait.
+	- ThreadId: 6276	Priority: 9	State: Wait.
+	- ThreadId: 7076	Priority: 9	State: Wait.
+	- ThreadId: 7008	Priority: 9	State: Wait.
+	- ThreadId: 14752	Priority: 10	State: Wait.
+	- ThreadId: 12804	Priority: 8	State: Wait.
+	- ThreadId: 8260	Priority: 8	State: Wait.
+	- ThreadId: 1760	Priority: 9	State: Wait.
+	- ThreadId: 13532	Priority: 10	State: Wait.
+	- ThreadId: 3260	Priority: 9	State: Wait.
+	- ThreadId: 12064	Priority: 9	State: Wait.
+	- ThreadId: 18084	Priority: 8	State: Wait.
+	- ThreadId: 12704	Priority: 24	State: Wait.
+	- ThreadId: 16880	Priority: 21	State: Wait.
+	- ThreadId: 17352	Priority: 9	State: Wait.
+	- ThreadId: 796	Priority: 21	State: Wait.
+	- ThreadId: 13036	Priority: 8	State: Wait.
+	- ThreadId: 11332	Priority: 8	State: Wait.
+	- ThreadId: 13752	Priority: 8	State: Wait.
+	- ThreadId: 18528	Priority: 8	State: Wait.
+	- ThreadId: 16400	Priority: 8	State: Wait.
+	- ThreadId: 2568	Priority: 9	State: Wait.
+	- ThreadId: 7824	Priority: 9	State: Wait.
+	- ThreadId: 15092	Priority: 9	State: Wait.
+	- ThreadId: 7752	Priority: 9	State: Wait.
+	- ThreadId: 14772	Priority: 9	State: Wait.
+	- ThreadId: 18340	Priority: 9	State: Wait.
+	- ThreadId: 5216	Priority: 9	State: Wait.
+	- ThreadId: 3380	Priority: 9	State: Wait.
+	- ThreadId: 5504	Priority: 8	State: Wait.
+- PID: 15664	Name: SystemSettings.
+	- ThreadId: 13940	Priority: 9	State: Wait.
+	- ThreadId: 15900	Priority: 8	State: Wait.
+	- ThreadId: 4760	Priority: 8	State: Wait.
+	- ThreadId: 1708	Priority: 9	State: Wait.
+	- ThreadId: 17252	Priority: 15	State: Wait.
+	- ThreadId: 6608	Priority: 8	State: Wait.
+	- ThreadId: 5284	Priority: 9	State: Wait.
+	- ThreadId: 8184	Priority: 8	State: Wait.
+	- ThreadId: 10860	Priority: 8	State: Wait.
+	- ThreadId: 10520	Priority: 9	State: Wait.
+	- ThreadId: 12512	Priority: 8	State: Wait.
+	- ThreadId: 5824	Priority: 9	State: Wait.
+	- ThreadId: 16768	Priority: 8	State: Wait.
+	- ThreadId: 18408	Priority: 8	State: Wait.
+	- ThreadId: 8068	Priority: 8	State: Wait.
+	- ThreadId: 17956	Priority: 10	State: Wait.
+	- ThreadId: 18376	Priority: 8	State: Wait.
+	- ThreadId: 14796	Priority: 9	State: Wait.
+	- ThreadId: 17660	Priority: 9	State: Wait.
+	- ThreadId: 8900	Priority: 8	State: Wait.
+	- ThreadId: 15796	Priority: 8	State: Wait.
+	- ThreadId: 10956	Priority: 8	State: Wait.
+- PID: 3796	Name: HxCalendarAppImm.
+	- ThreadId: 12364	Priority: 9	State: Wait.
+	- ThreadId: 17136	Priority: 8	State: Wait.
+	- ThreadId: 15164	Priority: 9	State: Wait.
+	- ThreadId: 6348	Priority: 8	State: Wait.
+	- ThreadId: 17212	Priority: 9	State: Wait.
+	- ThreadId: 376	Priority: 8	State: Wait.
+	- ThreadId: 2968	Priority: 9	State: Wait.
+	- ThreadId: 11804	Priority: 9	State: Wait.
+	- ThreadId: 8444	Priority: 15	State: Wait.
+	- ThreadId: 5320	Priority: 8	State: Wait.
+	- ThreadId: 15400	Priority: 9	State: Wait.
+	- ThreadId: 13868	Priority: 9	State: Wait.
+	- ThreadId: 11892	Priority: 11	State: Wait.
+	- ThreadId: 16184	Priority: 9	State: Wait.
+	- ThreadId: 7860	Priority: 8	State: Wait.
+	- ThreadId: 17260	Priority: 9	State: Wait.
+	- ThreadId: 7612	Priority: 8	State: Wait.
+	- ThreadId: 14292	Priority: 8	State: Wait.
+	- ThreadId: 5600	Priority: 9	State: Wait.
+	- ThreadId: 1264	Priority: 9	State: Wait.
+	- ThreadId: 7832	Priority: 8	State: Wait.
+	- ThreadId: 11656	Priority: 8	State: Wait.
+	- ThreadId: 8844	Priority: 8	State: Wait.
+	- ThreadId: 13516	Priority: 8	State: Wait.
+	- ThreadId: 840	Priority: 8	State: Wait.
+	- ThreadId: 4100	Priority: 9	State: Wait.
+	- ThreadId: 5564	Priority: 8	State: Wait.
+	- ThreadId: 14816	Priority: 8	State: Wait.
+	- ThreadId: 9764	Priority: 8	State: Wait.
+	- ThreadId: 15556	Priority: 8	State: Wait.
+- PID: 268	Name: RuntimeBroker.
+	- ThreadId: 4660	Priority: 8	State: Wait.
+	- ThreadId: 11260	Priority: 10	State: Wait.
+	- ThreadId: 18288	Priority: 8	State: Wait.
+- PID: 10036	Name: Microsoft.Msn.Weather.
+	- ThreadId: 1600	Priority: 8	State: Wait.
+	- ThreadId: 1224	Priority: 9	State: Wait.
+	- ThreadId: 15952	Priority: 11	State: Wait.
+	- ThreadId: 10916	Priority: 8	State: Wait.
+	- ThreadId: 6076	Priority: 9	State: Wait.
+	- ThreadId: 5996	Priority: 15	State: Wait.
+	- ThreadId: 18332	Priority: 9	State: Wait.
+	- ThreadId: 6324	Priority: 8	State: Wait.
+	- ThreadId: 11164	Priority: 9	State: Wait.
+	- ThreadId: 10280	Priority: 8	State: Wait.
+	- ThreadId: 14464	Priority: 9	State: Wait.
+	- ThreadId: 3604	Priority: 9	State: Wait.
+	- ThreadId: 4048	Priority: 8	State: Wait.
+	- ThreadId: 8668	Priority: 8	State: Wait.
+	- ThreadId: 9612	Priority: 8	State: Wait.
+	- ThreadId: 6344	Priority: 9	State: Wait.
+	- ThreadId: 12376	Priority: 9	State: Wait.
+	- ThreadId: 17872	Priority: 8	State: Wait.
+	- ThreadId: 18364	Priority: 8	State: Wait.
+	- ThreadId: 16820	Priority: 9	State: Wait.
+	- ThreadId: 14264	Priority: 9	State: Wait.
+	- ThreadId: 10288	Priority: 8	State: Wait.
+	- ThreadId: 11988	Priority: 8	State: Wait.
+	- ThreadId: 18232	Priority: 8	State: Wait.
+- PID: 15236	Name: RuntimeBroker.
+	- ThreadId: 18152	Priority: 8	State: Wait.
+- PID: 3044	Name: Music.UI.
+	- ThreadId: 16968	Priority: 9	State: Wait.
+	- ThreadId: 7956	Priority: 9	State: Wait.
+	- ThreadId: 3696	Priority: 8	State: Wait.
+	- ThreadId: 14136	Priority: 9	State: Wait.
+	- ThreadId: 14444	Priority: 15	State: Wait.
+	- ThreadId: 4612	Priority: 9	State: Wait.
+	- ThreadId: 12292	Priority: 9	State: Wait.
+	- ThreadId: 408	Priority: 9	State: Wait.
+	- ThreadId: 14944	Priority: 9	State: Wait.
+	- ThreadId: 11792	Priority: 10	State: Wait.
+	- ThreadId: 2900	Priority: 8	State: Wait.
+	- ThreadId: 16516	Priority: 8	State: Wait.
+	- ThreadId: 8408	Priority: 8	State: Wait.
+	- ThreadId: 3280	Priority: 8	State: Wait.
+- PID: 15676	Name: Video.UI.
+	- ThreadId: 12872	Priority: 9	State: Wait.
+	- ThreadId: 2840	Priority: 9	State: Wait.
+	- ThreadId: 13044	Priority: 8	State: Wait.
+	- ThreadId: 9268	Priority: 9	State: Wait.
+	- ThreadId: 13820	Priority: 15	State: Wait.
+	- ThreadId: 12464	Priority: 9	State: Wait.
+	- ThreadId: 17964	Priority: 9	State: Wait.
+	- ThreadId: 15940	Priority: 9	State: Wait.
+	- ThreadId: 13504	Priority: 10	State: Wait.
+	- ThreadId: 12448	Priority: 8	State: Wait.
+	- ThreadId: 3472	Priority: 8	State: Wait.
+	- ThreadId: 13000	Priority: 8	State: Wait.
+	- ThreadId: 14744	Priority: 8	State: Wait.
+	- ThreadId: 11572	Priority: 8	State: Wait.
+- PID: 16004	Name: firefox.
+	- ThreadId: 13892	Priority: 10	State: Wait.
+	- ThreadId: 17076	Priority: 8	State: Wait.
+	- ThreadId: 15264	Priority: 8	State: Wait.
+	- ThreadId: 15020	Priority: 10	State: Wait.
+	- ThreadId: 8788	Priority: 9	State: Wait.
+	- ThreadId: 12212	Priority: 8	State: Wait.
+	- ThreadId: 4488	Priority: 10	State: Wait.
+	- ThreadId: 17444	Priority: 8	State: Wait.
+	- ThreadId: 11608	Priority: 8	State: Wait.
+	- ThreadId: 6004	Priority: 8	State: Wait.
+	- ThreadId: 2988	Priority: 9	State: Wait.
+	- ThreadId: 14428	Priority: 9	State: Wait.
+	- ThreadId: 16164	Priority: 9	State: Wait.
+	- ThreadId: 17556	Priority: 9	State: Wait.
+	- ThreadId: 8524	Priority: 9	State: Wait.
+	- ThreadId: 9768	Priority: 9	State: Wait.
+	- ThreadId: 1100	Priority: 9	State: Wait.
+	- ThreadId: 14596	Priority: 9	State: Wait.
+	- ThreadId: 5816	Priority: 9	State: Wait.
+	- ThreadId: 8096	Priority: 8	State: Wait.
+	- ThreadId: 15848	Priority: 8	State: Wait.
+	- ThreadId: 11800	Priority: 9	State: Wait.
+	- ThreadId: 836	Priority: 8	State: Wait.
+	- ThreadId: 16492	Priority: 8	State: Wait.
+	- ThreadId: 6064	Priority: 9	State: Wait.
+	- ThreadId: 9004	Priority: 8	State: Wait.
+	- ThreadId: 568	Priority: 8	State: Wait.
+	- ThreadId: 14648	Priority: 9	State: Wait.
+	- ThreadId: 17932	Priority: 13	State: Wait.
+	- ThreadId: 15184	Priority: 9	State: Wait.
+	- ThreadId: 16464	Priority: 9	State: Wait.
+	- ThreadId: 14028	Priority: 8	State: Wait.
+	- ThreadId: 1148	Priority: 8	State: Wait.
+	- ThreadId: 3416	Priority: 8	State: Wait.
+	- ThreadId: 2364	Priority: 8	State: Wait.
+	- ThreadId: 16724	Priority: 8	State: Wait.
+	- ThreadId: 11400	Priority: 8	State: Wait.
+	- ThreadId: 4484	Priority: 8	State: Wait.
+	- ThreadId: 2824	Priority: 8	State: Wait.
+	- ThreadId: 6556	Priority: 8	State: Wait.
+	- ThreadId: 7092	Priority: 8	State: Wait.
+	- ThreadId: 9524	Priority: 8	State: Wait.
+	- ThreadId: 8540	Priority: 21	State: Wait.
+	- ThreadId: 516	Priority: 8	State: Wait.
+	- ThreadId: 7568	Priority: 8	State: Wait.
+	- ThreadId: 17000	Priority: 8	State: Wait.
+	- ThreadId: 14728	Priority: 8	State: Wait.
+	- ThreadId: 16868	Priority: 8	State: Wait.
+	- ThreadId: 11232	Priority: 8	State: Wait.
+	- ThreadId: 18372	Priority: 8	State: Wait.
+	- ThreadId: 2964	Priority: 8	State: Wait.
+	- ThreadId: 2040	Priority: 8	State: Wait.
+	- ThreadId: 18344	Priority: 9	State: Wait.
+	- ThreadId: 3324	Priority: 8	State: Wait.
+	- ThreadId: 17940	Priority: 9	State: Wait.
+	- ThreadId: 17200	Priority: 8	State: Wait.
+	- ThreadId: 1668	Priority: 8	State: Wait.
+	- ThreadId: 7520	Priority: 7	State: Wait.
+	- ThreadId: 7884	Priority: 8	State: Wait.
+	- ThreadId: 2372	Priority: 8	State: Wait.
+	- ThreadId: 1756	Priority: 8	State: Wait.
+	- ThreadId: 996	Priority: 8	State: Wait.
+	- ThreadId: 9952	Priority: 8	State: Wait.
+	- ThreadId: 15116	Priority: 9	State: Wait.
+	- ThreadId: 10232	Priority: 9	State: Wait.
+	- ThreadId: 12792	Priority: 8	State: Wait.
+	- ThreadId: 15296	Priority: 10	State: Wait.
+	- ThreadId: 7080	Priority: 8	State: Wait.
+	- ThreadId: 16216	Priority: 9	State: Wait.
+	- ThreadId: 1832	Priority: 9	State: Wait.
+	- ThreadId: 9452	Priority: 8	State: Wait.
+	- ThreadId: 3748	Priority: 8	State: Wait.
+	- ThreadId: 12276	Priority: 10	State: Wait.
+	- ThreadId: 10260	Priority: 8	State: Wait.
+	- ThreadId: 11880	Priority: 8	State: Wait.
+	- ThreadId: 7748	Priority: 9	State: Wait.
+	- ThreadId: 15792	Priority: 8	State: Wait.
+	- ThreadId: 10744	Priority: 8	State: Wait.
+	- ThreadId: 2660	Priority: 9	State: Wait.
+	- ThreadId: 1068	Priority: 8	State: Wait.
+	- ThreadId: 7260	Priority: 8	State: Wait.
+	- ThreadId: 14896	Priority: 9	State: Wait.
+	- ThreadId: 10784	Priority: 8	State: Wait.
+	- ThreadId: 10216	Priority: 9	State: Wait.
+	- ThreadId: 14640	Priority: 8	State: Wait.
+	- ThreadId: 6124	Priority: 9	State: Wait.
+	- ThreadId: 11084	Priority: 8	State: Wait.
+	- ThreadId: 9616	Priority: 8	State: Wait.
+	- ThreadId: 2252	Priority: 8	State: Wait.
+	- ThreadId: 10144	Priority: 8	State: Wait.
+	- ThreadId: 5144	Priority: 8	State: Wait.
+	- ThreadId: 7152	Priority: 8	State: Wait.
+	- ThreadId: 3496	Priority: 8	State: Wait.
+	- ThreadId: 1820	Priority: 9	State: Wait.
+	- ThreadId: 16156	Priority: 9	State: Wait.
+	- ThreadId: 12556	Priority: 9	State: Wait.
+	- ThreadId: 11320	Priority: 8	State: Wait.
+- PID: 5536	Name: firefox.
+	- ThreadId: 17184	Priority: 10	State: Wait.
+	- ThreadId: 14224	Priority: 10	State: Wait.
+	- ThreadId: 14288	Priority: 9	State: Wait.
+	- ThreadId: 7876	Priority: 9	State: Wait.
+	- ThreadId: 8464	Priority: 9	State: Wait.
+	- ThreadId: 15744	Priority: 9	State: Wait.
+	- ThreadId: 17240	Priority: 9	State: Wait.
+	- ThreadId: 7924	Priority: 9	State: Wait.
+	- ThreadId: 11564	Priority: 9	State: Wait.
+	- ThreadId: 9156	Priority: 9	State: Wait.
+	- ThreadId: 7576	Priority: 9	State: Wait.
+	- ThreadId: 17796	Priority: 9	State: Wait.
+	- ThreadId: 2740	Priority: 8	State: Wait.
+	- ThreadId: 13152	Priority: 8	State: Wait.
+	- ThreadId: 11952	Priority: 8	State: Wait.
+	- ThreadId: 18336	Priority: 9	State: Wait.
+	- ThreadId: 13784	Priority: 9	State: Wait.
+	- ThreadId: 11288	Priority: 9	State: Wait.
+	- ThreadId: 15124	Priority: 8	State: Wait.
+	- ThreadId: 7380	Priority: 8	State: Wait.
+	- ThreadId: 18140	Priority: 10	State: Wait.
+	- ThreadId: 15976	Priority: 9	State: Wait.
+	- ThreadId: 13552	Priority: 9	State: Wait.
+	- ThreadId: 17388	Priority: 9	State: Wait.
+	- ThreadId: 15208	Priority: 9	State: Wait.
+	- ThreadId: 11076	Priority: 9	State: Wait.
+	- ThreadId: 6604	Priority: 9	State: Wait.
+	- ThreadId: 16056	Priority: 9	State: Wait.
+	- ThreadId: 9028	Priority: 9	State: Wait.
+	- ThreadId: 9544	Priority: 9	State: Wait.
+	- ThreadId: 9052	Priority: 8	State: Wait.
+	- ThreadId: 14540	Priority: 9	State: Wait.
+	- ThreadId: 16692	Priority: 9	State: Wait.
+	- ThreadId: 14808	Priority: 9	State: Wait.
+- PID: 13800	Name: firefox.
+	- ThreadId: 13212	Priority: 5	State: Wait.
+	- ThreadId: 18192	Priority: 6	State: Wait.
+	- ThreadId: 17296	Priority: 6	State: Wait.
+	- ThreadId: 12668	Priority: 4	State: Wait.
+	- ThreadId: 812	Priority: 5	State: Wait.
+	- ThreadId: 13840	Priority: 5	State: Wait.
+	- ThreadId: 15196	Priority: 5	State: Wait.
+	- ThreadId: 5580	Priority: 5	State: Wait.
+	- ThreadId: 16704	Priority: 5	State: Wait.
+	- ThreadId: 12984	Priority: 5	State: Wait.
+	- ThreadId: 6920	Priority: 5	State: Wait.
+	- ThreadId: 12812	Priority: 5	State: Wait.
+	- ThreadId: 17188	Priority: 4	State: Wait.
+	- ThreadId: 17424	Priority: 5	State: Wait.
+	- ThreadId: 9552	Priority: 4	State: Wait.
+	- ThreadId: 13232	Priority: 4	State: Wait.
+	- ThreadId: 9852	Priority: 5	State: Wait.
+	- ThreadId: 3964	Priority: 4	State: Wait.
+	- ThreadId: 12040	Priority: 4	State: Wait.
+	- ThreadId: 3056	Priority: 4	State: Wait.
+	- ThreadId: 15484	Priority: 4	State: Wait.
+	- ThreadId: 8392	Priority: 4	State: Wait.
+	- ThreadId: 13072	Priority: 4	State: Wait.
+	- ThreadId: 3744	Priority: 4	State: Wait.
+	- ThreadId: 16484	Priority: 4	State: Wait.
+	- ThreadId: 1776	Priority: 4	State: Wait.
+	- ThreadId: 3408	Priority: 4	State: Wait.
+	- ThreadId: 5492	Priority: 4	State: Wait.
+	- ThreadId: 1784	Priority: 5	State: Wait.
+	- ThreadId: 12816	Priority: 5	State: Wait.
+	- ThreadId: 4728	Priority: 5	State: Wait.
+	- ThreadId: 7680	Priority: 5	State: Wait.
+	- ThreadId: 14664	Priority: 5	State: Wait.
+	- ThreadId: 11412	Priority: 5	State: Wait.
+	- ThreadId: 7072	Priority: 5	State: Wait.
+	- ThreadId: 17772	Priority: 5	State: Wait.
+	- ThreadId: 10516	Priority: 4	State: Wait.
+- PID: 15068	Name: firefox.
+	- ThreadId: 13408	Priority: 5	State: Wait.
+	- ThreadId: 11632	Priority: 5	State: Wait.
+	- ThreadId: 6268	Priority: 6	State: Wait.
+	- ThreadId: 15368	Priority: 4	State: Wait.
+	- ThreadId: 4616	Priority: 5	State: Wait.
+	- ThreadId: 17224	Priority: 5	State: Wait.
+	- ThreadId: 10684	Priority: 5	State: Wait.
+	- ThreadId: 9196	Priority: 5	State: Wait.
+	- ThreadId: 16608	Priority: 5	State: Wait.
+	- ThreadId: 5104	Priority: 5	State: Wait.
+	- ThreadId: 15628	Priority: 5	State: Wait.
+	- ThreadId: 7536	Priority: 5	State: Wait.
+	- ThreadId: 392	Priority: 4	State: Wait.
+	- ThreadId: 8400	Priority: 5	State: Wait.
+	- ThreadId: 4304	Priority: 4	State: Wait.
+	- ThreadId: 17788	Priority: 4	State: Wait.
+	- ThreadId: 9596	Priority: 4	State: Wait.
+	- ThreadId: 7236	Priority: 5	State: Wait.
+	- ThreadId: 10192	Priority: 4	State: Wait.
+	- ThreadId: 4076	Priority: 4	State: Wait.
+	- ThreadId: 7360	Priority: 4	State: Wait.
+	- ThreadId: 3332	Priority: 4	State: Wait.
+	- ThreadId: 5512	Priority: 4	State: Wait.
+	- ThreadId: 9024	Priority: 4	State: Wait.
+	- ThreadId: 17168	Priority: 4	State: Wait.
+	- ThreadId: 15580	Priority: 4	State: Wait.
+	- ThreadId: 2716	Priority: 4	State: Wait.
+	- ThreadId: 15460	Priority: 4	State: Wait.
+	- ThreadId: 9984	Priority: 4	State: Wait.
+	- ThreadId: 15328	Priority: 4	State: Wait.
+	- ThreadId: 4392	Priority: 4	State: Wait.
+	- ThreadId: 18348	Priority: 4	State: Wait.
+	- ThreadId: 12720	Priority: 4	State: Wait.
+	- ThreadId: 2720	Priority: 4	State: Wait.
+	- ThreadId: 12208	Priority: 4	State: Wait.
+	- ThreadId: 11776	Priority: 4	State: Wait.
+	- ThreadId: 8548	Priority: 5	State: Wait.
+- PID: 1676	Name: firefox.
+	- ThreadId: 11252	Priority: 5	State: Wait.
+	- ThreadId: 15876	Priority: 6	State: Wait.
+	- ThreadId: 14004	Priority: 6	State: Wait.
+	- ThreadId: 9436	Priority: 4	State: Wait.
+	- ThreadId: 7932	Priority: 5	State: Wait.
+	- ThreadId: 13596	Priority: 5	State: Wait.
+	- ThreadId: 9360	Priority: 5	State: Wait.
+	- ThreadId: 11220	Priority: 5	State: Wait.
+	- ThreadId: 4684	Priority: 5	State: Wait.
+	- ThreadId: 17072	Priority: 5	State: Wait.
+	- ThreadId: 13592	Priority: 5	State: Wait.
+	- ThreadId: 3168	Priority: 5	State: Wait.
+	- ThreadId: 3344	Priority: 4	State: Wait.
+	- ThreadId: 1588	Priority: 5	State: Wait.
+	- ThreadId: 16660	Priority: 4	State: Wait.
+	- ThreadId: 11216	Priority: 4	State: Wait.
+	- ThreadId: 7164	Priority: 4	State: Wait.
+	- ThreadId: 2792	Priority: 5	State: Wait.
+	- ThreadId: 8872	Priority: 4	State: Wait.
+	- ThreadId: 8476	Priority: 4	State: Wait.
+	- ThreadId: 17056	Priority: 4	State: Wait.
+	- ThreadId: 18136	Priority: 4	State: Wait.
+	- ThreadId: 1028	Priority: 4	State: Wait.
+	- ThreadId: 13804	Priority: 4	State: Wait.
+	- ThreadId: 11468	Priority: 4	State: Wait.
+	- ThreadId: 4120	Priority: 4	State: Wait.
+	- ThreadId: 2416	Priority: 4	State: Wait.
+	- ThreadId: 16740	Priority: 4	State: Wait.
+- PID: 11664	Name: firefox.
+	- ThreadId: 16412	Priority: 9	State: Wait.
+	- ThreadId: 1492	Priority: 10	State: Wait.
+	- ThreadId: 9864	Priority: 10	State: Wait.
+	- ThreadId: 15584	Priority: 8	State: Wait.
+	- ThreadId: 12312	Priority: 9	State: Wait.
+	- ThreadId: 11616	Priority: 9	State: Wait.
+	- ThreadId: 16780	Priority: 9	State: Wait.
+	- ThreadId: 5528	Priority: 9	State: Wait.
+	- ThreadId: 1168	Priority: 9	State: Wait.
+	- ThreadId: 11704	Priority: 9	State: Wait.
+	- ThreadId: 17472	Priority: 9	State: Wait.
+	- ThreadId: 8736	Priority: 9	State: Wait.
+	- ThreadId: 360	Priority: 8	State: Wait.
+	- ThreadId: 18092	Priority: 9	State: Wait.
+	- ThreadId: 8332	Priority: 9	State: Wait.
+	- ThreadId: 9368	Priority: 8	State: Wait.
+	- ThreadId: 15612	Priority: 9	State: Wait.
+	- ThreadId: 16616	Priority: 9	State: Wait.
+	- ThreadId: 17576	Priority: 9	State: Wait.
+	- ThreadId: 13484	Priority: 9	State: Wait.
+	- ThreadId: 14256	Priority: 9	State: Wait.
+	- ThreadId: 13972	Priority: 9	State: Wait.
+	- ThreadId: 3276	Priority: 9	State: Wait.
+	- ThreadId: 14972	Priority: 9	State: Wait.
+	- ThreadId: 9700	Priority: 9	State: Wait.
+	- ThreadId: 1944	Priority: 8	State: Wait.
+	- ThreadId: 8168	Priority: 8	State: Wait.
+	- ThreadId: 1772	Priority: 9	State: Wait.
+	- ThreadId: 18320	Priority: 9	State: Wait.
+	- ThreadId: 10348	Priority: 9	State: Wait.
+	- ThreadId: 14724	Priority: 9	State: Wait.
+	- ThreadId: 8232	Priority: 9	State: Wait.
+	- ThreadId: 10640	Priority: 9	State: Wait.
+	- ThreadId: 8620	Priority: 9	State: Wait.
+	- ThreadId: 14620	Priority: 9	State: Wait.
+	- ThreadId: 9284	Priority: 9	State: Wait.
+- PID: 7456	Name: firefox.
+	- ThreadId: 14408	Priority: 9	State: Wait.
+	- ThreadId: 844	Priority: 10	State: Wait.
+	- ThreadId: 10696	Priority: 10	State: Wait.
+	- ThreadId: 10936	Priority: 8	State: Wait.
+	- ThreadId: 15324	Priority: 9	State: Wait.
+	- ThreadId: 8804	Priority: 9	State: Wait.
+	- ThreadId: 4752	Priority: 9	State: Wait.
+	- ThreadId: 1540	Priority: 9	State: Wait.
+	- ThreadId: 4860	Priority: 9	State: Wait.
+	- ThreadId: 2776	Priority: 9	State: Wait.
+	- ThreadId: 13664	Priority: 9	State: Wait.
+	- ThreadId: 504	Priority: 9	State: Wait.
+	- ThreadId: 11240	Priority: 9	State: Wait.
+	- ThreadId: 8492	Priority: 9	State: Wait.
+	- ThreadId: 16000	Priority: 9	State: Wait.
+	- ThreadId: 16556	Priority: 8	State: Wait.
+	- ThreadId: 8952	Priority: 9	State: Wait.
+	- ThreadId: 9668	Priority: 9	State: Wait.
+	- ThreadId: 10752	Priority: 9	State: Wait.
+	- ThreadId: 12852	Priority: 9	State: Wait.
+	- ThreadId: 16192	Priority: 9	State: Wait.
+	- ThreadId: 1592	Priority: 9	State: Wait.
+	- ThreadId: 13136	Priority: 9	State: Wait.
+	- ThreadId: 13704	Priority: 9	State: Wait.
+	- ThreadId: 7780	Priority: 9	State: Wait.
+	- ThreadId: 10988	Priority: 9	State: Wait.
+	- ThreadId: 9208	Priority: 9	State: Wait.
+	- ThreadId: 12548	Priority: 9	State: Wait.
+	- ThreadId: 17080	Priority: 9	State: Wait.
+	- ThreadId: 12396	Priority: 9	State: Wait.
+	- ThreadId: 11968	Priority: 9	State: Wait.
+	- ThreadId: 15040	Priority: 9	State: Wait.
+	- ThreadId: 2424	Priority: 9	State: Wait.
+	- ThreadId: 17768	Priority: 9	State: Wait.
+	- ThreadId: 17776	Priority: 9	State: Wait.
+	- ThreadId: 18064	Priority: 9	State: Wait.
+- PID: 3680	Name: CompPkgSrv.
+	- ThreadId: 4968	Priority: 8	State: Wait.
+- PID: 3932	Name: firefox.
+	- ThreadId: 15104	Priority: 9	State: Wait.
+	- ThreadId: 2332	Priority: 10	State: Wait.
+	- ThreadId: 18356	Priority: 9	State: Wait.
+	- ThreadId: 860	Priority: 9	State: Wait.
+	- ThreadId: 12544	Priority: 8	State: Wait.
+	- ThreadId: 3556	Priority: 9	State: Wait.
+	- ThreadId: 12192	Priority: 8	State: Wait.
+- PID: 14252	Name: UserOOBEBroker.
+	- ThreadId: 16840	Priority: 8	State: Wait.
+	- ThreadId: 4464	Priority: 8	State: Wait.
+	- ThreadId: 17156	Priority: 8	State: Wait.
+- PID: 9400	Name: firefox.
+	- ThreadId: 18048	Priority: 5	State: Wait.
+	- ThreadId: 12876	Priority: 6	State: Wait.
+	- ThreadId: 7700	Priority: 4	State: Wait.
+	- ThreadId: 13012	Priority: 4	State: Wait.
+	- ThreadId: 12168	Priority: 4	State: Wait.
+	- ThreadId: 11540	Priority: 4	State: Wait.
+	- ThreadId: 7172	Priority: 5	State: Wait.
+	- ThreadId: 2352	Priority: 4	State: Wait.
+	- ThreadId: 16752	Priority: 4	State: Wait.
+	- ThreadId: 9408	Priority: 4	State: Wait.
+	- ThreadId: 17808	Priority: 4	State: Wait.
+	- ThreadId: 18248	Priority: 4	State: Wait.
+	- ThreadId: 14956	Priority: 4	State: Wait.
+	- ThreadId: 15632	Priority: 4	State: Wait.
+	- ThreadId: 11788	Priority: 4	State: Wait.
+	- ThreadId: 11856	Priority: 4	State: Wait.
+	- ThreadId: 4956	Priority: 4	State: Wait.
+	- ThreadId: 3448	Priority: 4	State: Wait.
+	- ThreadId: 15960	Priority: 4	State: Wait.
+	- ThreadId: 1644	Priority: 4	State: Wait.
+	- ThreadId: 5856	Priority: 4	State: Wait.
+	- ThreadId: 9776	Priority: 4	State: Wait.
+	- ThreadId: 14852	Priority: 4	State: Wait.
+	- ThreadId: 10548	Priority: 4	State: Wait.
+	- ThreadId: 5992	Priority: 4	State: Wait.
+	- ThreadId: 14432	Priority: 4	State: Wait.
+	- ThreadId: 16568	Priority: 4	State: Wait.
+	- ThreadId: 6464	Priority: 4	State: Wait.
+	- ThreadId: 15896	Priority: 4	State: Wait.
+	- ThreadId: 3452	Priority: 4	State: Wait.
+	- ThreadId: 11736	Priority: 4	State: Wait.
+	- ThreadId: 13576	Priority: 4	State: Wait.
+	- ThreadId: 3304	Priority: 4	State: Wait.
+	- ThreadId: 7796	Priority: 4	State: Wait.
+	- ThreadId: 14484	Priority: 4	State: Wait.
+	- ThreadId: 7344	Priority: 4	State: Wait.
+- PID: 17648	Name: HxOutlook.
+	- ThreadId: 10012	Priority: 9	State: Wait.
+	- ThreadId: 1176	Priority: 9	State: Wait.
+	- ThreadId: 2376	Priority: 9	State: Wait.
+	- ThreadId: 2764	Priority: 8	State: Wait.
+	- ThreadId: 17040	Priority: 8	State: Wait.
+	- ThreadId: 15384	Priority: 9	State: Wait.
+	- ThreadId: 15592	Priority: 9	State: Wait.
+	- ThreadId: 8528	Priority: 9	State: Wait.
+	- ThreadId: 11728	Priority: 8	State: Wait.
+	- ThreadId: 16920	Priority: 15	State: Wait.
+	- ThreadId: 1804	Priority: 8	State: Wait.
+	- ThreadId: 13696	Priority: 9	State: Wait.
+	- ThreadId: 13192	Priority: 9	State: Wait.
+	- ThreadId: 1564	Priority: 8	State: Wait.
+	- ThreadId: 15660	Priority: 10	State: Wait.
+	- ThreadId: 14676	Priority: 9	State: Wait.
+	- ThreadId: 12060	Priority: 8	State: Wait.
+	- ThreadId: 17500	Priority: 9	State: Wait.
+	- ThreadId: 11624	Priority: 8	State: Wait.
+	- ThreadId: 9560	Priority: 9	State: Wait.
+	- ThreadId: 312	Priority: 9	State: Wait.
+	- ThreadId: 9036	Priority: 9	State: Wait.
+	- ThreadId: 17624	Priority: 9	State: Wait.
+	- ThreadId: 12608	Priority: 9	State: Wait.
+	- ThreadId: 3648	Priority: 8	State: Wait.
+	- ThreadId: 304	Priority: 8	State: Wait.
+	- ThreadId: 5296	Priority: 8	State: Wait.
+	- ThreadId: 828	Priority: 8	State: Wait.
+- PID: 10148	Name: devenv.
+	- ThreadId: 11380	Priority: 10	State: Running.
+	- ThreadId: 15308	Priority: 8	State: Wait.
+	- ThreadId: 1300	Priority: 11	State: Wait.
+	- ThreadId: 3836	Priority: 8	State: Wait.
+	- ThreadId: 7828	Priority: 8	State: Wait.
+	- ThreadId: 17104	Priority: 8	State: Wait.
+	- ThreadId: 11292	Priority: 9	State: Wait.
+	- ThreadId: 11308	Priority: 9	State: Wait.
+	- ThreadId: 14960	Priority: 8	State: Wait.
+	- ThreadId: 10588	Priority: 8	State: Wait.
+	- ThreadId: 17864	Priority: 8	State: Wait.
+	- ThreadId: 16404	Priority: 8	State: Wait.
+	- ThreadId: 9636	Priority: 11	State: Wait.
+	- ThreadId: 13240	Priority: 8	State: Wait.
+	- ThreadId: 16560	Priority: 8	State: Wait.
+	- ThreadId: 13220	Priority: 8	State: Wait.
+	- ThreadId: 18300	Priority: 8	State: Wait.
+	- ThreadId: 11844	Priority: 8	State: Wait.
+	- ThreadId: 3360	Priority: 8	State: Wait.
+	- ThreadId: 14308	Priority: 8	State: Wait.
+	- ThreadId: 10304	Priority: 10	State: Wait.
+	- ThreadId: 8500	Priority: 9	State: Wait.
+	- ThreadId: 12952	Priority: 9	State: Wait.
+	- ThreadId: 11408	Priority: 8	State: Wait.
+	- ThreadId: 17924	Priority: 9	State: Wait.
+	- ThreadId: 1004	Priority: 9	State: Wait.
+	- ThreadId: 18020	Priority: 8	State: Wait.
+	- ThreadId: 8688	Priority: 9	State: Wait.
+	- ThreadId: 9876	Priority: 9	State: Wait.
+	- ThreadId: 8848	Priority: 8	State: Wait.
+	- ThreadId: 12576	Priority: 9	State: Wait.
+	- ThreadId: 15688	Priority: 10	State: Wait.
+	- ThreadId: 18644	Priority: 9	State: Wait.
+	- ThreadId: 18676	Priority: 9	State: Wait.
+	- ThreadId: 18672	Priority: 9	State: Wait.
+	- ThreadId: 18664	Priority: 9	State: Wait.
+	- ThreadId: 18668	Priority: 9	State: Wait.
+	- ThreadId: 1696	Priority: 9	State: Wait.
+	- ThreadId: 16900	Priority: 10	State: Wait.
+	- ThreadId: 9204	Priority: 10	State: Wait.
+	- ThreadId: 12960	Priority: 9	State: Wait.
+	- ThreadId: 852	Priority: 9	State: Wait.
+	- ThreadId: 14172	Priority: 10	State: Wait.
+	- ThreadId: 17588	Priority: 8	State: Wait.
+	- ThreadId: 3300	Priority: 9	State: Wait.
+	- ThreadId: 9088	Priority: 8	State: Wait.
+	- ThreadId: 17884	Priority: 9	State: Wait.
+	- ThreadId: 12508	Priority: 9	State: Wait.
+	- ThreadId: 13488	Priority: 8	State: Wait.
+	- ThreadId: 15844	Priority: 8	State: Wait.
+	- ThreadId: 10072	Priority: 9	State: Wait.
+	- ThreadId: 12496	Priority: 9	State: Wait.
+	- ThreadId: 15936	Priority: 10	State: Wait.
+	- ThreadId: 9792	Priority: 10	State: Wait.
+	- ThreadId: 4372	Priority: 9	State: Wait.
+	- ThreadId: 4632	Priority: 9	State: Wait.
+	- ThreadId: 2140	Priority: 9	State: Wait.
+	- ThreadId: 7816	Priority: 9	State: Wait.
+	- ThreadId: 11328	Priority: 9	State: Wait.
+	- ThreadId: 12920	Priority: 9	State: Wait.
+	- ThreadId: 11088	Priority: 9	State: Wait.
+- PID: 10576	Name: PerfWatson2.
+	- ThreadId: 5924	Priority: 10	State: Wait.
+	- ThreadId: 10728	Priority: 8	State: Wait.
+	- ThreadId: 10020	Priority: 10	State: Wait.
+	- ThreadId: 17908	Priority: 9	State: Wait.
+	- ThreadId: 16532	Priority: 8	State: Wait.
+	- ThreadId: 1640	Priority: 9	State: Wait.
+	- ThreadId: 17376	Priority: 8	State: Wait.
+	- ThreadId: 13448	Priority: 8	State: Wait.
+	- ThreadId: 10068	Priority: 8	State: Wait.
+	- ThreadId: 3208	Priority: 9	State: Wait.
+	- ThreadId: 7052	Priority: 8	State: Wait.
+	- ThreadId: 4276	Priority: 8	State: Wait.
+	- ThreadId: 17968	Priority: 10	State: Wait.
+	- ThreadId: 13396	Priority: 8	State: Wait.
+	- ThreadId: 15428	Priority: 9	State: Wait.
+	- ThreadId: 15348	Priority: 8	State: Wait.
+	- ThreadId: 16640	Priority: 9	State: Wait.
+	- ThreadId: 18468	Priority: 9	State: Wait.
+	- ThreadId: 320	Priority: 9	State: Wait.
+- PID: 4604	Name: Microsoft.ServiceHub.Controller.
+	- ThreadId: 4352	Priority: 8	State: Wait.
+	- ThreadId: 14204	Priority: 8	State: Wait.
+	- ThreadId: 896	Priority: 10	State: Wait.
+	- ThreadId: 14360	Priority: 8	State: Wait.
+	- ThreadId: 9632	Priority: 9	State: Wait.
+	- ThreadId: 17360	Priority: 8	State: Wait.
+	- ThreadId: 1484	Priority: 8	State: Wait.
+	- ThreadId: 5008	Priority: 10	State: Wait.
+	- ThreadId: 2524	Priority: 9	State: Wait.
+	- ThreadId: 16472	Priority: 8	State: Wait.
+	- ThreadId: 8760	Priority: 10	State: Wait.
+	- ThreadId: 3588	Priority: 8	State: Wait.
+	- ThreadId: 1192	Priority: 8	State: Wait.
+	- ThreadId: 18456	Priority: 8	State: Wait.
+	- ThreadId: 19056	Priority: 8	State: Wait.
+	- ThreadId: 18776	Priority: 8	State: Wait.
+	- ThreadId: 16656	Priority: 8	State: Wait.
+	- ThreadId: 14396	Priority: 9	State: Wait.
+	- ThreadId: 7776	Priority: 8	State: Wait.
+	- ThreadId: 16096	Priority: 8	State: Wait.
+	- ThreadId: 7668	Priority: 8	State: Wait.
+	- ThreadId: 15808	Priority: 8	State: Wait.
+	- ThreadId: 7272	Priority: 8	State: Wait.
+	- ThreadId: 15928	Priority: 8	State: Wait.
+	- ThreadId: 15100	Priority: 8	State: Wait.
+- PID: 6940	Name: conhost.
+	- ThreadId: 16308	Priority: 8	State: Wait.
+	- ThreadId: 14112	Priority: 8	State: Wait.
+- PID: 1768	Name: ServiceHub.VSDetouredHost.
+	- ThreadId: 11828	Priority: 8	State: Wait.
+	- ThreadId: 15996	Priority: 8	State: Wait.
+	- ThreadId: 10156	Priority: 10	State: Wait.
+	- ThreadId: 12776	Priority: 8	State: Wait.
+	- ThreadId: 2540	Priority: 9	State: Wait.
+	- ThreadId: 17272	Priority: 8	State: Wait.
+	- ThreadId: 12892	Priority: 8	State: Wait.
+	- ThreadId: 17936	Priority: 8	State: Wait.
+	- ThreadId: 12716	Priority: 9	State: Wait.
+	- ThreadId: 19192	Priority: 9	State: Wait.
+- PID: 10628	Name: conhost.
+	- ThreadId: 16072	Priority: 8	State: Wait.
+	- ThreadId: 3584	Priority: 9	State: Wait.
+- PID: 16416	Name: ServiceHub.IdentityHost.
+	- ThreadId: 18324	Priority: 8	State: Wait.
+	- ThreadId: 17552	Priority: 8	State: Wait.
+	- ThreadId: 10360	Priority: 10	State: Wait.
+	- ThreadId: 7524	Priority: 8	State: Wait.
+	- ThreadId: 10312	Priority: 8	State: Wait.
+	- ThreadId: 5084	Priority: 8	State: Wait.
+	- ThreadId: 2240	Priority: 9	State: Wait.
+	- ThreadId: 17396	Priority: 8	State: Wait.
+	- ThreadId: 16340	Priority: 9	State: Wait.
+	- ThreadId: 14140	Priority: 8	State: Wait.
+	- ThreadId: 7268	Priority: 8	State: Wait.
+	- ThreadId: 17440	Priority: 8	State: Wait.
+	- ThreadId: 13748	Priority: 8	State: Wait.
+	- ThreadId: 13908	Priority: 8	State: Wait.
+	- ThreadId: 4988	Priority: 8	State: Wait.
+	- ThreadId: 12216	Priority: 8	State: Wait.
+	- ThreadId: 8136	Priority: 8	State: Wait.
+	- ThreadId: 15452	Priority: 9	State: Wait.
+	- ThreadId: 9676	Priority: 8	State: Wait.
+	- ThreadId: 19180	Priority: 9	State: Wait.
+- PID: 17428	Name: conhost.
+	- ThreadId: 2116	Priority: 8	State: Wait.
+	- ThreadId: 7836	Priority: 8	State: Wait.
+- PID: 8036	Name: ServiceHub.TestWindowStoreHost.
+	- ThreadId: 17164	Priority: 8	State: Wait.
+	- ThreadId: 6212	Priority: 8	State: Wait.
+	- ThreadId: 5440	Priority: 10	State: Wait.
+	- ThreadId: 16860	Priority: 8	State: Wait.
+	- ThreadId: 2576	Priority: 8	State: Wait.
+	- ThreadId: 9796	Priority: 9	State: Wait.
+	- ThreadId: 16396	Priority: 9	State: Wait.
+	- ThreadId: 11696	Priority: 10	State: Wait.
+	- ThreadId: 7988	Priority: 10	State: Wait.
+	- ThreadId: 9424	Priority: 8	State: Wait.
+	- ThreadId: 16124	Priority: 8	State: Wait.
+	- ThreadId: 12360	Priority: 8	State: Wait.
+	- ThreadId: 11568	Priority: 10	State: Wait.
+	- ThreadId: 7364	Priority: 8	State: Wait.
+	- ThreadId: 5500	Priority: 9	State: Wait.
+	- ThreadId: 12232	Priority: 9	State: Wait.
+	- ThreadId: 14108	Priority: 8	State: Wait.
+	- ThreadId: 18844	Priority: 9	State: Wait.
+	- ThreadId: 2168	Priority: 8	State: Wait.
+	- ThreadId: 14516	Priority: 9	State: Wait.
+	- ThreadId: 16708	Priority: 8	State: Wait.
+	- ThreadId: 3544	Priority: 8	State: Wait.
+	- ThreadId: 5484	Priority: 8	State: Wait.
+	- ThreadId: 2420	Priority: 9	State: Wait.
+	- ThreadId: 7336	Priority: 9	State: Wait.
+	- ThreadId: 11224	Priority: 8	State: Wait.
+	- ThreadId: 10708	Priority: 8	State: Wait.
+	- ThreadId: 8812	Priority: 9	State: Wait.
+	- ThreadId: 14776	Priority: 8	State: Wait.
+	- ThreadId: 16744	Priority: 8	State: Wait.
+	- ThreadId: 11060	Priority: 9	State: Wait.
+- PID: 18112	Name: conhost.
+	- ThreadId: 1980	Priority: 8	State: Wait.
+	- ThreadId: 6612	Priority: 9	State: Wait.
+- PID: 4588	Name: ServiceHub.SettingsHost.
+	- ThreadId: 14932	Priority: 8	State: Wait.
+	- ThreadId: 2772	Priority: 8	State: Wait.
+	- ThreadId: 4744	Priority: 10	State: Wait.
+	- ThreadId: 12784	Priority: 8	State: Wait.
+	- ThreadId: 9720	Priority: 8	State: Wait.
+	- ThreadId: 592	Priority: 9	State: Wait.
+	- ThreadId: 14948	Priority: 8	State: Wait.
+	- ThreadId: 12092	Priority: 8	State: Wait.
+	- ThreadId: 8564	Priority: 9	State: Wait.
+	- ThreadId: 14608	Priority: 8	State: Wait.
+	- ThreadId: 14456	Priority: 8	State: Wait.
+	- ThreadId: 10932	Priority: 8	State: Wait.
+	- ThreadId: 7676	Priority: 8	State: Wait.
+	- ThreadId: 11592	Priority: 9	State: Wait.
+	- ThreadId: 10040	Priority: 9	State: Wait.
+	- ThreadId: 19048	Priority: 9	State: Wait.
+	- ThreadId: 2124	Priority: 9	State: Wait.
+	- ThreadId: 8716	Priority: 9	State: Wait.
+	- ThreadId: 15652	Priority: 9	State: Wait.
+	- ThreadId: 14412	Priority: 9	State: Wait.
+	- ThreadId: 17980	Priority: 9	State: Wait.
+	- ThreadId: 900	Priority: 9	State: Wait.
+	- ThreadId: 18716	Priority: 9	State: Wait.
+	- ThreadId: 6704	Priority: 9	State: Wait.
+	- ThreadId: 10940	Priority: 9	State: Wait.
+- PID: 8224	Name: conhost.
+	- ThreadId: 9516	Priority: 8	State: Wait.
+	- ThreadId: 15432	Priority: 8	State: Wait.
+- PID: 11716	Name: ServiceHub.Host.CLR.x86.
+	- ThreadId: 13852	Priority: 8	State: Wait.
+	- ThreadId: 11860	Priority: 8	State: Wait.
+	- ThreadId: 7180	Priority: 10	State: Wait.
+	- ThreadId: 9992	Priority: 8	State: Wait.
+	- ThreadId: 13968	Priority: 8	State: Wait.
+	- ThreadId: 872	Priority: 9	State: Wait.
+	- ThreadId: 17572	Priority: 9	State: Wait.
+	- ThreadId: 10652	Priority: 8	State: Wait.
+	- ThreadId: 11852	Priority: 9	State: Wait.
+- PID: 12636	Name: conhost.
+	- ThreadId: 15132	Priority: 8	State: Wait.
+	- ThreadId: 8572	Priority: 9	State: Wait.
+- PID: 9068	Name: audiodg.
+	- ThreadId: 5108	Priority: 8	State: Wait.
+	- ThreadId: 2272	Priority: 8	State: Wait.
+	- ThreadId: 14692	Priority: 8	State: Wait.
+	- ThreadId: 15488	Priority: 9	State: Wait.
+	- ThreadId: 10904	Priority: 15	State: Wait.
+	- ThreadId: 14328	Priority: 8	State: Wait.
+	- ThreadId: 12664	Priority: 16	State: Wait.
+	- ThreadId: 7856	Priority: 22	State: Wait.
+	- ThreadId: 3096	Priority: 22	State: Wait.
+- PID: 12524	Name: firefox.
+	- ThreadId: 2932	Priority: 8	State: Running.
+	- ThreadId: 9528	Priority: 10	State: Wait.
+	- ThreadId: 8584	Priority: 10	State: Wait.
+	- ThreadId: 4664	Priority: 8	State: Wait.
+	- ThreadId: 14352	Priority: 9	State: Wait.
+	- ThreadId: 5136	Priority: 9	State: Wait.
+	- ThreadId: 2472	Priority: 9	State: Wait.
+	- ThreadId: 7480	Priority: 9	State: Wait.
+	- ThreadId: 16736	Priority: 9	State: Wait.
+	- ThreadId: 17028	Priority: 9	State: Wait.
+	- ThreadId: 17364	Priority: 9	State: Wait.
+	- ThreadId: 15728	Priority: 9	State: Wait.
+	- ThreadId: 15512	Priority: 8	State: Wait.
+	- ThreadId: 6368	Priority: 9	State: Wait.
+	- ThreadId: 1672	Priority: 8	State: Wait.
+	- ThreadId: 12076	Priority: 8	State: Wait.
+	- ThreadId: 16508	Priority: 9	State: Wait.
+	- ThreadId: 4556	Priority: 8	State: Wait.
+	- ThreadId: 10464	Priority: 8	State: Wait.
+	- ThreadId: 10772	Priority: 8	State: Wait.
+	- ThreadId: 14700	Priority: 8	State: Wait.
+	- ThreadId: 11108	Priority: 9	State: Wait.
+	- ThreadId: 18460	Priority: 8	State: Wait.
+	- ThreadId: 18464	Priority: 8	State: Wait.
+	- ThreadId: 19304	Priority: 8	State: Wait.
+	- ThreadId: 19308	Priority: 8	State: Wait.
+	- ThreadId: 19212	Priority: 8	State: Wait.
+	- ThreadId: 3112	Priority: 8	State: Wait.
+	- ThreadId: 8820	Priority: 8	State: Wait.
+	- ThreadId: 16712	Priority: 8	State: Wait.
+	- ThreadId: 17228	Priority: 9	State: Wait.
+	- ThreadId: 14904	Priority: 9	State: Wait.
+	- ThreadId: 19176	Priority: 9	State: Wait.
+	- ThreadId: 17672	Priority: 9	State: Wait.
+	- ThreadId: 10128	Priority: 9	State: Wait.
+	- ThreadId: 19068	Priority: 9	State: Wait.
+	- ThreadId: 13844	Priority: 9	State: Wait.
+	- ThreadId: 1632	Priority: 8	State: Wait.
+- PID: 3952	Name: firefox.
+	- ThreadId: 17928	Priority: 5	State: Wait.
+	- ThreadId: 7188	Priority: 6	State: Wait.
+	- ThreadId: 4072	Priority: 4	State: Wait.
+	- ThreadId: 16304	Priority: 4	State: Wait.
+	- ThreadId: 10560	Priority: 4	State: Wait.
+	- ThreadId: 7228	Priority: 4	State: Wait.
+	- ThreadId: 9568	Priority: 4	State: Wait.
+	- ThreadId: 2528	Priority: 4	State: Wait.
+	- ThreadId: 5480	Priority: 4	State: Wait.
+	- ThreadId: 1908	Priority: 4	State: Wait.
+	- ThreadId: 2592	Priority: 4	State: Wait.
+	- ThreadId: 13492	Priority: 4	State: Wait.
+	- ThreadId: 18328	Priority: 4	State: Wait.
+	- ThreadId: 12956	Priority: 4	State: Wait.
+	- ThreadId: 4724	Priority: 4	State: Wait.
+	- ThreadId: 16460	Priority: 4	State: Wait.
+	- ThreadId: 4108	Priority: 4	State: Wait.
+	- ThreadId: 16344	Priority: 4	State: Wait.
+	- ThreadId: 9016	Priority: 4	State: Wait.
+	- ThreadId: 9652	Priority: 4	State: Wait.
+	- ThreadId: 15284	Priority: 4	State: Wait.
+	- ThreadId: 1064	Priority: 4	State: Wait.
+	- ThreadId: 9344	Priority: 4	State: Wait.
+	- ThreadId: 18284	Priority: 4	State: Wait.
+	- ThreadId: 15984	Priority: 4	State: Wait.
+	- ThreadId: 4404	Priority: 4	State: Wait.
+	- ThreadId: 16108	Priority: 4	State: Wait.
+	- ThreadId: 4152	Priority: 4	State: Wait.
+	- ThreadId: 9384	Priority: 4	State: Wait.
+	- ThreadId: 10504	Priority: 4	State: Wait.
+	- ThreadId: 8772	Priority: 4	State: Wait.
+	- ThreadId: 17860	Priority: 4	State: Wait.
+	- ThreadId: 12020	Priority: 4	State: Wait.
+	- ThreadId: 3328	Priority: 4	State: Wait.
+	- ThreadId: 11460	Priority: 4	State: Wait.
+	- ThreadId: 14988	Priority: 4	State: Wait.
+	- ThreadId: 1480	Priority: 4	State: Wait.
+	- ThreadId: 11768	Priority: 4	State: Wait.
+- PID: 17580	Name: ServiceHub.ThreadedWaitDialog.
+	- ThreadId: 12036	Priority: 8	State: Wait.
+	- ThreadId: 18304	Priority: 8	State: Wait.
+	- ThreadId: 10612	Priority: 10	State: Wait.
+	- ThreadId: 14580	Priority: 9	State: Wait.
+	- ThreadId: 7140	Priority: 8	State: Wait.
+	- ThreadId: 12316	Priority: 8	State: Wait.
+	- ThreadId: 9656	Priority: 10	State: Wait.
+	- ThreadId: 13772	Priority: 9	State: Wait.
+	- ThreadId: 11824	Priority: 9	State: Wait.
+	- ThreadId: 5984	Priority: 9	State: Wait.
+- PID: 14244	Name: conhost.
+	- ThreadId: 8796	Priority: 8	State: Wait.
+	- ThreadId: 4980	Priority: 9	State: Wait.
+- PID: 18056	Name: ServiceHub.RoslynCodeAnalysisService.
+	- ThreadId: 16524	Priority: 6	State: Wait.
+	- ThreadId: 692	Priority: 6	State: Wait.
+	- ThreadId: 3048	Priority: 8	State: Wait.
+	- ThreadId: 2340	Priority: 6	State: Wait.
+	- ThreadId: 17268	Priority: 6	State: Wait.
+	- ThreadId: 17844	Priority: 6	State: Wait.
+	- ThreadId: 18212	Priority: 6	State: Wait.
+	- ThreadId: 6172	Priority: 6	State: Wait.
+	- ThreadId: 10484	Priority: 6	State: Wait.
+	- ThreadId: 6248	Priority: 6	State: Wait.
+	- ThreadId: 13992	Priority: 6	State: Wait.
+	- ThreadId: 5032	Priority: 6	State: Wait.
+	- ThreadId: 8916	Priority: 6	State: Wait.
+	- ThreadId: 5012	Priority: 8	State: Wait.
+	- ThreadId: 13832	Priority: 7	State: Wait.
+	- ThreadId: 6028	Priority: 7	State: Wait.
+	- ThreadId: 11820	Priority: 6	State: Wait.
+	- ThreadId: 16444	Priority: 6	State: Wait.
+	- ThreadId: 11672	Priority: 7	State: Wait.
+	- ThreadId: 16252	Priority: 7	State: Wait.
+	- ThreadId: 4192	Priority: 7	State: Wait.
+- PID: 180	Name: conhost.
+	- ThreadId: 9588	Priority: 8	State: Wait.
+	- ThreadId: 4156	Priority: 8	State: Wait.
+- PID: 4952	Name: vstest.console.
+	- ThreadId: 17880	Priority: 8	State: Wait.
+	- ThreadId: 17460	Priority: 8	State: Wait.
+	- ThreadId: 2084	Priority: 10	State: Wait.
+	- ThreadId: 8156	Priority: 10	State: Wait.
+	- ThreadId: 1572	Priority: 8	State: Wait.
+	- ThreadId: 18984	Priority: 9	State: Wait.
+- PID: 8984	Name: conhost.
+	- ThreadId: 15492	Priority: 8	State: Wait.
+	- ThreadId: 7644	Priority: 8	State: Wait.
+- PID: 1196	Name: MSBuild.
+	- ThreadId: 13824	Priority: 9	State: Wait.
+	- ThreadId: 18008	Priority: 8	State: Wait.
+	- ThreadId: 10120	Priority: 10	State: Wait.
+	- ThreadId: 12324	Priority: 9	State: Wait.
+	- ThreadId: 13780	Priority: 9	State: Wait.
+	- ThreadId: 12116	Priority: 9	State: Wait.
+	- ThreadId: 15340	Priority: 9	State: Wait.
+	- ThreadId: 4088	Priority: 8	State: Wait.
+	- ThreadId: 6644	Priority: 9	State: Wait.
+- PID: 1692	Name: conhost.
+	- ThreadId: 6132	Priority: 8	State: Wait.
+	- ThreadId: 3708	Priority: 8	State: Wait.
+- PID: 1396	Name: MSBuild.
+	- ThreadId: 6928	Priority: 8	State: Wait.
+	- ThreadId: 2312	Priority: 8	State: Wait.
+	- ThreadId: 13764	Priority: 10	State: Wait.
+	- ThreadId: 18120	Priority: 9	State: Wait.
+	- ThreadId: 5436	Priority: 8	State: Wait.
+	- ThreadId: 18068	Priority: 8	State: Wait.
+	- ThreadId: 10272	Priority: 9	State: Wait.
+- PID: 5800	Name: conhost.
+	- ThreadId: 16300	Priority: 8	State: Wait.
+	- ThreadId: 8712	Priority: 8	State: Wait.
+- PID: 3832	Name: MSBuild.
+	- ThreadId: 12332	Priority: 8	State: Wait.
+	- ThreadId: 8904	Priority: 8	State: Wait.
+	- ThreadId: 8264	Priority: 10	State: Wait.
+	- ThreadId: 18384	Priority: 9	State: Wait.
+	- ThreadId: 13580	Priority: 8	State: Wait.
+	- ThreadId: 8128	Priority: 8	State: Wait.
+	- ThreadId: 17340	Priority: 9	State: Wait.
+- PID: 4428	Name: conhost.
+	- ThreadId: 3364	Priority: 8	State: Wait.
+	- ThreadId: 6380	Priority: 8	State: Wait.
+- PID: 816	Name: MSBuild.
+	- ThreadId: 10792	Priority: 9	State: Wait.
+	- ThreadId: 11480	Priority: 8	State: Wait.
+	- ThreadId: 13888	Priority: 10	State: Wait.
+	- ThreadId: 12756	Priority: 9	State: Wait.
+	- ThreadId: 11764	Priority: 9	State: Wait.
+	- ThreadId: 7348	Priority: 9	State: Wait.
+	- ThreadId: 8824	Priority: 8	State: Wait.
+	- ThreadId: 10160	Priority: 8	State: Wait.
+	- ThreadId: 11780	Priority: 8	State: Wait.
+	- ThreadId: 18024	Priority: 9	State: Wait.
+- PID: 2712	Name: conhost.
+	- ThreadId: 13028	Priority: 8	State: Wait.
+	- ThreadId: 16960	Priority: 8	State: Wait.
+- PID: 6720	Name: ServiceHub.Host.CLR.x86.
+	- ThreadId: 15736	Priority: 8	State: Wait.
+	- ThreadId: 14636	Priority: 8	State: Wait.
+	- ThreadId: 6500	Priority: 10	State: Wait.
+	- ThreadId: 3920	Priority: 9	State: Wait.
+	- ThreadId: 11204	Priority: 9	State: Wait.
+	- ThreadId: 14356	Priority: 9	State: Wait.
+	- ThreadId: 17852	Priority: 8	State: Wait.
+	- ThreadId: 15888	Priority: 8	State: Wait.
+	- ThreadId: 10632	Priority: 9	State: Wait.
+	- ThreadId: 16696	Priority: 9	State: Wait.
+	- ThreadId: 5532	Priority: 9	State: Wait.
+	- ThreadId: 18980	Priority: 9	State: Wait.
+- PID: 8196	Name: conhost.
+	- ThreadId: 17288	Priority: 8	State: Wait.
+	- ThreadId: 1936	Priority: 9	State: Wait.
+- PID: 3572	Name: ServiceHub.Host.CLR.x86.
+	- ThreadId: 14124	Priority: 8	State: Wait.
+	- ThreadId: 18244	Priority: 8	State: Wait.
+	- ThreadId: 12296	Priority: 10	State: Wait.
+	- ThreadId: 848	Priority: 8	State: Wait.
+	- ThreadId: 6376	Priority: 8	State: Wait.
+	- ThreadId: 10524	Priority: 8	State: Wait.
+	- ThreadId: 15008	Priority: 8	State: Wait.
+	- ThreadId: 6736	Priority: 8	State: Wait.
+	- ThreadId: 13384	Priority: 8	State: Wait.
+	- ThreadId: 18756	Priority: 8	State: Wait.
+	- ThreadId: 18760	Priority: 8	State: Wait.
+	- ThreadId: 18764	Priority: 8	State: Wait.
+	- ThreadId: 18788	Priority: 8	State: Wait.
+	- ThreadId: 18792	Priority: 8	State: Wait.
+	- ThreadId: 18800	Priority: 8	State: Wait.
+	- ThreadId: 18804	Priority: 8	State: Wait.
+	- ThreadId: 18808	Priority: 8	State: Wait.
+	- ThreadId: 18780	Priority: 8	State: Wait.
+	- ThreadId: 2868	Priority: 10	State: Wait.
+	- ThreadId: 17112	Priority: 10	State: Wait.
+	- ThreadId: 18108	Priority: 9	State: Wait.
+	- ThreadId: 11816	Priority: 8	State: Wait.
+	- ThreadId: 14760	Priority: 10	State: Wait.
+	- ThreadId: 14388	Priority: 10	State: Wait.
+	- ThreadId: 8932	Priority: 9	State: Wait.
+	- ThreadId: 12692	Priority: 9	State: Wait.
+	- ThreadId: 11732	Priority: 9	State: Wait.
+	- ThreadId: 4916	Priority: 9	State: Wait.
+	- ThreadId: 16748	Priority: 9	State: Wait.
+	- ThreadId: 13676	Priority: 9	State: Wait.
+- PID: 10352	Name: conhost.
+	- ThreadId: 7184	Priority: 8	State: Wait.
+	- ThreadId: 15112	Priority: 9	State: Wait.
+- PID: 6356	Name: VBCSCompiler.
+	- ThreadId: 13360	Priority: 9	State: Wait.
+	- ThreadId: 14196	Priority: 8	State: Wait.
+	- ThreadId: 13372	Priority: 11	State: Wait.
+	- ThreadId: 4800	Priority: 11	State: Wait.
+	- ThreadId: 8612	Priority: 11	State: Wait.
+	- ThreadId: 15724	Priority: 11	State: Wait.
+	- ThreadId: 16812	Priority: 11	State: Wait.
+	- ThreadId: 9628	Priority: 11	State: Wait.
+	- ThreadId: 3476	Priority: 11	State: Wait.
+	- ThreadId: 14056	Priority: 11	State: Wait.
+	- ThreadId: 18256	Priority: 11	State: Wait.
+	- ThreadId: 13528	Priority: 11	State: Wait.
+	- ThreadId: 10368	Priority: 11	State: Wait.
+	- ThreadId: 9044	Priority: 11	State: Wait.
+	- ThreadId: 1932	Priority: 10	State: Wait.
+	- ThreadId: 17608	Priority: 9	State: Wait.
+	- ThreadId: 6640	Priority: 8	State: Wait.
+	- ThreadId: 1604	Priority: 8	State: Wait.
+	- ThreadId: 4480	Priority: 9	State: Wait.
+	- ThreadId: 15276	Priority: 8	State: Wait.
+	- ThreadId: 18956	Priority: 8	State: Wait.
+	- ThreadId: 18572	Priority: 9	State: Wait.
+- PID: 15256	Name: conhost.
+	- ThreadId: 3024	Priority: 8	State: Wait.
+	- ThreadId: 5548	Priority: 8	State: Wait.
+- PID: 324	Name: ServiceHub.DataWarehouseHost.
+	- ThreadId: 10168	Priority: 8	State: Wait.
+	- ThreadId: 1116	Priority: 8	State: Wait.
+	- ThreadId: 14780	Priority: 10	State: Wait.
+	- ThreadId: 5308	Priority: 8	State: Wait.
+	- ThreadId: 1008	Priority: 8	State: Wait.
+	- ThreadId: 15852	Priority: 10	State: Wait.
+	- ThreadId: 3600	Priority: 8	State: Wait.
+	- ThreadId: 18860	Priority: 8	State: Wait.
+	- ThreadId: 18864	Priority: 9	State: Wait.
+	- ThreadId: 18868	Priority: 9	State: Wait.
+	- ThreadId: 18872	Priority: 9	State: Wait.
+	- ThreadId: 18876	Priority: 9	State: Wait.
+	- ThreadId: 18880	Priority: 9	State: Wait.
+	- ThreadId: 18884	Priority: 9	State: Wait.
+	- ThreadId: 18888	Priority: 9	State: Wait.
+	- ThreadId: 18892	Priority: 9	State: Wait.
+	- ThreadId: 18896	Priority: 8	State: Wait.
+	- ThreadId: 18900	Priority: 9	State: Wait.
+	- ThreadId: 18904	Priority: 9	State: Wait.
+	- ThreadId: 18908	Priority: 8	State: Wait.
+	- ThreadId: 18912	Priority: 9	State: Wait.
+	- ThreadId: 18916	Priority: 9	State: Wait.
+	- ThreadId: 18920	Priority: 9	State: Wait.
+	- ThreadId: 18924	Priority: 9	State: Wait.
+	- ThreadId: 18928	Priority: 9	State: Wait.
+	- ThreadId: 18932	Priority: 9	State: Wait.
+	- ThreadId: 18936	Priority: 9	State: Wait.
+	- ThreadId: 18940	Priority: 8	State: Wait.
+	- ThreadId: 18944	Priority: 8	State: Wait.
+	- ThreadId: 18948	Priority: 9	State: Wait.
+	- ThreadId: 18952	Priority: 8	State: Wait.
+	- ThreadId: 18988	Priority: 9	State: Wait.
+	- ThreadId: 19000	Priority: 8	State: Wait.
+	- ThreadId: 19004	Priority: 9	State: Wait.
+	- ThreadId: 19144	Priority: 8	State: Wait.
+	- ThreadId: 19148	Priority: 8	State: Wait.
+	- ThreadId: 19156	Priority: 8	State: Wait.
+	- ThreadId: 19160	Priority: 8	State: Wait.
+	- ThreadId: 19292	Priority: 8	State: Wait.
+	- ThreadId: 3828	Priority: 8	State: Wait.
+	- ThreadId: 13052	Priority: 8	State: Wait.
+	- ThreadId: 688	Priority: 8	State: Wait.
+	- ThreadId: 12068	Priority: 9	State: Wait.
+	- ThreadId: 14872	Priority: 8	State: Wait.
+	- ThreadId: 1864	Priority: 9	State: Wait.
+	- ThreadId: 1108	Priority: 8	State: Wait.
+	- ThreadId: 14600	Priority: 8	State: Wait.
+	- ThreadId: 1464	Priority: 8	State: Wait.
+	- ThreadId: 18960	Priority: 8	State: Wait.
+	- ThreadId: 18820	Priority: 8	State: Wait.
+	- ThreadId: 4720	Priority: 9	State: Wait.
+	- ThreadId: 18732	Priority: 8	State: Wait.
+	- ThreadId: 18196	Priority: 8	State: Wait.
+	- ThreadId: 5432	Priority: 8	State: Wait.
+	- ThreadId: 4468	Priority: 8	State: Wait.
+	- ThreadId: 15524	Priority: 8	State: Wait.
+	- ThreadId: 2812	Priority: 8	State: Wait.
+	- ThreadId: 3172	Priority: 8	State: Wait.
+	- ThreadId: 2820	Priority: 9	State: Wait.
+	- ThreadId: 4476	Priority: 9	State: Wait.
+	- ThreadId: 9760	Priority: 9	State: Wait.
+	- ThreadId: 16636	Priority: 9	State: Wait.
+	- ThreadId: 12492	Priority: 9	State: Wait.
+	- ThreadId: 14900	Priority: 9	State: Wait.
+- PID: 1780	Name: conhost.
+	- ThreadId: 17720	Priority: 8	State: Wait.
+	- ThreadId: 6168	Priority: 9	State: Wait.
+- PID: 2044	Name: SearchProtocolHost.
+	- ThreadId: 18036	Priority: 4	State: Wait.
+	- ThreadId: 6692	Priority: 5	State: Wait.
+	- ThreadId: 824	Priority: 5	State: Wait.
+	- ThreadId: 18392	Priority: 5	State: Wait.
+	- ThreadId: 16024	Priority: 4	State: Wait.
+	- ThreadId: 7624	Priority: 4	State: Wait.
+- PID: 9340	Name: svchost.
+	- ThreadId: 18848	Priority: 9	State: Wait.
+	- ThreadId: 6328	Priority: 8	State: Wait.
+- PID: 16876	Name: notepad++.
+	- ThreadId: 17096	Priority: 10	State: Wait.
+	- ThreadId: 15364	Priority: 8	State: Wait.
+	- ThreadId: 14176	Priority: 8	State: Wait.
+	- ThreadId: 9936	Priority: 8	State: Wait.
+- PID: 18500	Name: Teams.
+	- ThreadId: 4776	Priority: 8	State: Wait.
+	- ThreadId: 5232	Priority: 8	State: Wait.
+	- ThreadId: 9276	Priority: 8	State: Wait.
+	- ThreadId: 3176	Priority: 6	State: Wait.
+	- ThreadId: 6388	Priority: 1

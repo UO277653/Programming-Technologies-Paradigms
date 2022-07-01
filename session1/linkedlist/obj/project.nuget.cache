@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9LZJsEDNCwWcJixtI7+qkzyfIafIx7+uTsNwYabO7Tc3Hv6SoT+oOpiaCGn/6WtQQZoTKMogC52OioeS17bJHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\OneDrive\\Escritorio\\UNIVERSIDAD\\AÑO 2\\SEMESTRE 2\\TPP\\Lab\\Session 1\\lab1repos\\session1\\linkedlist\\linkedlist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

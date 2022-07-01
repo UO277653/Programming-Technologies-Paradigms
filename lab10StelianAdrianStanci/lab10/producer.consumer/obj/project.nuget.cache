@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eW+C67uZT00cyU9BAP9eArfT+5FUJ1cvJaeX3PBg3Dh35c7yO5PO+0WJCcxc2sC8ulHkaxmK9ElRIbnxHPGLxA==",
+  "success": true,
+  "projectFilePath": "E:\\Exam2_Material\\lab10StelianAdrianStanci\\lab10\\producer.consumer\\producer.consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

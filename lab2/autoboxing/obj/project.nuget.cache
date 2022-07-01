@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mNhhlRmKkzOU9YqxMI64r/3P+iXcaVD8t8zQMqTmODn4mUzfcRZeXGIZU1+Bi7qpHRmLuLE0yc2qSUwh8UL59A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adria\\OneDrive\\Escritorio\\UNIVERSIDAD\\AÑO 2\\SEMESTRE 2\\TPP\\Lab\\Session 2\\lab2\\autoboxing\\autoboxing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
